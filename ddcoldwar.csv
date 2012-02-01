@@ -1,0 +1,1870 @@
+"","ctryname","cowcode","un_region_name","un_continent_name","ehead","tenure08","democracy","stra","edate3","ecens2","enddate","coldwar"
+"1","Afghanistan",700,"Southern Asia","Asia","Babrak Karmal",6,"Non-democracy",0,1979,1,1984,TRUE
+"4","Afghanistan",700,"Southern Asia","Asia","Mohammad Zahir Shah",10,"Non-democracy",0,1963,1,1972,TRUE
+"5","Afghanistan",700,"Southern Asia","Asia","Mohammad Zahir Shah",20,"Non-democracy",0,1933,1,1952,TRUE
+"8","Afghanistan",700,"Southern Asia","Asia","Nur Mohammad Taraki",1,"Non-democracy",0,1978,0,1978,TRUE
+"9","Afghanistan",700,"Southern Asia","Asia","Sardar Mohammad Daoud",5,"Non-democracy",0,1973,0,1977,TRUE
+"10","Afghanistan",700,"Southern Asia","Asia","Sardar Mohammad Daoud",10,"Non-democracy",0,1953,1,1962,TRUE
+"12","Albania",339,"Southern Europe","Europe","Enver Hoxha",41,"Non-democracy",0,1944,0,1984,TRUE
+"21","Algeria",615,"Northern Africa","Africa","Ahmed Ben Bella",3,"Non-democracy",0,1962,1,1964,TRUE
+"23","Algeria",615,"Northern Africa","Africa","Houari Boumedienne",13,"Non-democracy",0,1965,0,1977,TRUE
+"25","Algeria",615,"Northern Africa","Africa","military",1,"Non-democracy",0,1978,1,1978,TRUE
+"30","Angola",540,"Middle Africa","Africa","Agostinho Neto",4,"Non-democracy",0,1975,0,1978,TRUE
+"35","Argentina",160,"South America","Americas","Alejandro Agustan Lanusse",2,"Non-democracy",4,1971,1,1972,TRUE
+"36","Argentina",160,"South America","Americas","Arturo Frondizi",4,"Democracy",2,1958,1,1961,TRUE
+"37","Argentina",160,"South America","Americas","Arturo Umberto Illia",3,"Democracy",3,1963,1,1965,TRUE
+"43","Argentina",160,"South America","Americas","Isabel Peron",2,"Democracy",4,1974,1,1975,TRUE
+"44","Argentina",160,"South America","Americas","Jorge Rafael Videla",5,"Non-democracy",5,1976,1,1980,TRUE
+"45","Argentina",160,"South America","Americas","Juan Carlos Ongania",4,"Non-democracy",4,1966,1,1969,TRUE
+"46","Argentina",160,"South America","Americas","Juan Peron",1,"Democracy",4,1973,0,1973,TRUE
+"47","Argentina",160,"South America","Americas","Juan Peron",9,"Democracy",1,1946,1,1954,TRUE
+"48","Argentina",160,"South America","Americas","Leopoldo Galtieri",1,"Non-democracy",5,1981,1,1981,TRUE
+"49","Argentina",160,"South America","Americas","Military",1,"Non-democracy",3,1962,1,1962,TRUE
+"51","Argentina",160,"South America","Americas","Pedro Eugenio Aramburu Cilveti",3,"Non-democracy",2,1955,1,1957,TRUE
+"52","Argentina",160,"South America","Americas","Raul Alfonsin",6,"Democracy",5,1983,1,1988,TRUE
+"53","Argentina",160,"South America","Americas","Reynaldo Bignone",1,"Non-democracy",5,1982,1,1982,TRUE
+"54","Argentina",160,"South America","Americas","Roberto Marcelo Levingston",1,"Non-democracy",4,1970,1,1970,TRUE
+"64","Australia",900,"Australia and New Zealand","Oceania","E. Gough Whitlam",3,"Democracy",0,1972,1,1974,TRUE
+"65","Australia",900,"Australia and New Zealand","Oceania","Harold Holt",1,"Democracy",0,1966,0,1966,TRUE
+"66","Australia",900,"Australia and New Zealand","Oceania","John Gorton",3,"Democracy",0,1968,1,1970,TRUE
+"68","Australia",900,"Australia and New Zealand","Oceania","John McEwan",1,"Democracy",0,1967,1,1967,TRUE
+"69","Australia",900,"Australia and New Zealand","Oceania","Joseph Chifley",4,"Democracy",0,1945,1,1948,TRUE
+"71","Australia",900,"Australia and New Zealand","Oceania","Malcom Fraser",8,"Democracy",0,1975,1,1982,TRUE
+"74","Australia",900,"Australia and New Zealand","Oceania","Robert Menzies",17,"Democracy",0,1949,1,1965,TRUE
+"75","Australia",900,"Australia and New Zealand","Oceania","William McMahon",1,"Democracy",0,1971,1,1971,TRUE
+"76","Austria",305,"Western Europe","Europe","Alfons Gorbach",3,"Democracy",1,1961,1,1963,TRUE
+"78","Austria",305,"Western Europe","Europe","Alfred Sinowatz",3,"Democracy",1,1983,1,1985,TRUE
+"79","Austria",305,"Western Europe","Europe","Bruno Kreisky",13,"Democracy",1,1970,1,1982,TRUE
+"81","Austria",305,"Western Europe","Europe","Josef Klaus",6,"Democracy",1,1964,1,1969,TRUE
+"82","Austria",305,"Western Europe","Europe","Julius Raab",8,"Democracy",1,1953,1,1960,TRUE
+"83","Austria",305,"Western Europe","Europe","Leopold Figl",8,"Democracy",1,1945,1,1952,TRUE
+"96","Bangladesh",771,"Southern Asia","Asia","Abdus Sattar",1,"Non-democracy",0,1981,1,1981,TRUE
+"97","Bangladesh",771,"Southern Asia","Asia","Abu Sadat Mohammad Sayem",2,"Non-democracy",0,1975,1,1976,TRUE
+"98","Bangladesh",771,"Southern Asia","Asia","Hossain Mohammad Ershad",8,"Democracy",0,1982,1,1989,TRUE
+"99","Bangladesh",771,"Southern Asia","Asia","Hossain Mohammad Ershad",8,"Non-democracy",0,1982,1,1989,TRUE
+"103","Bangladesh",771,"Southern Asia","Asia","Mujibur Rahman",3,"Non-democracy",0,1972,0,1974,TRUE
+"106","Bangladesh",771,"Southern Asia","Asia","Tajuddin Ahmed",1,"Non-democracy",0,1971,1,1971,TRUE
+"107","Bangladesh",771,"Southern Asia","Asia","Zia ur-Rahman",4,"Non-democracy",0,1977,0,1980,TRUE
+"108","Barbados",53,"Caribbean","Americas","Bernard St. John",1,"Democracy",0,1985,1,1985,TRUE
+"110","Barbados",53,"Caribbean","Americas","Errol Barrow",1,"Democracy",0,1986,0,1986,TRUE
+"111","Barbados",53,"Caribbean","Americas","Errol Barrow",15,"Democracy",0,1961,1,1975,TRUE
+"113","Barbados",53,"Caribbean","Americas","John Adams",9,"Democracy",0,1976,0,1984,TRUE
+"117","Belgium",211,"Western Europe","Europe","Achille van Acker",4,"Democracy",0,1954,1,1957,TRUE
+"118","Belgium",211,"Western Europe","Europe","Camille Huysmans",1,"Democracy",0,1946,1,1946,TRUE
+"119","Belgium",211,"Western Europe","Europe","Edmond Leburton",1,"Democracy",0,1973,1,1973,TRUE
+"120","Belgium",211,"Western Europe","Europe","Gaston Eyskens",1,"Democracy",0,1949,1,1949,TRUE
+"121","Belgium",211,"Western Europe","Europe","Gaston Eyskens",3,"Democracy",0,1958,1,1960,TRUE
+"122","Belgium",211,"Western Europe","Europe","Gaston Eyskens",5,"Democracy",0,1968,1,1972,TRUE
+"126","Belgium",211,"Western Europe","Europe","Jean van Houtte",2,"Democracy",0,1952,1,1953,TRUE
+"127","Belgium",211,"Western Europe","Europe","Joseph Pholien",2,"Democracy",0,1950,1,1951,TRUE
+"128","Belgium",211,"Western Europe","Europe","Leo Tindemans",4,"Democracy",0,1974,1,1977,TRUE
+"129","Belgium",211,"Western Europe","Europe","Paul-Henri Spaak",2,"Democracy",0,1947,1,1948,TRUE
+"130","Belgium",211,"Western Europe","Europe","Paul van den Boeynants",1,"Democracy",0,1978,1,1978,TRUE
+"131","Belgium",211,"Western Europe","Europe","Paul van den Boeynants",2,"Democracy",0,1966,1,1967,TRUE
+"132","Belgium",211,"Western Europe","Europe","Pierre Harmel",1,"Democracy",0,1965,1,1965,TRUE
+"133","Belgium",211,"Western Europe","Europe","Theodore Lefevre",4,"Democracy",0,1961,1,1964,TRUE
+"134","Belgium",211,"Western Europe","Europe","Wilfried Martens",2,"Democracy",0,1979,1,1980,TRUE
+"138","Belize",80,"Central America","Americas","George Cadle Price",23,"Democracy",0,1961,1,1983,TRUE
+"139","Belize",80,"Central America","Americas","Manuel Esquivel",5,"Democracy",0,1984,1,1988,TRUE
+"141","Benin",434,"Western Africa","Africa","Alphonse Alley",1,"Non-democracy",0,1967,1,1967,TRUE
+"142","Benin",434,"Western Africa","Africa","Christophe Soglo",4,"Non-democracy",0,1963,1,1966,TRUE
+"143","Benin",434,"Western Africa","Africa","Hubert Maga",2,"Non-democracy",0,1970,1,1971,TRUE
+"144","Benin",434,"Western Africa","Africa","Hubert Maga",3,"Non-democracy",0,1960,1,1962,TRUE
+"147","Benin",434,"Western Africa","Africa","military",2,"Non-democracy",0,1968,1,1969,TRUE
+"150","Bhutan",760,"Southern Asia","Asia","Jigme Dorji Wangchuk",20,"Non-democracy",0,1952,0,1971,TRUE
+"153","Bhutan",760,"Southern Asia","Asia","Jigme Wangchuk",26,"Non-democracy",0,1926,0,1951,TRUE
+"155","Bolivia",145,"South America","Americas","Alfredo Ovando Candia",1,"Non-democracy",0,1969,1,1969,TRUE
+"157","Bolivia",145,"South America","Americas","Celso Torrelio Villa",1,"Non-democracy",1,1981,1,1981,TRUE
+"158","Bolivia",145,"South America","Americas","David Padilla Arancibia",1,"Non-democracy",0,1978,1,1978,TRUE
+"160","Bolivia",145,"South America","Americas","Enrique Hertzog",2,"Non-democracy",0,1947,1,1948,TRUE
+"163","Bolivia",145,"South America","Americas","Hernan Siles Zuazo",3,"Democracy",1,1982,1,1984,TRUE
+"164","Bolivia",145,"South America","Americas","Hernan Siles Zuazo",4,"Non-democracy",0,1956,1,1959,TRUE
+"165","Bolivia",145,"South America","Americas","Hugo Ballivion Rojas",1,"Non-democracy",0,1951,1,1951,TRUE
+"167","Bolivia",145,"South America","Americas","Hugo Banzer Suarez",7,"Non-democracy",0,1971,1,1977,TRUE
+"171","Bolivia",145,"South America","Americas","Juan Torres Gonzalez",1,"Non-democracy",0,1970,1,1970,TRUE
+"172","Bolivia",145,"South America","Americas","Lidia Gueiler Tejada",1,"Democracy",0,1979,1,1979,TRUE
+"173","Bolivia",145,"South America","Americas","Luis Garcia Meza Tejada",1,"Non-democracy",1,1980,1,1980,TRUE
+"174","Bolivia",145,"South America","Americas","Mamerto Urriolagoitia",2,"Non-democracy",0,1949,1,1950,TRUE
+"175","Bolivia",145,"South America","Americas","Military",1,"Non-democracy",0,1946,1,1946,TRUE
+"176","Bolivia",145,"South America","Americas","Rene Barrientos Ortuno",2,"Non-democracy",0,1964,1,1965,TRUE
+"177","Bolivia",145,"South America","Americas","Rene Barrientos Ortuno",3,"Non-democracy",0,1966,0,1968,TRUE
+"178","Bolivia",145,"South America","Americas","Rene Barrientos Ortuno+Alfredo Ovando Candia",2,"Non-democracy",0,1965,1,1966,TRUE
+"179","Bolivia",145,"South America","Americas","Victor Paz Estenssoro",4,"Democracy",1,1952,1,1955,TRUE
+"180","Bolivia",145,"South America","Americas","Victor Paz Estenssoro",4,"Non-democracy",0,1952,1,1955,TRUE
+"193","Botswana",571,"Southern Africa","Africa","Seretse Khama",15,"Non-democracy",0,1965,0,1979,TRUE
+"195","Brazil",140,"South America","Americas","Artur da Costa e Silva",2,"Non-democracy",1,1967,1,1968,TRUE
+"196","Brazil",140,"South America","Americas","Emilio Medici",5,"Non-democracy",1,1969,1,1973,TRUE
+"197","Brazil",140,"South America","Americas","Ernesto Geisel",5,"Non-democracy",1,1974,1,1978,TRUE
+"198","Brazil",140,"South America","Americas","Eurico Dutra",5,"Democracy",0,1946,1,1950,TRUE
+"201","Brazil",140,"South America","Americas","Getulio Vargas",3,"Democracy",0,1951,0,1953,TRUE
+"202","Brazil",140,"South America","Americas","Hermes Lima",1,"Democracy",0,1962,1,1962,TRUE
+"203","Brazil",140,"South America","Americas","Humberto de Alencar Castello Branco",3,"Non-democracy",1,1964,1,1966,TRUE
+"205","Brazil",140,"South America","Americas","Joao Belchior Marques Goulart",1,"Democracy",0,1961,1,1961,TRUE
+"206","Brazil",140,"South America","Americas","Joao Cafe",1,"Democracy",0,1954,1,1954,TRUE
+"207","Brazil",140,"South America","Americas","Joao Figueiredo",6,"Non-democracy",1,1979,1,1984,TRUE
+"208","Brazil",140,"South America","Americas","Jose Sarney",5,"Democracy",1,1985,1,1989,TRUE
+"209","Brazil",140,"South America","Americas","Juscelino Kubitschek",5,"Democracy",0,1956,1,1960,TRUE
+"211","Brazil",140,"South America","Americas","Nereu Ramos",1,"Democracy",0,1955,1,1955,TRUE
+"212","Brazil",140,"South America","Americas","Tancredo de Almeida Neves",1,"Democracy",0,1961,1,1961,TRUE
+"216","Bulgaria",355,"Eastern Europe","Europe","Georgi Dimitrov",4,"Non-democracy",1,1945,0,1948,TRUE
+"219","Bulgaria",355,"Eastern Europe","Europe","Peter Mladenov",1,"Non-democracy",1,1989,1,1989,TRUE
+"223","Bulgaria",355,"Eastern Europe","Europe","Todor Zhivkov",35,"Non-democracy",1,1954,1,1988,TRUE
+"224","Bulgaria",355,"Eastern Europe","Europe","Vasil Petrov Kolarov",1,"Non-democracy",1,1949,0,1949,TRUE
+"225","Bulgaria",355,"Eastern Europe","Europe","Vulko Chervenkov",4,"Non-democracy",1,1950,1,1953,TRUE
+"228","Burkina Faso",439,"Western Africa","Africa","Jean-Baptiste Ouedraogo",1,"Non-democracy",0,1982,1,1982,TRUE
+"229","Burkina Faso",439,"Western Africa","Africa","Maurice Yameogo",8,"Non-democracy",0,1958,1,1965,TRUE
+"230","Burkina Faso",439,"Western Africa","Africa","Sangoule Lamizana",14,"Non-democracy",0,1966,1,1979,TRUE
+"231","Burkina Faso",439,"Western Africa","Africa","Saye Zerbo",2,"Non-democracy",0,1980,1,1981,TRUE
+"232","Burkina Faso",439,"Western Africa","Africa","Thomas Sankara",4,"Non-democracy",0,1983,0,1986,TRUE
+"234","Burundi",516,"Eastern Africa","Africa","Jean-Baptiste Bagaza",11,"Non-democracy",0,1976,1,1986,TRUE
+"235","Burundi",516,"Eastern Africa","Africa","Michel Micombero",10,"Non-democracy",0,1966,1,1975,TRUE
+"236","Burundi",516,"Eastern Africa","Africa","Mwambutsa IV",51,"Non-democracy",0,1915,1,1965,TRUE
+"246","Cambodia",811,"South-Eastern Asia","Asia","Lon Nol",1,"Non-democracy",0,1966,1,1966,TRUE
+"247","Cambodia",811,"South-Eastern Asia","Asia","Lon Nol",6,"Non-democracy",0,1969,1,1974,TRUE
+"248","Cambodia",811,"South-Eastern Asia","Asia","Norodom Sihanouk",1,"Non-democracy",0,1975,1,1975,TRUE
+"249","Cambodia",811,"South-Eastern Asia","Asia","Norodom Sihanouk",2,"Non-democracy",0,1967,1,1968,TRUE
+"250","Cambodia",811,"South-Eastern Asia","Asia","Norodom Sihanouk",25,"Non-democracy",0,1941,1,1965,TRUE
+"251","Cambodia",811,"South-Eastern Asia","Asia","Pol Pot",3,"Non-democracy",0,1976,1,1978,TRUE
+"252","Cameroon",471,"Middle Africa","Africa","Ahmadou Ahidjo",23,"Non-democracy",0,1959,1,1981,TRUE
+"256","Canada",20,"Northern America","Americas","Joe Clark",1,"Democracy",0,1979,1,1979,TRUE
+"257","Canada",20,"Northern America","Americas","John Diefenbaker",6,"Democracy",0,1957,1,1962,TRUE
+"258","Canada",20,"Northern America","Americas","Lester Pearson",5,"Democracy",0,1963,1,1967,TRUE
+"259","Canada",20,"Northern America","Americas","Louis Saint Laurent",9,"Democracy",0,1948,1,1956,TRUE
+"261","Canada",20,"Northern America","Americas","Pierre Elliott Trudeau",4,"Democracy",0,1980,1,1983,TRUE
+"262","Canada",20,"Northern America","Americas","Pierre Elliott Trudeau",11,"Democracy",0,1968,1,1978,TRUE
+"264","Canada",20,"Northern America","Americas","W. MacKenzie King",13,"Democracy",0,1935,1,1947,TRUE
+"272","Central African Republic",482,"Middle Africa","Africa","David Dacko",2,"Non-democracy",0,1979,1,1980,TRUE
+"273","Central African Republic",482,"Middle Africa","Africa","David Dacko",6,"Non-democracy",0,1960,1,1965,TRUE
+"276","Central African Republic",482,"Middle Africa","Africa","Jean-Bedel Bokassa",13,"Non-democracy",0,1966,1,1978,TRUE
+"281","Chad",483,"Middle Africa","Africa","Felix Malloum",4,"Non-democracy",0,1975,1,1978,TRUE
+"282","Chad",483,"Middle Africa","Africa","Goukouni Ouedei",3,"Non-democracy",0,1979,1,1981,TRUE
+"283","Chad",483,"Middle Africa","Africa","Hissene Habre",8,"Non-democracy",0,1982,1,1989,TRUE
+"285","Chad",483,"Middle Africa","Africa","Ngarta Tombolbaye",16,"Non-democracy",0,1959,0,1974,TRUE
+"286","Chile",155,"South America","Americas","Augusto Pinochet Ugarte",17,"Non-democracy",2,1973,1,1989,TRUE
+"287","Chile",155,"South America","Americas","Carlos Ibanez del Campo",6,"Democracy",1,1952,1,1957,TRUE
+"288","Chile",155,"South America","Americas","Eduardo Frei Montalva",6,"Democracy",1,1964,1,1969,TRUE
+"290","Chile",155,"South America","Americas","Gabriel Gonzalez Videla",6,"Democracy",1,1946,1,1951,TRUE
+"291","Chile",155,"South America","Americas","Jorge Alessandri Rodriguez",6,"Democracy",1,1958,1,1963,TRUE
+"294","Chile",155,"South America","Americas","Salvador Allende Gossens",3,"Democracy",1,1970,0,1972,TRUE
+"296","China",710,"Eastern Asia","Asia","Chiang Kai-Shek",21,"Non-democracy",0,1928,1,1948,TRUE
+"299","China",710,"Eastern Asia","Asia","Hua Guofeng",2,"Non-democracy",0,1976,1,1977,TRUE
+"301","China",710,"Eastern Asia","Asia","Mao Zedong",27,"Non-democracy",0,1943,0,1969,TRUE
+"302","Colombia",100,"South America","Americas","Alberto Lleras Camargo",4,"Democracy",1,1958,1,1961,TRUE
+"303","Colombia",100,"South America","Americas","Alfonso Lopez Michelson",4,"Democracy",1,1974,1,1977,TRUE
+"306","Colombia",100,"South America","Americas","Belisario Betancur Cuartas",4,"Democracy",1,1982,1,1985,TRUE
+"307","Colombia",100,"South America","Americas","Carlos Lleras Restrepo",4,"Democracy",1,1966,1,1969,TRUE
+"310","Colombia",100,"South America","Americas","Gabriel Paris",1,"Non-democracy",1,1957,1,1957,TRUE
+"311","Colombia",100,"South America","Americas","Guillermo Valencia",4,"Democracy",1,1962,1,1965,TRUE
+"312","Colombia",100,"South America","Americas","Gustavo Rojas Pinilla",4,"Non-democracy",1,1953,1,1956,TRUE
+"313","Colombia",100,"South America","Americas","Julio Turbay Ayala",4,"Democracy",1,1978,1,1981,TRUE
+"314","Colombia",100,"South America","Americas","Laureano Gomez Castro",1,"Non-democracy",1,1950,1,1950,TRUE
+"316","Colombia",100,"South America","Americas","Luis Mariano Ospina Perez",3,"Democracy",0,1946,1,1948,TRUE
+"317","Colombia",100,"South America","Americas","Misael Pastrana Borrero",4,"Democracy",1,1970,1,1973,TRUE
+"318","Colombia",100,"South America","Americas","Roberto Urdaneta Arbelaez",2,"Non-democracy",1,1951,1,1952,TRUE
+"319","Colombia",100,"South America","Americas","Virgilio Barco Vargas",4,"Democracy",1,1986,1,1989,TRUE
+"320","Comoros",581,"Eastern Africa","Africa","Ahmed Abdallah",11,"Non-democracy",0,1978,0,1988,TRUE
+"323","Comoros",581,"Eastern Africa","Africa","Ali Soilih",3,"Non-democracy",0,1975,0,1977,TRUE
+"334","Congo (Brazzaville, Republic of Congo)",484,"Middle Africa","Africa","Alfred Raoul",1,"Non-democracy",1,1968,1,1968,TRUE
+"335","Congo (Brazzaville, Republic of Congo)",484,"Middle Africa","Africa","Alphonse Massamba-Debat",5,"Non-democracy",1,1963,1,1967,TRUE
+"340","Congo (Brazzaville, Republic of Congo)",484,"Middle Africa","Africa","Fulbert Youlou",5,"Democracy",0,1958,1,1962,TRUE
+"342","Congo (Brazzaville, Republic of Congo)",484,"Middle Africa","Africa","Joachim Yhombi-Opango",2,"Non-democracy",1,1977,1,1978,TRUE
+"343","Congo (Brazzaville, Republic of Congo)",484,"Middle Africa","Africa","Marien Ngouabi",8,"Non-democracy",1,1969,0,1976,TRUE
+"346","Costa Rica",94,"Central America","Americas","Daniel Oduber Quires",4,"Democracy",2,1974,1,1977,TRUE
+"347","Costa Rica",94,"Central America","Americas","Francisco Jose Orlich Bolmarich",4,"Democracy",2,1962,1,1965,TRUE
+"348","Costa Rica",94,"Central America","Americas","Jose Figueres Ferrer",1,"Non-democracy",2,1948,1,1948,TRUE
+"349","Costa Rica",94,"Central America","Americas","Jose Figueres Ferrer",4,"Democracy",2,1970,1,1973,TRUE
+"350","Costa Rica",94,"Central America","Americas","Jose Figueres Ferrer",5,"Democracy",2,1953,1,1957,TRUE
+"351","Costa Rica",94,"Central America","Americas","Jose Joaquim Trejos Fernandez",4,"Democracy",2,1966,1,1969,TRUE
+"353","Costa Rica",94,"Central America","Americas","Luis Alberto Monge Alverez",4,"Democracy",2,1982,1,1985,TRUE
+"354","Costa Rica",94,"Central America","Americas","Mario Echandi Jimenez",4,"Democracy",2,1958,1,1961,TRUE
+"356","Costa Rica",94,"Central America","Americas","Oscar Arias Sanchez",4,"Democracy",2,1986,1,1989,TRUE
+"357","Costa Rica",94,"Central America","Americas","Otilia Ulate Blanco",4,"Democracy",2,1949,1,1952,TRUE
+"359","Costa Rica",94,"Central America","Americas","Rodrigo Carazo Odio",4,"Democracy",2,1978,1,1981,TRUE
+"360","Costa Rica",94,"Central America","Americas","Teodoro Picado Michalski",4,"Democracy",1,1944,1,1947,TRUE
+"372","Cuba",40,"Caribbean","Americas","Fulgencio Batista y Zaldivar",7,"Non-democracy",1,1952,1,1958,TRUE
+"373","Cuba",40,"Caribbean","Americas","Fulgencio Batista y Zaldivar",19,"Democracy",0,1933,1,1951,TRUE
+"375","Cyprus",352,"Western Asia","Asia","Archbishop Makarios",3,"Non-democracy",0,1974,0,1976,TRUE
+"376","Cyprus",352,"Western Asia","Asia","Archbishop Makarios",14,"Non-democracy",0,1960,1,1973,TRUE
+"380","Cyprus",352,"Western Asia","Asia","Spyros Kyprianou",5,"Democracy",0,1983,1,1987,TRUE
+"381","Cyprus",352,"Western Asia","Asia","Spyros Kyprianou",6,"Non-democracy",0,1977,0,1982,TRUE
+"390","Czechoslovakia",315,"Eastern Europe","Europe","Alexander Dubcek",1,"Non-democracy",1,1968,1,1968,TRUE
+"391","Czechoslovakia",315,"Eastern Europe","Europe","Antonin Novotny",15,"Non-democracy",1,1953,1,1967,TRUE
+"392","Czechoslovakia",315,"Eastern Europe","Europe","Gustav Husak",18,"Non-democracy",1,1969,1,1986,TRUE
+"394","Czechoslovakia",315,"Eastern Europe","Europe","Klement Gottwald",7,"Non-democracy",1,1946,0,1952,TRUE
+"395","Czechoslovakia",315,"Eastern Europe","Europe","Marian Calfa",1,"Democracy",1,1989,1,1989,TRUE
+"397","Czechoslovakia",315,"Eastern Europe","Europe","Milos Jakes",2,"Non-democracy",1,1987,1,1988,TRUE
+"399","Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",490,"Middle Africa","Africa","Joseph Kasabuvu",5,"Non-democracy",0,1960,1,1964,TRUE
+"403","Denmark",390,"Northern Europe","Europe","Anker Jorgensen",1,"Democracy",0,1972,1,1972,TRUE
+"404","Denmark",390,"Northern Europe","Europe","Anker Jorgensen",7,"Democracy",0,1975,1,1981,TRUE
+"405","Denmark",390,"Northern Europe","Europe","Erik Eriksen",3,"Democracy",0,1950,1,1952,TRUE
+"406","Denmark",390,"Northern Europe","Europe","Hans Hansen",5,"Democracy",0,1955,0,1959,TRUE
+"407","Denmark",390,"Northern Europe","Europe","Hans Hedtoft",2,"Democracy",0,1953,0,1954,TRUE
+"408","Denmark",390,"Northern Europe","Europe","Hans Hedtoft",3,"Democracy",0,1947,1,1949,TRUE
+"409","Denmark",390,"Northern Europe","Europe","Hilmar Baunsgaard",3,"Democracy",0,1968,1,1970,TRUE
+"410","Denmark",390,"Northern Europe","Europe","Jens-Otto Krag",1,"Democracy",0,1971,1,1971,TRUE
+"411","Denmark",390,"Northern Europe","Europe","Jens-Otto Krag",6,"Democracy",0,1962,1,1967,TRUE
+"412","Denmark",390,"Northern Europe","Europe","Knud Kristensen",2,"Democracy",0,1945,1,1946,TRUE
+"413","Denmark",390,"Northern Europe","Europe","Poul Hartling",2,"Democracy",0,1973,1,1974,TRUE
+"416","Denmark",390,"Northern Europe","Europe","Viggo Kampmann",2,"Democracy",0,1960,1,1961,TRUE
+"421","Dominica",54,"Caribbean","Americas","Oliver Seraphine",1,"Democracy",0,1979,1,1979,TRUE
+"422","Dominica",54,"Caribbean","Americas","Patrick John",5,"Democracy",0,1974,1,1978,TRUE
+"425","Dominican Republic",42,"Caribbean","Americas","Antonio Guzman Fernandez",4,"Democracy",0,1978,0,1981,TRUE
+"426","Dominican Republic",42,"Caribbean","Americas","Hector Garcia-Godoy Caceres",1,"Non-democracy",0,1965,1,1965,TRUE
+"427","Dominican Republic",42,"Caribbean","Americas","Joaquin Balaguer",1,"Non-democracy",0,1961,1,1961,TRUE
+"429","Dominican Republic",42,"Caribbean","Americas","Joaquin Balaguer",12,"Democracy",0,1966,1,1977,TRUE
+"432","Dominican Republic",42,"Caribbean","Americas","military",2,"Non-democracy",0,1963,1,1964,TRUE
+"433","Dominican Republic",42,"Caribbean","Americas","Rafael Bonnelly",1,"Non-democracy",0,1962,1,1962,TRUE
+"435","Dominican Republic",42,"Caribbean","Americas","Rafael Trujillo",19,"Non-democracy",0,1942,0,1960,TRUE
+"436","Dominican Republic",42,"Caribbean","Americas","Salvador Jorge Blanco",4,"Democracy",0,1982,1,1985,TRUE
+"442","Ecuador",130,"South America","Americas","Alfredo Poveda Burbano",3,"Non-democracy",2,1976,1,1978,TRUE
+"443","Ecuador",130,"South America","Americas","Camilo Ponce Enriquez",4,"Democracy",1,1956,1,1959,TRUE
+"444","Ecuador",130,"South America","Americas","Carlos Arosemena Monroy",2,"Democracy",1,1961,1,1962,TRUE
+"446","Ecuador",130,"South America","Americas","Galo Plaza Lasso",4,"Democracy",1,1948,1,1951,TRUE
+"447","Ecuador",130,"South America","Americas","Guillermo Rodriguez Lara",4,"Non-democracy",2,1972,1,1975,TRUE
+"450","Ecuador",130,"South America","Americas","Jaime Roldos Aguillera",2,"Democracy",2,1979,0,1980,TRUE
+"452","Ecuador",130,"South America","Americas","Jose Velasco Ibarra",1,"Democracy",1,1960,1,1960,TRUE
+"453","Ecuador",130,"South America","Americas","Jose Velasco Ibarra",3,"Democracy",0,1944,1,1946,TRUE
+"454","Ecuador",130,"South America","Americas","Jose Velasco Ibarra",4,"Democracy",1,1952,1,1955,TRUE
+"455","Ecuador",130,"South America","Americas","Jose Velasco Ibarra",4,"Non-democracy",2,1952,1,1955,TRUE
+"456","Ecuador",130,"South America","Americas","Leon Febres Cordero",4,"Democracy",2,1984,1,1987,TRUE
+"458","Ecuador",130,"South America","Americas","military",1,"Non-democracy",1,1947,1,1947,TRUE
+"459","Ecuador",130,"South America","Americas","Osvaldo Hurtado Larrea",3,"Democracy",2,1981,1,1983,TRUE
+"460","Ecuador",130,"South America","Americas","Otto Arosemena Gomez",2,"Non-democracy",2,1966,1,1967,TRUE
+"462","Ecuador",130,"South America","Americas","Ramon Castro Jijon",3,"Non-democracy",2,1963,1,1965,TRUE
+"465","Egypt",651,"Northern Africa","Africa","Anwar el-Sadat",11,"Non-democracy",0,1970,0,1980,TRUE
+"466","Egypt",651,"Northern Africa","Africa","Faruq I",16,"Non-democracy",0,1936,1,1951,TRUE
+"467","Egypt",651,"Northern Africa","Africa","Gamal Nasser",16,"Non-democracy",0,1954,0,1969,TRUE
+"469","Egypt",651,"Northern Africa","Africa","Mohammed Naguib",2,"Non-democracy",0,1952,1,1953,TRUE
+"470","El Salvador",92,"Central America","Americas","Adolfo Majano + Jaime Gutierrez",1,"Non-democracy",0,1979,1,1979,TRUE
+"472","El Salvador",92,"Central America","Americas","Anibal Portillo",1,"Non-democracy",0,1961,1,1961,TRUE
+"474","El Salvador",92,"Central America","Americas","Arturo Molina Barraza",5,"Non-democracy",0,1972,1,1976,TRUE
+"475","El Salvador",92,"Central America","Americas","Carlos Romero Mena",2,"Non-democracy",0,1977,1,1978,TRUE
+"477","El Salvador",92,"Central America","Americas","Fidel Sanchez Hernandez",5,"Non-democracy",0,1967,1,1971,TRUE
+"479","El Salvador",92,"Central America","Americas","Jose Lemus",4,"Non-democracy",0,1956,1,1959,TRUE
+"480","El Salvador",92,"Central America","Americas","Jose Napoleon Duarte",2,"Non-democracy",0,1980,1,1981,TRUE
+"481","El Salvador",92,"Central America","Americas","Jose Napoleon Duarte",5,"Democracy",0,1984,1,1988,TRUE
+"482","El Salvador",92,"Central America","Americas","Julio Rivera Carballo",5,"Non-democracy",0,1962,1,1966,TRUE
+"483","El Salvador",92,"Central America","Americas","Manuel Cordoba",1,"Non-democracy",0,1948,1,1948,TRUE
+"484","El Salvador",92,"Central America","Americas","Miguel Castillo",1,"Non-democracy",0,1960,1,1960,TRUE
+"485","El Salvador",92,"Central America","Americas","military",2,"Non-democracy",0,1982,1,1983,TRUE
+"486","El Salvador",92,"Central America","Americas","Oscar Bolanos",1,"Non-democracy",0,1949,1,1949,TRUE
+"487","El Salvador",92,"Central America","Americas","Oscar Osorio",6,"Non-democracy",0,1950,1,1955,TRUE
+"488","El Salvador",92,"Central America","Americas","Salvador Castaneda Castro",3,"Non-democracy",0,1945,1,1947,TRUE
+"489","Equatorial Guinea",411,"Middle Africa","Africa","Francisco Macias Nguema",11,"Non-democracy",0,1968,1,1978,TRUE
+"502","Ethiopia",530,"Eastern Africa","Africa","Haile Selassie",44,"Non-democracy",0,1930,1,1973,TRUE
+"506","Ethiopia",530,"Eastern Africa","Africa","Teferi Benti",3,"Non-democracy",0,1974,1,1976,TRUE
+"509","Fiji",950,"Melanesia","Oceania","Ratu Sir Kamisese Mara",21,"Non-democracy",0,1966,1,1986,TRUE
+"513","Finland",375,"Northern Europe","Europe","Ahti Karjalainen",1,"Democracy",0,1962,1,1962,TRUE
+"516","Finland",375,"Northern Europe","Europe","Johannes Virolainen",2,"Democracy",0,1964,1,1965,TRUE
+"517","Finland",375,"Northern Europe","Europe","Kalevi Sorsa",2,"Democracy",0,1977,1,1978,TRUE
+"518","Finland",375,"Northern Europe","Europe","Kalevi Sorsa",3,"Democracy",0,1972,1,1974,TRUE
+"519","Finland",375,"Northern Europe","Europe","Kalevi Sorsa",5,"Democracy",0,1982,1,1986,TRUE
+"520","Finland",375,"Northern Europe","Europe","Karl Fagerholm",1,"Democracy",0,1956,1,1956,TRUE
+"521","Finland",375,"Northern Europe","Europe","Karl Fagerholm",2,"Democracy",0,1948,1,1949,TRUE
+"522","Finland",375,"Northern Europe","Europe","Martti Miettunen",1,"Democracy",0,1961,1,1961,TRUE
+"523","Finland",375,"Northern Europe","Europe","Martti Miettunen",2,"Democracy",0,1975,1,1976,TRUE
+"525","Finland",375,"Northern Europe","Europe","Mauno Koivisto",2,"Democracy",0,1968,1,1969,TRUE
+"526","Finland",375,"Northern Europe","Europe","Mauno Koivisto",3,"Democracy",0,1979,1,1981,TRUE
+"527","Finland",375,"Northern Europe","Europe","Mauno Pekkala",2,"Democracy",0,1946,1,1947,TRUE
+"529","Finland",375,"Northern Europe","Europe","Rafael Paasio",2,"Democracy",0,1966,1,1967,TRUE
+"530","Finland",375,"Northern Europe","Europe","Rainer von Fieandt",1,"Democracy",0,1957,1,1957,TRUE
+"531","Finland",375,"Northern Europe","Europe","Reino Lehto",1,"Democracy",0,1963,1,1963,TRUE
+"532","Finland",375,"Northern Europe","Europe","Sakari Tuomioja",1,"Democracy",0,1953,1,1953,TRUE
+"533","Finland",375,"Northern Europe","Europe","Teuvo Aura",1,"Democracy",0,1971,1,1971,TRUE
+"534","Finland",375,"Northern Europe","Europe","Urho Kekkonen",2,"Democracy",0,1954,1,1955,TRUE
+"535","Finland",375,"Northern Europe","Europe","Urho Kekkonen",3,"Democracy",0,1950,1,1952,TRUE
+"536","Finland",375,"Northern Europe","Europe","Vaino Sukselainen",2,"Democracy",0,1959,1,1960,TRUE
+"538","France",220,"Western Europe","Europe","Antoine Pinay",1,"Democracy",0,1952,1,1952,TRUE
+"539","France",220,"Western Europe","Europe","Charles de Gaulle",1,"Democracy",0,1958,1,1958,TRUE
+"541","France",220,"Western Europe","Europe","Edgar Faure",1,"Democracy",0,1955,1,1955,TRUE
+"544","France",220,"Western Europe","Europe","Felix Gaillard",1,"Democracy",0,1957,1,1957,TRUE
+"546","France",220,"Western Europe","Europe","Georges Bidault",1,"Democracy",0,1949,1,1949,TRUE
+"547","France",220,"Western Europe","Europe","Georges Pompidou",6,"Democracy",0,1962,1,1967,TRUE
+"548","France",220,"Western Europe","Europe","Guy Mollet",1,"Democracy",0,1956,1,1956,TRUE
+"549","France",220,"Western Europe","Europe","Henri Queuille",1,"Democracy",0,1948,1,1948,TRUE
+"550","France",220,"Western Europe","Europe","Jacques Chaban-Delmas",3,"Democracy",0,1969,1,1971,TRUE
+"551","France",220,"Western Europe","Europe","Jacques Chirac",2,"Democracy",0,1974,1,1975,TRUE
+"553","France",220,"Western Europe","Europe","Joseph Laniel",1,"Democracy",0,1953,1,1953,TRUE
+"554","France",220,"Western Europe","Europe","Laurent Fabius",2,"Democracy",0,1984,1,1985,TRUE
+"555","France",220,"Western Europe","Europe","Leon Blum",1,"Democracy",0,1946,1,1946,TRUE
+"557","France",220,"Western Europe","Europe","Maurice Couve de Murville",1,"Democracy",0,1968,1,1968,TRUE
+"558","France",220,"Western Europe","Europe","Michel Debre",3,"Democracy",0,1959,1,1961,TRUE
+"561","France",220,"Western Europe","Europe","Pierre Mauroy",3,"Democracy",0,1981,1,1983,TRUE
+"562","France",220,"Western Europe","Europe","Pierre Mendes-France",1,"Democracy",0,1954,1,1954,TRUE
+"563","France",220,"Western Europe","Europe","Pierre Messmer",2,"Democracy",0,1972,1,1973,TRUE
+"564","France",220,"Western Europe","Europe","Raymond Barre",5,"Democracy",0,1976,1,1980,TRUE
+"565","France",220,"Western Europe","Europe","Rene Pleven",1,"Democracy",0,1950,1,1950,TRUE
+"566","France",220,"Western Europe","Europe","Robert Schuman",1,"Democracy",0,1947,1,1947,TRUE
+"568","Gabon",481,"Middle Africa","Africa","Leon Mba",3,"Non-democracy",0,1964,0,1966,TRUE
+"569","Gabon",481,"Middle Africa","Africa","Leon Mba",6,"Non-democracy",0,1958,1,1963,TRUE
+"581","Germany",255,"Western Europe","Europe","Helmut Kohl",8,"Democracy",1,1982,1,1989,TRUE
+"582","Germany, East",265,"Western Europe","Europe","Egon Krenz",1,"Non-democracy",1,1989,0,1989,TRUE
+"583","Germany, East",265,"Western Europe","Europe","Erich Honecker",18,"Non-democracy",1,1971,1,1988,TRUE
+"584","Germany, East",265,"Western Europe","Europe","Walter Ulbricht",21,"Non-democracy",1,1950,1,1970,TRUE
+"585","Germany, East",265,"Western Europe","Europe","Wilhelm Pieck + Otto Grotewohl",4,"Non-democracy",1,1946,1,1949,TRUE
+"586","Germany, West",260,"Western Europe","Europe","Helmut Kohl",8,"Democracy",1,1982,0,1989,TRUE
+"587","Germany, West",260,"Western Europe","Europe","Helmut Schmidt",8,"Democracy",1,1974,1,1981,TRUE
+"588","Germany, West",260,"Western Europe","Europe","Konrad Adenauer",14,"Democracy",1,1949,1,1962,TRUE
+"589","Germany, West",260,"Western Europe","Europe","Kurt-Georg Kiesinger",3,"Democracy",1,1966,1,1968,TRUE
+"590","Germany, West",260,"Western Europe","Europe","Ludwig Erhard",3,"Democracy",1,1963,1,1965,TRUE
+"591","Germany, West",260,"Western Europe","Europe","Willy Brandt",5,"Democracy",1,1969,1,1973,TRUE
+"592","Ghana",452,"Western Africa","Africa","Frederick Akuffo",1,"Non-democracy",1,1978,1,1978,TRUE
+"593","Ghana",452,"Western Africa","Africa","Hilla Limann",2,"Democracy",1,1979,1,1980,TRUE
+"594","Ghana",452,"Western Africa","Africa","Ignatius Acheampong",6,"Non-democracy",1,1972,1,1977,TRUE
+"598","Ghana",452,"Western Africa","Africa","Joseph Ankrah",3,"Non-democracy",0,1966,1,1968,TRUE
+"599","Ghana",452,"Western Africa","Africa","Kofi Busia",3,"Democracy",0,1969,1,1971,TRUE
+"600","Ghana",452,"Western Africa","Africa","Kwame Nkrumah",14,"Non-democracy",0,1952,1,1965,TRUE
+"601","Greece",350,"Southern Europe","Europe","Alexandros Diomidis",1,"Democracy",1,1949,1,1949,TRUE
+"602","Greece",350,"Southern Europe","Europe","Alexandros Papagos",3,"Democracy",1,1952,0,1954,TRUE
+"604","Greece",350,"Southern Europe","Europe","Andreas Papandreou",8,"Democracy",2,1981,1,1988,TRUE
+"605","Greece",350,"Southern Europe","Europe","Constantine Tsaldaris",1,"Democracy",1,1946,1,1946,TRUE
+"606","Greece",350,"Southern Europe","Europe","Georgios Papadopoulos",6,"Non-democracy",2,1967,1,1972,TRUE
+"607","Greece",350,"Southern Europe","Europe","Georgios Papandreou",1,"Democracy",1,1964,1,1964,TRUE
+"608","Greece",350,"Southern Europe","Europe","Georgios Rallis",1,"Democracy",2,1980,1,1980,TRUE
+"609","Greece",350,"Southern Europe","Europe","Ioannis Paraskevopoulos",1,"Democracy",1,1963,1,1963,TRUE
+"611","Greece",350,"Southern Europe","Europe","Konstantinos Karamanlis",6,"Democracy",2,1974,1,1979,TRUE
+"612","Greece",350,"Southern Europe","Europe","Konstantinos Karamanlis",8,"Democracy",1,1955,1,1962,TRUE
+"615","Greece",350,"Southern Europe","Europe","Nikolas Plastiras",2,"Democracy",1,1950,1,1951,TRUE
+"616","Greece",350,"Southern Europe","Europe","Phaidon Gizikis",1,"Non-democracy",2,1973,1,1973,TRUE
+"617","Greece",350,"Southern Europe","Europe","Stephanos Stephanopoulos",1,"Democracy",1,1965,1,1965,TRUE
+"618","Greece",350,"Southern Europe","Europe","Themistocles Sophoulis",2,"Democracy",1,1947,1,1948,TRUE
+"619","Greece",350,"Southern Europe","Europe","Xenophon Zolotas",1,"Democracy",2,1989,1,1989,TRUE
+"620","Grenada",55,"Caribbean","Americas","Ben Jones",1,"Democracy",1,1989,1,1989,TRUE
+"621","Grenada",55,"Caribbean","Americas","Eric Gairy",12,"Democracy",0,1967,1,1978,TRUE
+"622","Grenada",55,"Caribbean","Americas","Herbert Blaize",5,"Democracy",1,1984,0,1988,TRUE
+"624","Grenada",55,"Caribbean","Americas","Maurice Bishop",4,"Non-democracy",1,1979,0,1982,TRUE
+"625","Grenada",55,"Caribbean","Americas","Nicholas Brathwaite",1,"Non-democracy",1,1983,1,1983,TRUE
+"631","Guatemala",90,"Central America","Americas","Carlos Arana Osorio",4,"Democracy",2,1970,1,1973,TRUE
+"632","Guatemala",90,"Central America","Americas","Carlos Castillo Armas",3,"Non-democracy",1,1954,0,1956,TRUE
+"633","Guatemala",90,"Central America","Americas","Efrain Rios Montt",1,"Non-democracy",3,1982,1,1982,TRUE
+"634","Guatemala",90,"Central America","Americas","Enrique Peralta Azurdia",3,"Non-democracy",2,1963,1,1965,TRUE
+"635","Guatemala",90,"Central America","Americas","Guillermo Flores Avendano",1,"Non-democracy",1,1957,1,1957,TRUE
+"636","Guatemala",90,"Central America","Americas","Jacobo Arbenz Guzman",3,"Democracy",0,1951,1,1953,TRUE
+"638","Guatemala",90,"Central America","Americas","Juan Arevalo",6,"Democracy",0,1945,1,1950,TRUE
+"639","Guatemala",90,"Central America","Americas","Julio Mendez Montenegro",4,"Democracy",2,1966,1,1969,TRUE
+"640","Guatemala",90,"Central America","Americas","Kjell Laugerud Garcia",4,"Democracy",2,1974,1,1977,TRUE
+"642","Guatemala",90,"Central America","Americas","Miguel Ydigoras Fuentes",5,"Democracy",1,1958,1,1962,TRUE
+"643","Guatemala",90,"Central America","Americas","Oscar Humberto Mejia Victores",3,"Non-democracy",3,1983,1,1985,TRUE
+"645","Guatemala",90,"Central America","Americas","Romeo Lucas Garcia",4,"Democracy",2,1978,1,1981,TRUE
+"646","Guinea",438,"Western Africa","Africa","Ahmed Sekou Toure",26,"Non-democracy",0,1958,0,1983,TRUE
+"657","Guinea-Bissau",404,"Western Africa","Africa","Luis Cabral",6,"Non-democracy",0,1974,1,1979,TRUE
+"662","Guyana",110,"South America","Americas","Forbes Burnham",19,"Non-democracy",0,1966,0,1984,TRUE
+"665","Haiti",41,"Caribbean","Americas","Dumarsais Estime",4,"Non-democracy",0,1946,1,1949,TRUE
+"667","Haiti",41,"Caribbean","Americas","Francois Duvalier",14,"Non-democracy",0,1957,0,1970,TRUE
+"668","Haiti",41,"Caribbean","Americas","Henri Namphy",2,"Non-democracy",0,1986,1,1987,TRUE
+"672","Haiti",41,"Caribbean","Americas","Jean-Claude Duvalier",15,"Non-democracy",0,1971,1,1985,TRUE
+"673","Haiti",41,"Caribbean","Americas","Joseph Nemours Pierre-Louis",1,"Non-democracy",0,1956,1,1956,TRUE
+"676","Haiti",41,"Caribbean","Americas","Paul Eugene Magloire",6,"Non-democracy",0,1950,1,1955,TRUE
+"677","Haiti",41,"Caribbean","Americas","Prosper Avril",2,"Non-democracy",0,1988,1,1989,TRUE
+"683","Honduras",91,"Central America","Americas","Jose Azcona Hoyo",4,"Democracy",2,1986,1,1989,TRUE
+"684","Honduras",91,"Central America","Americas","Juan Alberto Melgar Castro",3,"Non-democracy",2,1975,1,1977,TRUE
+"685","Honduras",91,"Central America","Americas","Juan Manuel Galvez",5,"Non-democracy",0,1949,1,1953,TRUE
+"686","Honduras",91,"Central America","Americas","Julio Lozano Diaz",2,"Non-democracy",0,1954,1,1955,TRUE
+"687","Honduras",91,"Central America","Americas","Oswaldo Lopez Arellano",3,"Non-democracy",2,1972,1,1974,TRUE
+"688","Honduras",91,"Central America","Americas","Oswaldo Lopez Arellano",8,"Non-democracy",1,1963,1,1970,TRUE
+"689","Honduras",91,"Central America","Americas","Policarpo Paz Garcia",4,"Non-democracy",2,1978,1,1981,TRUE
+"691","Honduras",91,"Central America","Americas","Ramon Ernesto Cruz Ucles",1,"Democracy",1,1971,1,1971,TRUE
+"692","Honduras",91,"Central America","Americas","Ramon Villeda Morales",6,"Democracy",0,1957,1,1962,TRUE
+"694","Honduras",91,"Central America","Americas","Roberto Suazo Cordova",4,"Democracy",2,1982,1,1985,TRUE
+"695","Honduras",91,"Central America","Americas","Roque Rodriguez",1,"Non-democracy",0,1956,1,1956,TRUE
+"696","Honduras",91,"Central America","Americas","Tiburcio Carias Andino",16,"Non-democracy",0,1933,1,1948,TRUE
+"699","Hungary",310,"Eastern Europe","Europe","Janos Kadar",32,"Non-democracy",0,1956,1,1987,TRUE
+"701","Hungary",310,"Eastern Europe","Europe","Karoly Grosz",1,"Non-democracy",0,1988,1,1988,TRUE
+"702","Hungary",310,"Eastern Europe","Europe","Matyas Rakosi",11,"Non-democracy",0,1945,1,1955,TRUE
+"703","Hungary",310,"Eastern Europe","Europe","Miklos Nemeth",1,"Non-democracy",0,1988,1,1988,TRUE
+"707","Iceland",395,"Northern Europe","Europe","Benedikt Groendal",1,"Democracy",0,1979,1,1979,TRUE
+"708","Iceland",395,"Northern Europe","Europe","Bjarni Benediktsson",7,"Democracy",0,1963,0,1969,TRUE
+"710","Iceland",395,"Northern Europe","Europe","Emil Jonsson",1,"Democracy",0,1958,1,1958,TRUE
+"711","Iceland",395,"Northern Europe","Europe","Geir Hallgrimsson",4,"Democracy",0,1974,1,1977,TRUE
+"713","Iceland",395,"Northern Europe","Europe","Gunnar Thoroddsen",3,"Democracy",0,1980,1,1982,TRUE
+"715","Iceland",395,"Northern Europe","Europe","Hermann Jonasson",2,"Democracy",0,1956,1,1957,TRUE
+"716","Iceland",395,"Northern Europe","Europe","Johann Hafstein",1,"Democracy",0,1970,1,1970,TRUE
+"717","Iceland",395,"Northern Europe","Europe","Olafur Johannesson",1,"Democracy",0,1978,1,1978,TRUE
+"718","Iceland",395,"Northern Europe","Europe","Olafur Johannesson",3,"Democracy",0,1971,1,1973,TRUE
+"719","Iceland",395,"Northern Europe","Europe","Olafur Thors",1,"Democracy",0,1949,1,1949,TRUE
+"720","Iceland",395,"Northern Europe","Europe","Olafur Thors",3,"Democracy",0,1944,1,1946,TRUE
+"721","Iceland",395,"Northern Europe","Europe","Olafur Thors",4,"Democracy",0,1959,1,1962,TRUE
+"722","Iceland",395,"Northern Europe","Europe","Stefan Stefansson",2,"Democracy",0,1947,1,1948,TRUE
+"724","Iceland",395,"Northern Europe","Europe","Steingrimur Hermannsson",4,"Democracy",0,1983,1,1986,TRUE
+"725","Iceland",395,"Northern Europe","Europe","Steingrimur Steinthorsson",3,"Democracy",0,1950,1,1952,TRUE
+"726","Iceland",395,"Northern Europe","Europe","Thorsteinn Palsson",1,"Democracy",0,1987,1,1987,TRUE
+"729","India",750,"Southern Asia","Asia","Charan Singh",1,"Democracy",0,1979,1,1979,TRUE
+"732","India",750,"Southern Asia","Asia","Indira Gandhi",4,"Democracy",0,1980,0,1983,TRUE
+"733","India",750,"Southern Asia","Asia","Indira Gandhi",11,"Democracy",0,1966,1,1976,TRUE
+"734","India",750,"Southern Asia","Asia","Jawaharlal Nehru",17,"Democracy",0,1947,0,1963,TRUE
+"735","India",750,"Southern Asia","Asia","Lal Bahadur Shastri",2,"Democracy",0,1964,1,1965,TRUE
+"737","India",750,"Southern Asia","Asia","Morarji Desai",2,"Democracy",0,1977,1,1978,TRUE
+"739","India",750,"Southern Asia","Asia","Rajiv Gandhi",5,"Democracy",0,1984,0,1988,TRUE
+"740","India",750,"Southern Asia","Asia","Vishwanath Pratap Singh",1,"Democracy",0,1989,1,1989,TRUE
+"745","Indonesia",850,"South-Eastern Asia","Asia","Sukarno",21,"Non-democracy",0,1945,1,1965,TRUE
+"747","Iran",630,"Southern Asia","Asia","Ayatollah Ruhollah Khomeini",10,"Non-democracy",0,1979,0,1988,TRUE
+"749","Iran",630,"Southern Asia","Asia","Mohammed Reza Pahlavi",38,"Non-democracy",0,1941,1,1978,TRUE
+"750","Iraq",645,"Western Asia","Asia","Abdul-Ilah",14,"Non-democracy",0,1939,1,1952,TRUE
+"751","Iraq",645,"Western Asia","Asia","Abdul Rahman Arif",2,"Non-democracy",0,1966,1,1967,TRUE
+"752","Iraq",645,"Western Asia","Asia","Abdul Salam Arif",3,"Non-democracy",0,1963,0,1965,TRUE
+"753","Iraq",645,"Western Asia","Asia","Ahmed al-Bakr",11,"Non-democracy",0,1968,1,1978,TRUE
+"754","Iraq",645,"Western Asia","Asia","Faisal II",5,"Non-democracy",0,1953,0,1957,TRUE
+"756","Iraq",645,"Western Asia","Asia","Najib el-Rubai",5,"Non-democracy",0,1958,1,1962,TRUE
+"761","Ireland",205,"Northern Europe","Europe","Charles Haughey",2,"Democracy",0,1979,1,1980,TRUE
+"763","Ireland",205,"Northern Europe","Europe","Eamon de Valera",2,"Democracy",0,1957,1,1958,TRUE
+"764","Ireland",205,"Northern Europe","Europe","Eamon de Valera",3,"Democracy",0,1951,1,1953,TRUE
+"765","Ireland",205,"Northern Europe","Europe","Eamon de Valera",16,"Democracy",0,1932,1,1947,TRUE
+"766","Ireland",205,"Northern Europe","Europe","Garret Fitzgerald",1,"Democracy",0,1981,1,1981,TRUE
+"767","Ireland",205,"Northern Europe","Europe","Garret Fitzgerald",5,"Democracy",0,1982,1,1986,TRUE
+"769","Ireland",205,"Northern Europe","Europe","John Costello",3,"Democracy",0,1948,1,1950,TRUE
+"770","Ireland",205,"Northern Europe","Europe","John Lynch",2,"Democracy",0,1977,1,1978,TRUE
+"771","Ireland",205,"Northern Europe","Europe","John Lynch",7,"Democracy",0,1966,1,1972,TRUE
+"772","Ireland",205,"Northern Europe","Europe","Liam Cosgrave",4,"Democracy",0,1973,1,1976,TRUE
+"773","Ireland",205,"Northern Europe","Europe","Sean Lemass",7,"Democracy",0,1959,1,1965,TRUE
+"776","Israel",666,"Western Asia","Asia","David Ben-Gurion",5,"Democracy",0,1948,1,1952,TRUE
+"777","Israel",666,"Western Asia","Asia","David Ben-Gurion",8,"Democracy",0,1955,1,1962,TRUE
+"780","Israel",666,"Western Asia","Asia","Golda Meir",5,"Democracy",0,1969,1,1973,TRUE
+"781","Israel",666,"Western Asia","Asia","Levi Eshkol",6,"Democracy",0,1963,0,1968,TRUE
+"782","Israel",666,"Western Asia","Asia","Menachem Begin",6,"Democracy",0,1977,1,1982,TRUE
+"783","Israel",666,"Western Asia","Asia","Moshe Sharett",2,"Democracy",0,1953,1,1954,TRUE
+"785","Israel",666,"Western Asia","Asia","Shimon Peres",2,"Democracy",0,1984,1,1985,TRUE
+"786","Israel",666,"Western Asia","Asia","Yitzhak Rabin",3,"Democracy",0,1974,0,1976,TRUE
+"787","Israel",666,"Western Asia","Asia","Yitzhak Shamir",1,"Democracy",0,1983,1,1983,TRUE
+"789","Italy",325,"Southern Europe","Europe","Adone Zoli",1,"Democracy",1,1957,1,1957,TRUE
+"790","Italy",325,"Southern Europe","Europe","Alcide de Gasperi",8,"Democracy",1,1945,1,1952,TRUE
+"791","Italy",325,"Southern Europe","Europe","Aldo Moro",2,"Democracy",1,1974,1,1975,TRUE
+"792","Italy",325,"Southern Europe","Europe","Aldo Moro",5,"Democracy",1,1963,1,1967,TRUE
+"793","Italy",325,"Southern Europe","Europe","Amintore Fanfani",1,"Democracy",1,1958,1,1958,TRUE
+"794","Italy",325,"Southern Europe","Europe","Amintore Fanfani",3,"Democracy",1,1960,1,1962,TRUE
+"795","Italy",325,"Southern Europe","Europe","Antonio Segni",1,"Democracy",1,1959,1,1959,TRUE
+"796","Italy",325,"Southern Europe","Europe","Antonio Segni",2,"Democracy",1,1955,1,1956,TRUE
+"797","Italy",325,"Southern Europe","Europe","Arnaldo Forlani",1,"Democracy",1,1980,1,1980,TRUE
+"798","Italy",325,"Southern Europe","Europe","Benedetto Craxi",4,"Democracy",1,1983,1,1986,TRUE
+"800","Italy",325,"Southern Europe","Europe","Ciriaco de Mita",1,"Democracy",1,1988,1,1988,TRUE
+"801","Italy",325,"Southern Europe","Europe","Emilio Colombo",2,"Democracy",1,1970,1,1971,TRUE
+"802","Italy",325,"Southern Europe","Europe","Francisco Cossiga",1,"Democracy",1,1979,1,1979,TRUE
+"803","Italy",325,"Southern Europe","Europe","Giovanni Goria",1,"Democracy",1,1987,1,1987,TRUE
+"804","Italy",325,"Southern Europe","Europe","Giovanni Spadolini",1,"Democracy",1,1981,1,1981,TRUE
+"806","Italy",325,"Southern Europe","Europe","Giulio Andreotti",1,"Democracy",1,1972,1,1972,TRUE
+"807","Italy",325,"Southern Europe","Europe","Giulio Andreotti",3,"Democracy",1,1976,1,1978,TRUE
+"808","Italy",325,"Southern Europe","Europe","Giuseppe Pella",1,"Democracy",1,1953,1,1953,TRUE
+"811","Italy",325,"Southern Europe","Europe","Mariano Rumor",1,"Democracy",1,1973,1,1973,TRUE
+"812","Italy",325,"Southern Europe","Europe","Mariano Rumor",2,"Democracy",1,1968,1,1969,TRUE
+"813","Italy",325,"Southern Europe","Europe","Mario Scelba",1,"Democracy",1,1954,1,1954,TRUE
+"818","Jamaica",51,"Caribbean","Americas","Edward Seaga",9,"Democracy",0,1980,1,1988,TRUE
+"819","Jamaica",51,"Caribbean","Americas","Hugh Lawson Shearer",5,"Democracy",0,1967,1,1971,TRUE
+"821","Jamaica",51,"Caribbean","Americas","Michael Manley",8,"Democracy",0,1972,1,1979,TRUE
+"825","Jamaica",51,"Caribbean","Americas","William Bustamante",5,"Democracy",0,1962,1,1966,TRUE
+"826","Japan",740,"Eastern Asia","Asia","Eisaku Sato",8,"Democracy",0,1964,1,1971,TRUE
+"827","Japan",740,"Eastern Asia","Asia","Hayato Ikeda",4,"Democracy",0,1960,1,1963,TRUE
+"828","Japan",740,"Eastern Asia","Asia","Ichiro Hatoyama",2,"Democracy",0,1954,1,1955,TRUE
+"830","Japan",740,"Eastern Asia","Asia","Kakuei Tanaka",2,"Democracy",0,1972,1,1973,TRUE
+"833","Japan",740,"Eastern Asia","Asia","Masayoshi Ohira",2,"Democracy",0,1978,0,1979,TRUE
+"835","Japan",740,"Eastern Asia","Asia","Noboru Takeshita",2,"Democracy",0,1987,1,1988,TRUE
+"836","Japan",740,"Eastern Asia","Asia","Nobusuke Kishi",3,"Democracy",0,1957,1,1959,TRUE
+"838","Japan",740,"Eastern Asia","Asia","Shigeru Yoshida",4,"Democracy",0,1942,0,1945,TRUE
+"839","Japan",740,"Eastern Asia","Asia","Shigeru Yoshida",6,"Democracy",0,1946,1,1951,TRUE
+"842","Japan",740,"Eastern Asia","Asia","Takeo Fukuda",2,"Democracy",0,1976,1,1977,TRUE
+"843","Japan",740,"Eastern Asia","Asia","Takeo Miki",2,"Democracy",0,1974,1,1975,TRUE
+"844","Japan",740,"Eastern Asia","Asia","Tanzan Ishibashi",1,"Democracy",0,1956,1,1956,TRUE
+"846","Japan",740,"Eastern Asia","Asia","Tetsu Katayama",1,"Democracy",0,1947,1,1947,TRUE
+"848","Japan",740,"Eastern Asia","Asia","Yasuhiro Nakasone",5,"Democracy",0,1982,1,1986,TRUE
+"851","Japan",740,"Eastern Asia","Asia","Zenko Suzuki",2,"Democracy",0,1980,1,1981,TRUE
+"853","Jordan",663,"Western Asia","Asia","Abdullah bin Hussein",30,"Non-democracy",0,1921,0,1950,TRUE
+"855","Jordan",663,"Western Asia","Asia","Talal bin Abdullah",1,"Non-democracy",0,1951,1,1951,TRUE
+"859","Kenya",501,"Eastern Africa","Africa","Jomo Kenyatta",15,"Non-democracy",0,1963,0,1977,TRUE
+"862","Kiribati",946,"Micronesia","Oceania","Ieremia Tabai",4,"Democracy",0,1978,1,1981,TRUE
+"864","Kiribati",946,"Micronesia","Oceania","Rota Onorio",1,"Democracy",0,1982,1,1982,TRUE
+"867","Kuwait",690,"Western Asia","Asia","Sheikh Abdullah Al Salim Al Sabah",15,"Non-democracy",0,1950,0,1964,TRUE
+"870","Kuwait",690,"Western Asia","Asia","Sheikh Sabah Al Salim Al Sabah",12,"Non-democracy",0,1965,0,1976,TRUE
+"875","Laos",812,"South-Eastern Asia","Asia","Katay Don Sasorith",2,"Democracy",0,1954,1,1955,TRUE
+"878","Laos",812,"South-Eastern Asia","Asia","Phoui Sananikone",1,"Democracy",0,1958,1,1958,TRUE
+"879","Laos",812,"South-Eastern Asia","Asia","Phoumi Nosavan",1,"Non-democracy",1,1959,1,1959,TRUE
+"880","Laos",812,"South-Eastern Asia","Asia","Phoumi Nosavan",2,"Non-democracy",1,1960,1,1961,TRUE
+"881","Laos",812,"South-Eastern Asia","Asia","Prince Souvanna Phouma",2,"Democracy",0,1956,1,1957,TRUE
+"882","Laos",812,"South-Eastern Asia","Asia","Prince Souvanna Phouma",3,"Democracy",0,1951,1,1953,TRUE
+"883","Laos",812,"South-Eastern Asia","Asia","Prince Souvanna Phouma",13,"Non-democracy",1,1962,1,1974,TRUE
+"895","Lebanon",660,"Western Asia","Asia","Abd' Rashin Sami es-Solh",1,"Democracy",0,1954,1,1954,TRUE
+"896","Lebanon",660,"Western Asia","Asia","Abd' Rashin Sami es-Solh",2,"Democracy",0,1956,1,1957,TRUE
+"897","Lebanon",660,"Western Asia","Asia","Abdullah Aref al-Yafi",1,"Democracy",0,1951,1,1951,TRUE
+"898","Lebanon",660,"Western Asia","Asia","Amine Pierre Gemayel",6,"Non-democracy",1,1982,1,1987,TRUE
+"899","Lebanon",660,"Western Asia","Asia","Amir Khalid Chehab",1,"Democracy",0,1952,1,1952,TRUE
+"901","Lebanon",660,"Western Asia","Asia","Elias Sarkis",6,"Non-democracy",1,1976,1,1981,TRUE
+"904","Lebanon",660,"Western Asia","Asia","Hussein al-Oweini",1,"Democracy",0,1964,1,1964,TRUE
+"905","Lebanon",660,"Western Asia","Asia","Michel Aoun",1,"Non-democracy",1,1988,1,1988,TRUE
+"907","Lebanon",660,"Western Asia","Asia","Rashid es-Solh",1,"Democracy",0,1974,1,1974,TRUE
+"908","Lebanon",660,"Western Asia","Asia","Rashid Karame",1,"Democracy",0,1955,1,1955,TRUE
+"909","Lebanon",660,"Western Asia","Asia","Rashid Karame",2,"Democracy",0,1958,1,1959,TRUE
+"910","Lebanon",660,"Western Asia","Asia","Rashid Karame",3,"Democracy",0,1961,1,1963,TRUE
+"911","Lebanon",660,"Western Asia","Asia","Riyad es-Solh",1,"Democracy",0,1946,1,1946,TRUE
+"912","Lebanon",660,"Western Asia","Asia","Riyad es-Solh",4,"Democracy",0,1947,1,1950,TRUE
+"913","Lebanon",660,"Western Asia","Asia","Saeb Sallam",1,"Democracy",0,1960,1,1960,TRUE
+"914","Lebanon",660,"Western Asia","Asia","Saeb Sallam",3,"Democracy",0,1970,1,1972,TRUE
+"915","Lebanon",660,"Western Asia","Asia","Soleiman Kabalan Franjieh",1,"Non-democracy",1,1975,1,1975,TRUE
+"916","Lebanon",660,"Western Asia","Asia","Takieddin es-Solh",1,"Democracy",0,1973,1,1973,TRUE
+"919","Lesotho",570,"Southern Africa","Africa","Leabua Jonathan",21,"Non-democracy",0,1965,1,1985,TRUE
+"930","Liberia",450,"Western Africa","Africa","Samuel Doe",10,"Non-democracy",0,1980,0,1989,TRUE
+"931","Liberia",450,"Western Africa","Africa","William Tolbert, Jr.",9,"Non-democracy",0,1971,0,1979,TRUE
+"932","Liberia",450,"Western Africa","Africa","William Tubman",27,"Non-democracy",0,1944,0,1970,TRUE
+"934","Libyan Arab Jamahiriya",620,"Northern Africa","Africa","Idris I",18,"Non-democracy",0,1951,1,1968,TRUE
+"936","Liechtenstein",223,"Western Europe","Europe","Alexander Frick",17,"Democracy",0,1945,1,1961,TRUE
+"937","Liechtenstein",223,"Western Europe","Europe","Alfred Hilbe",4,"Democracy",0,1970,1,1973,TRUE
+"938","Liechtenstein",223,"Western Europe","Europe","Gerard Batliner",8,"Democracy",0,1952,1,1959,TRUE
+"942","Liechtenstein",223,"Western Europe","Europe","Walter Kieber",4,"Democracy",0,1974,1,1977,TRUE
+"951","Luxembourg",212,"Western Europe","Europe","Gaston Thorn",5,"Democracy",0,1974,1,1978,TRUE
+"954","Luxembourg",212,"Western Europe","Europe","Joseph Bech",5,"Democracy",0,1953,1,1957,TRUE
+"955","Luxembourg",212,"Western Europe","Europe","Pierre Dupong",9,"Democracy",0,1944,0,1952,TRUE
+"956","Luxembourg",212,"Western Europe","Europe","Pierre Frieden",1,"Democracy",0,1958,1,1958,TRUE
+"957","Luxembourg",212,"Western Europe","Europe","Pierre Werner",5,"Democracy",0,1979,1,1983,TRUE
+"958","Luxembourg",212,"Western Europe","Europe","Pierre Werner",15,"Democracy",0,1959,1,1973,TRUE
+"969","Madagascar",580,"Eastern Africa","Africa","Gabriel Ramanantsoa",3,"Non-democracy",0,1972,1,1974,TRUE
+"973","Madagascar",580,"Eastern Africa","Africa","Philibert Tsiranana",14,"Non-democracy",0,1958,1,1971,TRUE
+"979","Malaysia",820,"South-Eastern Asia","Asia","Hussein bin Onn",5,"Non-democracy",0,1976,1,1980,TRUE
+"981","Malaysia",820,"South-Eastern Asia","Asia","Tun Abdul Razak bin Hussein",6,"Non-democracy",0,1970,0,1975,TRUE
+"982","Malaysia",820,"South-Eastern Asia","Asia","Tunku Abdul Rahman Putra",4,"Non-democracy",0,1955,1,1958,TRUE
+"983","Malaysia",820,"South-Eastern Asia","Asia","Tunku Abdul Rahman Putra",11,"Non-democracy",0,1959,1,1969,TRUE
+"984","Maldives",781,"Southern Asia","Asia","Ibrahim Nasir",10,"Non-democracy",0,1968,1,1977,TRUE
+"987","Maldives",781,"Southern Asia","Asia","Muhammad Farid Didi",14,"Non-democracy",0,1954,1,1967,TRUE
+"993","Mali",432,"Western Africa","Africa","Modibo Keita",9,"Non-democracy",0,1959,1,1967,TRUE
+"999","Malta",338,"Southern Europe","Europe","Carmelo Mifsud-Bonnici",3,"Democracy",0,1984,1,1986,TRUE
+"1000","Malta",338,"Southern Europe","Europe","Dominic Mintoff",13,"Democracy",0,1971,1,1983,TRUE
+"1003","Malta",338,"Southern Europe","Europe","George Borg Olivier",9,"Democracy",0,1962,1,1970,TRUE
+"1011","Mauritania",435,"Western Africa","Africa","Mahmed Ould Louly",1,"Non-democracy",0,1979,1,1979,TRUE
+"1014","Mauritania",435,"Western Africa","Africa","Mohammed Khouna Ould Haydalla",4,"Non-democracy",0,1980,1,1983,TRUE
+"1015","Mauritania",435,"Western Africa","Africa","Moktar Ould Daddah",20,"Non-democracy",0,1958,1,1977,TRUE
+"1016","Mauritania",435,"Western Africa","Africa","Mustapha Ould Salek",1,"Non-democracy",0,1978,1,1978,TRUE
+"1023","Mauritius",590,"Eastern Africa","Africa","Seewoosagur Ramgoolam",21,"Democracy",0,1961,1,1981,TRUE
+"1024","Mexico",70,"Central America","Americas","Adolfo Lopez Mateos",6,"Non-democracy",0,1958,1,1963,TRUE
+"1025","Mexico",70,"Central America","Americas","Adolfo Ruiz Cortines",6,"Non-democracy",0,1952,1,1957,TRUE
+"1029","Mexico",70,"Central America","Americas","Gustavo Diaz Ordaz",6,"Non-democracy",0,1964,1,1969,TRUE
+"1030","Mexico",70,"Central America","Americas","Jose Lopez Portillo",6,"Non-democracy",0,1976,1,1981,TRUE
+"1031","Mexico",70,"Central America","Americas","Luis Echeverria Alvarez",6,"Non-democracy",0,1970,1,1975,TRUE
+"1032","Mexico",70,"Central America","Americas","Miguel Aleman",6,"Non-democracy",0,1946,1,1951,TRUE
+"1033","Mexico",70,"Central America","Americas","Miguel de la Madrid",6,"Non-democracy",0,1982,1,1987,TRUE
+"1046","Mongolia",712,"Eastern Asia","Asia","Dashiyn Damba",4,"Non-democracy",0,1954,1,1957,TRUE
+"1047","Mongolia",712,"Eastern Asia","Asia","Jambyn Batmounkh",6,"Non-democracy",0,1984,1,1989,TRUE
+"1057","Mongolia",712,"Eastern Asia","Asia","Yumjaagiyn Tsedenbal",14,"Non-democracy",0,1940,1,1953,TRUE
+"1058","Mongolia",712,"Eastern Asia","Asia","Yumjaagiyn Tsedenbal",26,"Non-democracy",0,1958,1,1983,TRUE
+"1061","Morocco",600,"Northern Africa","Africa","Muhammad V",6,"Non-democracy",0,1955,0,1960,TRUE
+"1065","Mozambique",541,"Eastern Africa","Africa","Samora Machel",11,"Non-democracy",0,1975,0,1985,TRUE
+"1067","Myanmar",775,"South-Eastern Asia","Asia","Ne Win",2,"Non-democracy",1,1958,1,1959,TRUE
+"1068","Myanmar",775,"South-Eastern Asia","Asia","Ne Win",26,"Non-democracy",2,1962,1,1987,TRUE
+"1070","Myanmar",775,"South-Eastern Asia","Asia","U Ba Swe",1,"Democracy",0,1956,1,1956,TRUE
+"1071","Myanmar",775,"South-Eastern Asia","Asia","U Nu",1,"Democracy",0,1957,1,1957,TRUE
+"1072","Myanmar",775,"South-Eastern Asia","Asia","U Nu",2,"Democracy",1,1960,1,1961,TRUE
+"1073","Myanmar",775,"South-Eastern Asia","Asia","U Nu",9,"Democracy",0,1947,1,1955,TRUE
+"1076","Nauru",970,"Micronesia","Oceania","Bernard Dowiyogo",2,"Democracy",0,1976,1,1977,TRUE
+"1079","Nauru",970,"Micronesia","Oceania","Hammer DeRoburt",3,"Democracy",0,1986,1,1988,TRUE
+"1080","Nauru",970,"Micronesia","Oceania","Hammer DeRoburt",8,"Democracy",0,1968,1,1975,TRUE
+"1094","Nepal",790,"Southern Asia","Asia","Mahendra Bir Bikram Shah Deva",17,"Non-democracy",0,1955,0,1971,TRUE
+"1096","Nepal",790,"Southern Asia","Asia","Mohan Shumshere Rana",3,"Non-democracy",0,1948,1,1950,TRUE
+"1097","Nepal",790,"Southern Asia","Asia","Padma Shumshere Rana",3,"Non-democracy",0,1945,1,1947,TRUE
+"1102","Nepal",790,"Southern Asia","Asia","Tribhuwan Bir Bikram Shah Deva",4,"Non-democracy",0,1951,0,1954,TRUE
+"1103","Netherlands",210,"Western Europe","Europe","Andreas van Agt",5,"Democracy",0,1977,1,1981,TRUE
+"1104","Netherlands",210,"Western Europe","Europe","Barend Biesheuvel",2,"Democracy",0,1971,1,1972,TRUE
+"1105","Netherlands",210,"Western Europe","Europe","Jan de Quay",4,"Democracy",0,1959,1,1962,TRUE
+"1107","Netherlands",210,"Western Europe","Europe","Johannes den Uyl",4,"Democracy",0,1973,1,1976,TRUE
+"1108","Netherlands",210,"Western Europe","Europe","Joseph Cals",2,"Democracy",0,1965,1,1966,TRUE
+"1109","Netherlands",210,"Western Europe","Europe","Louis Beel",1,"Democracy",0,1958,1,1958,TRUE
+"1110","Netherlands",210,"Western Europe","Europe","Louis Beel",2,"Democracy",0,1946,1,1947,TRUE
+"1111","Netherlands",210,"Western Europe","Europe","Petrus de Jong",4,"Democracy",0,1967,1,1970,TRUE
+"1113","Netherlands",210,"Western Europe","Europe","Victor Marijnen",2,"Democracy",0,1963,1,1964,TRUE
+"1114","Netherlands",210,"Western Europe","Europe","Willem Drees",10,"Democracy",0,1948,1,1957,TRUE
+"1116","New Zealand",920,"Australia and New Zealand","Oceania","David Lange",5,"Democracy",0,1984,1,1988,TRUE
+"1117","New Zealand",920,"Australia and New Zealand","Oceania","Geoffrey Palmer",1,"Democracy",0,1989,1,1989,TRUE
+"1122","New Zealand",920,"Australia and New Zealand","Oceania","Keith Holyoake",12,"Democracy",0,1960,1,1971,TRUE
+"1123","New Zealand",920,"Australia and New Zealand","Oceania","Norman Kirk",2,"Democracy",0,1972,0,1973,TRUE
+"1124","New Zealand",920,"Australia and New Zealand","Oceania","Peter Fraser",9,"Democracy",0,1940,1,1948,TRUE
+"1125","New Zealand",920,"Australia and New Zealand","Oceania","Robert Muldoon",9,"Democracy",0,1975,1,1983,TRUE
+"1126","New Zealand",920,"Australia and New Zealand","Oceania","Sidney Holland",8,"Democracy",0,1949,1,1956,TRUE
+"1127","New Zealand",920,"Australia and New Zealand","Oceania","Wallace Rowling",1,"Democracy",0,1974,1,1974,TRUE
+"1128","New Zealand",920,"Australia and New Zealand","Oceania","Walter Nash",3,"Democracy",0,1957,1,1959,TRUE
+"1129","Nicaragua",93,"Central America","Americas","Anastasio Somoza Debayle",12,"Non-democracy",0,1967,1,1978,TRUE
+"1130","Nicaragua",93,"Central America","Americas","Anastasio Somoza Garcia",19,"Non-democracy",0,1937,0,1955,TRUE
+"1131","Nicaragua",93,"Central America","Americas","Daniel Ortega Saavedra",5,"Non-democracy",0,1979,1,1983,TRUE
+"1136","Nicaragua",93,"Central America","Americas","Luis Somoza Debayle",11,"Non-democracy",0,1956,1,1966,TRUE
+"1143","Niger",436,"Western Africa","Africa","Hamani Diori",16,"Non-democracy",0,1958,1,1973,TRUE
+"1146","Niger",436,"Western Africa","Africa","Seyni Kountche",13,"Non-democracy",0,1974,0,1986,TRUE
+"1149","Nigeria",475,"Western Africa","Africa","Abubakar Tafawa Balewa",9,"Democracy",0,1957,0,1965,TRUE
+"1151","Nigeria",475,"Western Africa","Africa","Mohammed Buhari",2,"Non-democracy",2,1983,1,1984,TRUE
+"1152","Nigeria",475,"Western Africa","Africa","Murtala Mohammed",1,"Non-democracy",1,1975,0,1975,TRUE
+"1153","Nigeria",475,"Western Africa","Africa","Olusegun Obasanjo",3,"Non-democracy",1,1976,1,1978,TRUE
+"1156","Nigeria",475,"Western Africa","Africa","Shehu Shagari",4,"Democracy",1,1979,1,1982,TRUE
+"1158","Nigeria",475,"Western Africa","Africa","Yakubu Gowon",9,"Non-democracy",1,1966,1,1974,TRUE
+"1161","Norway",385,"Northern Europe","Europe","Einar Gerhardsen",2,"Democracy",0,1963,1,1964,TRUE
+"1162","Norway",385,"Northern Europe","Europe","Einar Gerhardsen",6,"Democracy",0,1945,1,1950,TRUE
+"1163","Norway",385,"Northern Europe","Europe","Einar Gerhardsen",8,"Democracy",0,1955,1,1962,TRUE
+"1164","Norway",385,"Northern Europe","Europe","Gro Harlem Brundtland",3,"Democracy",0,1986,1,1988,TRUE
+"1166","Norway",385,"Northern Europe","Europe","Jan Peder Syse",1,"Democracy",0,1989,1,1989,TRUE
+"1169","Norway",385,"Northern Europe","Europe","Kare Isaachsen Willoch",5,"Democracy",0,1981,1,1985,TRUE
+"1172","Norway",385,"Northern Europe","Europe","Lars Korvald",1,"Democracy",0,1972,1,1972,TRUE
+"1173","Norway",385,"Northern Europe","Europe","Odvar Nordli",5,"Democracy",0,1976,1,1980,TRUE
+"1174","Norway",385,"Northern Europe","Europe","Oscar Torp",4,"Democracy",0,1951,1,1954,TRUE
+"1175","Norway",385,"Northern Europe","Europe","Per Borten",6,"Democracy",0,1965,1,1970,TRUE
+"1177","Norway",385,"Northern Europe","Europe","Trygve Bratteli",1,"Democracy",0,1971,1,1971,TRUE
+"1178","Norway",385,"Northern Europe","Europe","Trygve Bratteli",3,"Democracy",0,1973,1,1975,TRUE
+"1180","Pakistan",770,"Southern Asia","Asia","Agha Mohammad Yahya Khan",2,"Non-democracy",1,1969,1,1970,TRUE
+"1181","Pakistan",770,"Southern Asia","Asia","Benazir Bhutto",2,"Democracy",2,1988,1,1989,TRUE
+"1183","Pakistan",770,"Southern Asia","Asia","Chauhdry Mohammad Ali",1,"Democracy",0,1955,1,1955,TRUE
+"1184","Pakistan",770,"Southern Asia","Asia","Hwaja Nazim ad-Din",2,"Democracy",0,1951,1,1952,TRUE
+"1185","Pakistan",770,"Southern Asia","Asia","Iskander Ali Mirza",2,"Democracy",0,1956,1,1957,TRUE
+"1186","Pakistan",770,"Southern Asia","Asia","Liaquat Ali Khan",4,"Democracy",0,1947,0,1950,TRUE
+"1188","Pakistan",770,"Southern Asia","Asia","Mohammad Ali Bogra",2,"Democracy",0,1953,1,1954,TRUE
+"1189","Pakistan",770,"Southern Asia","Asia","Mohammad Ayub Khan",11,"Non-democracy",1,1958,1,1968,TRUE
+"1190","Pakistan",770,"Southern Asia","Asia","Mohammad Zia-ul-Haq",11,"Non-democracy",2,1977,0,1987,TRUE
+"1195","Pakistan",770,"Southern Asia","Asia","Zulfikar Ali Bhutto",6,"Democracy",1,1971,1,1976,TRUE
+"1196","Pakistan",770,"Southern Asia","Asia","Zulfikar Ali Bhutto",6,"Non-democracy",1,1971,1,1976,TRUE
+"1199","Panama",95,"Central America","Americas","Arnulfo Arias Madrid",2,"Democracy",0,1949,1,1950,TRUE
+"1200","Panama",95,"Central America","Americas","Domingo Diaz Arosemena",1,"Non-democracy",0,1948,1,1948,TRUE
+"1201","Panama",95,"Central America","Americas","Enrique Jimenez",3,"Non-democracy",0,1945,1,1947,TRUE
+"1202","Panama",95,"Central America","Americas","Ernesto de las Guardia",4,"Democracy",1,1956,1,1959,TRUE
+"1204","Panama",95,"Central America","Americas","Gen. Manuel Antonio Noriega Morena",6,"Non-democracy",2,1983,1,1988,TRUE
+"1206","Panama",95,"Central America","Americas","Jose Remon Cantero",3,"Democracy",1,1952,0,1954,TRUE
+"1207","Panama",95,"Central America","Americas","Marco Robles",4,"Democracy",1,1964,1,1967,TRUE
+"1209","Panama",95,"Central America","Americas","military",1,"Non-democracy",1,1951,1,1951,TRUE
+"1210","Panama",95,"Central America","Americas","military",2,"Non-democracy",2,1981,1,1982,TRUE
+"1212","Panama",95,"Central America","Americas","Omar Torrijos Herrera",13,"Non-democracy",2,1968,0,1980,TRUE
+"1213","Panama",95,"Central America","Americas","Ricardo Arias Espinosa",1,"Democracy",1,1955,1,1955,TRUE
+"1214","Panama",95,"Central America","Americas","Roberto Chiari",4,"Democracy",1,1960,1,1963,TRUE
+"1216","Papua New Guinea",910,"Melanesia","Oceania","Julius Chan",2,"Democracy",0,1980,1,1981,TRUE
+"1219","Papua New Guinea",910,"Melanesia","Oceania","Michael Somare",3,"Democracy",0,1982,1,1984,TRUE
+"1221","Papua New Guinea",910,"Melanesia","Oceania","Michael Somare",8,"Democracy",0,1972,1,1979,TRUE
+"1223","Papua New Guinea",910,"Melanesia","Oceania","Paias Wingti",3,"Democracy",0,1985,1,1987,TRUE
+"1226","Paraguay",150,"South America","Americas","Alfredo Stroessner",35,"Non-democracy",0,1954,1,1988,TRUE
+"1228","Paraguay",150,"South America","Americas","Federico Chavez",5,"Non-democracy",0,1949,1,1953,TRUE
+"1230","Paraguay",150,"South America","Americas","Higinio Morinigo",8,"Non-democracy",0,1940,1,1947,TRUE
+"1232","Paraguay",150,"South America","Americas","Juan Natalicio Gonzalez",1,"Non-democracy",0,1948,1,1948,TRUE
+"1236","Peru",135,"South America","Americas","Alan Garcia Perez",5,"Democracy",3,1985,1,1989,TRUE
+"1239","Peru",135,"South America","Americas","Fernando Belaunde Terry",5,"Democracy",2,1963,1,1967,TRUE
+"1240","Peru",135,"South America","Americas","Fernando Belaunde Terry",5,"Democracy",3,1963,1,1967,TRUE
+"1241","Peru",135,"South America","Americas","Francisco Morales Bermudez",5,"Non-democracy",3,1975,1,1979,TRUE
+"1242","Peru",135,"South America","Americas","Jose Bustamente y Rivero",3,"Democracy",0,1945,1,1947,TRUE
+"1243","Peru",135,"South America","Americas","Juan Velasco Alvaredo",7,"Non-democracy",3,1968,1,1974,TRUE
+"1244","Peru",135,"South America","Americas","Manuel Odria",8,"Non-democracy",1,1948,1,1955,TRUE
+"1245","Peru",135,"South America","Americas","Manuel Prado y Ugarteche",6,"Democracy",1,1956,1,1961,TRUE
+"1246","Peru",135,"South America","Americas","Ricardo Perez Godoy",1,"Non-democracy",2,1962,1,1962,TRUE
+"1248","Philippines",840,"South-Eastern Asia","Asia","Carlos Garcia",4,"Democracy",0,1957,1,1960,TRUE
+"1250","Philippines",840,"South-Eastern Asia","Asia","Diosdado Macapagal",4,"Democracy",0,1961,1,1964,TRUE
+"1251","Philippines",840,"South-Eastern Asia","Asia","Elpidio Quirino",6,"Democracy",0,1948,1,1953,TRUE
+"1252","Philippines",840,"South-Eastern Asia","Asia","Ferdinand Marcos",21,"Non-democracy",1,1965,1,1985,TRUE
+"1255","Philippines",840,"South-Eastern Asia","Asia","Manuel Roxas y Acuna",2,"Democracy",0,1946,0,1947,TRUE
+"1257","Philippines",840,"South-Eastern Asia","Asia","Ramon Magsaysay",3,"Democracy",0,1954,0,1956,TRUE
+"1258","Poland",290,"Eastern Europe","Europe","Boleslaw Bierut",8,"Non-democracy",1,1948,1,1955,TRUE
+"1260","Poland",290,"Eastern Europe","Europe","Edward Gierek",10,"Non-democracy",1,1970,1,1979,TRUE
+"1269","Poland",290,"Eastern Europe","Europe","Stanislaw Kania",1,"Non-democracy",1,1980,1,1980,TRUE
+"1272","Poland",290,"Eastern Europe","Europe","Wladyslaw Gomulka",2,"Non-democracy",1,1946,1,1947,TRUE
+"1273","Poland",290,"Eastern Europe","Europe","Wladyslaw Gomulka",14,"Non-democracy",1,1956,1,1969,TRUE
+"1275","Poland",290,"Eastern Europe","Europe","Wojciech Jaruzelski",8,"Non-democracy",1,1981,1,1988,TRUE
+"1277","Portugal",235,"Southern Europe","Europe","Antonio de Oliveira Salazar",36,"Non-democracy",1,1932,1,1967,TRUE
+"1279","Portugal",235,"Southern Europe","Europe","Carlos da Mota Pinto",1,"Democracy",1,1978,1,1978,TRUE
+"1280","Portugal",235,"Southern Europe","Europe","Diogo Freitas do Amaral",1,"Democracy",1,1980,1,1980,TRUE
+"1281","Portugal",235,"Southern Europe","Europe","Francisco da Costa Gomes",2,"Non-democracy",1,1974,1,1975,TRUE
+"1282","Portugal",235,"Southern Europe","Europe","Francisco Pinto Balsemao",2,"Democracy",1,1981,1,1982,TRUE
+"1285","Portugal",235,"Southern Europe","Europe","Marcelo Caetano",6,"Non-democracy",1,1968,1,1973,TRUE
+"1286","Portugal",235,"Southern Europe","Europe","Maria de Lourdes Pintasilgo",1,"Democracy",1,1979,1,1979,TRUE
+"1287","Portugal",235,"Southern Europe","Europe","Mario Alberto Nobre Lopes Soares",2,"Democracy",1,1976,1,1977,TRUE
+"1288","Portugal",235,"Southern Europe","Europe","Mario Soares",2,"Democracy",1,1983,1,1984,TRUE
+"1290","Qatar",694,"Western Asia","Asia","Sheikh Ahmad ibn Ali Al Thani",12,"Non-democracy",0,1960,1,1971,TRUE
+"1296","Romania",360,"Eastern Europe","Europe","Georghe Gheorghiu-Dej",9,"Non-democracy",0,1945,1,1953,TRUE
+"1297","Romania",360,"Eastern Europe","Europe","Georghe Gheorghiu-Dej",10,"Non-democracy",0,1955,0,1964,TRUE
+"1298","Romania",360,"Eastern Europe","Europe","Gheorghe Apostol",1,"Non-democracy",0,1954,1,1954,TRUE
+"1300","Romania",360,"Eastern Europe","Europe","Nicolae Ceausescu",25,"Non-democracy",0,1965,0,1989,TRUE
+"1302","Romania",360,"Eastern Europe","Europe","Petre Roman",1,"Democracy",0,1989,1,1989,TRUE
+"1309","Rwanda",517,"Eastern Africa","Africa","Gregoire Kayibanda",13,"Non-democracy",0,1960,1,1972,TRUE
+"1313","Samoa",990,"Polynesia","Oceania","Malietoa Tanumafili II + Tupua Tamasese Mea'ole",1,"Non-democracy",0,1962,0,1962,TRUE
+"1347","Saudi Arabia",670,"Western Asia","Asia","Faysal",11,"Non-democracy",0,1964,0,1974,TRUE
+"1348","Saudi Arabia",670,"Western Asia","Asia","Ibn Sa'ud",21,"Non-democracy",0,1932,0,1952,TRUE
+"1349","Saudi Arabia",670,"Western Asia","Asia","Khalid",7,"Non-democracy",0,1975,0,1981,TRUE
+"1350","Saudi Arabia",670,"Western Asia","Asia","Sa'ud",11,"Non-democracy",0,1953,1,1963,TRUE
+"1354","Senegal",433,"Western Africa","Africa","Leopold Senghor",21,"Non-democracy",0,1960,1,1980,TRUE
+"1367","Seychelles",591,"Eastern Africa","Africa","James Mancham",7,"Non-democracy",0,1970,1,1976,TRUE
+"1370","Sierra Leone",451,"Western Africa","Africa","Albert Margai",3,"Democracy",0,1964,1,1966,TRUE
+"1371","Sierra Leone",451,"Western Africa","Africa","Andrew Juxon-Smith",1,"Non-democracy",1,1967,1,1967,TRUE
+"1375","Sierra Leone",451,"Western Africa","Africa","Milton Margai",10,"Democracy",0,1954,0,1963,TRUE
+"1376","Sierra Leone",451,"Western Africa","Africa","Siaka Stevens",17,"Non-democracy",1,1968,1,1984,TRUE
+"1380","Singapore",830,"South-Eastern Asia","Asia","Lee Kuan Yew",31,"Non-democracy",0,1959,1,1989,TRUE
+"1394","Solomon Islands",940,"Melanesia","Oceania","Ezekiel Alebua",3,"Democracy",0,1986,1,1988,TRUE
+"1398","Solomon Islands",940,"Melanesia","Oceania","Peter Kenilorea",2,"Democracy",0,1984,1,1985,TRUE
+"1399","Solomon Islands",940,"Melanesia","Oceania","Peter Kenilorea",5,"Democracy",0,1976,1,1980,TRUE
+"1400","Solomon Islands",940,"Melanesia","Oceania","Solomon Mamaloni",3,"Democracy",0,1981,1,1983,TRUE
+"1403","Somalia",520,"Eastern Africa","Africa","Abdirashid Shermarke",4,"Democracy",0,1960,0,1963,TRUE
+"1404","Somalia",520,"Eastern Africa","Africa","Abdirizak Hussain",3,"Democracy",0,1964,1,1966,TRUE
+"1409","Somalia",520,"Eastern Africa","Africa","Mohammed Egal",2,"Democracy",0,1967,1,1968,TRUE
+"1411","South Africa",560,"Southern Africa","Africa","B. Johannes Vorster",12,"Non-democracy",0,1966,1,1977,TRUE
+"1412","South Africa",560,"Southern Africa","Africa","Daniel Malan",6,"Non-democracy",0,1948,1,1953,TRUE
+"1414","South Africa",560,"Southern Africa","Africa","Hendrik Verwoerd",8,"Non-democracy",0,1958,0,1965,TRUE
+"1415","South Africa",560,"Southern Africa","Africa","Jan Christian Smuts",9,"Non-democracy",0,1939,1,1947,TRUE
+"1416","South Africa",560,"Southern Africa","Africa","Johannes Strijdom",4,"Non-democracy",0,1954,0,1957,TRUE
+"1419","South Africa",560,"Southern Africa","Africa","Pieter Botha",11,"Non-democracy",0,1978,1,1988,TRUE
+"1421","South Korea",732,"Eastern Asia","Asia","Chun Doo Hwan",9,"Non-democracy",1,1979,1,1987,TRUE
+"1422","South Korea",732,"Eastern Asia","Asia","John Myun Chang",1,"Democracy",0,1960,1,1960,TRUE
+"1426","South Korea",732,"Eastern Asia","Asia","Park Chung Hee",18,"Non-democracy",1,1961,0,1978,TRUE
+"1430","South Korea",732,"Eastern Asia","Asia","Syngman Rhee",12,"Non-democracy",0,1948,1,1959,TRUE
+"1431","Spain",230,"Southern Europe","Europe","Adolfo Suarez Gonzalez",5,"Democracy",1,1976,1,1980,TRUE
+"1432","Spain",230,"Southern Europe","Europe","Adolfo Suarez Gonzalez",5,"Non-democracy",1,1976,1,1980,TRUE
+"1433","Spain",230,"Southern Europe","Europe","Carlos Arias Navarro",1,"Non-democracy",1,1973,1,1973,TRUE
+"1435","Spain",230,"Southern Europe","Europe","Francisco Franco y Bahamonde",36,"Non-democracy",1,1939,0,1974,TRUE
+"1438","Spain",230,"Southern Europe","Europe","Leopoldo Calvo-Sotelo y Bustelo",1,"Democracy",1,1981,1,1981,TRUE
+"1440","Sri Lanka",780,"Southern Asia","Asia","Don Stephen Senanayake",5,"Democracy",0,1947,0,1951,TRUE
+"1441","Sri Lanka",780,"Southern Asia","Asia","Dudley Shelton Senanayake",1,"Democracy",0,1952,1,1952,TRUE
+"1442","Sri Lanka",780,"Southern Asia","Asia","Dudley Shelton Senanayake",5,"Democracy",0,1965,1,1969,TRUE
+"1443","Sri Lanka",780,"Southern Asia","Asia","John Lionel Kotelawala",3,"Democracy",0,1953,1,1955,TRUE
+"1444","Sri Lanka",780,"Southern Asia","Asia","Junius Richard Jayawardene",12,"Non-democracy",1,1977,1,1988,TRUE
+"1450","Sri Lanka",780,"Southern Asia","Asia","S.W.R.D. Bandaranaike",3,"Democracy",0,1956,0,1958,TRUE
+"1451","Sri Lanka",780,"Southern Asia","Asia","Sirimavo Bandaranaike",5,"Democracy",0,1960,1,1964,TRUE
+"1453","Sri Lanka",780,"Southern Asia","Asia","Sirimavo Bandaranaike",7,"Democracy",0,1970,1,1976,TRUE
+"1454","Sri Lanka",780,"Southern Asia","Asia","Vijayananda Dahanayake",1,"Democracy",0,1959,1,1959,TRUE
+"1457","St. Lucia",56,"Caribbean","Americas","Allan Louisy",2,"Democracy",0,1979,1,1980,TRUE
+"1463","St. Lucia",56,"Caribbean","Americas","Winston Francis Cenac",1,"Democracy",0,1981,1,1981,TRUE
+"1466","St. Vincent and the Grenadines",57,"Caribbean","Americas","Milton Cato",10,"Democracy",0,1974,1,1983,TRUE
+"1468","Sudan",625,"Northern Africa","Africa","Abdul Rahman Swareddabhab",1,"Non-democracy",2,1985,1,1985,TRUE
+"1469","Sudan",625,"Northern Africa","Africa","Abdullah Khalil",2,"Democracy",0,1956,1,1957,TRUE
+"1470","Sudan",625,"Northern Africa","Africa","Ibrahim Abboud",6,"Non-democracy",1,1958,1,1963,TRUE
+"1471","Sudan",625,"Northern Africa","Africa","Jaafar el-Nemery",16,"Non-democracy",2,1969,1,1984,TRUE
+"1472","Sudan",625,"Northern Africa","Africa","Mohammed Mahgoub",1,"Democracy",1,1965,1,1965,TRUE
+"1473","Sudan",625,"Northern Africa","Africa","Mohammed Mahgoub",2,"Democracy",1,1967,1,1968,TRUE
+"1475","Sudan",625,"Northern Africa","Africa","Sadiq al-Mahdi",1,"Democracy",1,1966,1,1966,TRUE
+"1476","Sudan",625,"Northern Africa","Africa","Sadiq al-Mahdi",3,"Democracy",2,1986,1,1988,TRUE
+"1477","Sudan",625,"Northern Africa","Africa","Sir al-Khatim al-Khalifah",1,"Non-democracy",1,1964,1,1964,TRUE
+"1479","Suriname",115,"South America","Americas","Desi Bouterse",8,"Non-democracy",1,1980,1,1987,TRUE
+"1480","Suriname",115,"South America","Americas","Henck Arron",7,"Democracy",0,1973,1,1979,TRUE
+"1482","Suriname",115,"South America","Americas","Ramsewak Shankar",2,"Democracy",1,1988,1,1989,TRUE
+"1486","Swaziland",572,"Southern Africa","Africa","Queen Dzeliwe",1,"Non-democracy",0,1982,1,1982,TRUE
+"1487","Swaziland",572,"Southern Africa","Africa","Queen Ntombi",3,"Non-democracy",0,1983,1,1985,TRUE
+"1488","Swaziland",572,"Southern Africa","Africa","Sobhuza II",61,"Non-democracy",0,1921,0,1981,TRUE
+"1494","Sweden",380,"Northern Europe","Europe","Ola Ullsten",1,"Democracy",0,1978,1,1978,TRUE
+"1495","Sweden",380,"Northern Europe","Europe","Olof Palme",4,"Democracy",0,1982,0,1985,TRUE
+"1496","Sweden",380,"Northern Europe","Europe","Olof Palme",7,"Democracy",0,1969,1,1975,TRUE
+"1497","Sweden",380,"Northern Europe","Europe","Tage Erlander",23,"Democracy",0,1946,1,1968,TRUE
+"1498","Sweden",380,"Northern Europe","Europe","Thorbjorn Falldin",2,"Democracy",0,1976,1,1977,TRUE
+"1499","Sweden",380,"Northern Europe","Europe","Thorbjorn Falldin",3,"Democracy",0,1979,1,1981,TRUE
+"1500","Switzerland",225,"Western Europe","Europe","Adolf Eduard von Steiger",1,"Democracy",0,1951,1,1951,TRUE
+"1502","Switzerland",225,"Western Europe","Europe","Alphons Egli",1,"Democracy",0,1986,1,1986,TRUE
+"1504","Switzerland",225,"Western Europe","Europe","Enrico Celio",1,"Democracy",0,1948,1,1948,TRUE
+"1505","Switzerland",225,"Western Europe","Europe","Ernst Brugger",1,"Democracy",0,1974,1,1974,TRUE
+"1506","Switzerland",225,"Western Europe","Europe","Ernst Nobs",1,"Democracy",0,1949,1,1949,TRUE
+"1508","Switzerland",225,"Western Europe","Europe","Friedrich Traugott Wahlen",1,"Democracy",0,1961,1,1961,TRUE
+"1509","Switzerland",225,"Western Europe","Europe","Fritz Honegger",1,"Democracy",0,1982,1,1982,TRUE
+"1510","Switzerland",225,"Western Europe","Europe","Georges-Andre Chevallaz",1,"Democracy",0,1980,1,1980,TRUE
+"1511","Switzerland",225,"Western Europe","Europe","Hans-Peter Tschudi",1,"Democracy",0,1965,1,1965,TRUE
+"1512","Switzerland",225,"Western Europe","Europe","Hans Hurlimann",1,"Democracy",0,1979,1,1979,TRUE
+"1513","Switzerland",225,"Western Europe","Europe","Hans Schaffner",1,"Democracy",0,1966,1,1966,TRUE
+"1514","Switzerland",225,"Western Europe","Europe","Hans Streuli",1,"Democracy",0,1957,1,1957,TRUE
+"1515","Switzerland",225,"Western Europe","Europe","Jean-Pascal Delamuraz",1,"Democracy",0,1989,1,1989,TRUE
+"1517","Switzerland",225,"Western Europe","Europe","Karl Kobelt",1,"Democracy",0,1946,1,1946,TRUE
+"1519","Switzerland",225,"Western Europe","Europe","Kurt Furgler",1,"Democracy",0,1977,1,1977,TRUE
+"1520","Switzerland",225,"Western Europe","Europe","Leon Schlumpf",1,"Democracy",0,1984,1,1984,TRUE
+"1521","Switzerland",225,"Western Europe","Europe","Ludwig von Moos",1,"Democracy",0,1964,1,1964,TRUE
+"1522","Switzerland",225,"Western Europe","Europe","Markus Feldmann",1,"Democracy",0,1956,1,1956,TRUE
+"1523","Switzerland",225,"Western Europe","Europe","Max-Edouard Petitpierre",1,"Democracy",0,1950,1,1950,TRUE
+"1526","Switzerland",225,"Western Europe","Europe","Nello Celio",1,"Democracy",0,1972,1,1972,TRUE
+"1527","Switzerland",225,"Western Europe","Europe","Otto Stich",1,"Democracy",0,1988,1,1988,TRUE
+"1529","Switzerland",225,"Western Europe","Europe","Paul Chaudet",1,"Democracy",0,1959,1,1959,TRUE
+"1530","Switzerland",225,"Western Europe","Europe","Philipp Etter",1,"Democracy",0,1947,1,1947,TRUE
+"1531","Switzerland",225,"Western Europe","Europe","Pierre Aubert",1,"Democracy",0,1983,1,1983,TRUE
+"1532","Switzerland",225,"Western Europe","Europe","Pierre Graber",1,"Democracy",0,1975,1,1975,TRUE
+"1534","Switzerland",225,"Western Europe","Europe","Rodolphe Rubattel",1,"Democracy",0,1954,1,1954,TRUE
+"1535","Switzerland",225,"Western Europe","Europe","Roger Bonvin",1,"Democracy",0,1967,1,1967,TRUE
+"1536","Switzerland",225,"Western Europe","Europe","Rudolf Gnagi",1,"Democracy",0,1971,1,1971,TRUE
+"1539","Switzerland",225,"Western Europe","Europe","Thomas Emil Leo Holenstein",1,"Democracy",0,1958,1,1958,TRUE
+"1540","Switzerland",225,"Western Europe","Europe","Willi Ritschard",1,"Democracy",0,1978,1,1978,TRUE
+"1541","Switzerland",225,"Western Europe","Europe","Willy Spuhler",1,"Democracy",0,1963,1,1963,TRUE
+"1542","Syria",652,"Western Asia","Asia","Adib ash-Shishakli",6,"Non-democracy",0,1949,1,1954,TRUE
+"1543","Syria",652,"Western Asia","Asia","Amin al-Hafez",3,"Non-democracy",0,1963,1,1965,TRUE
+"1546","Syria",652,"Western Asia","Asia","military",1,"Non-democracy",0,1954,1,1954,TRUE
+"1547","Syria",652,"Western Asia","Asia","Nazim al-Kudsi",2,"Non-democracy",0,1961,1,1962,TRUE
+"1548","Syria",652,"Western Asia","Asia","Salah al-Jadid",4,"Non-democracy",0,1966,1,1969,TRUE
+"1549","Syria",652,"Western Asia","Asia","Shukri al-Kuwatli",6,"Non-democracy",0,1943,1,1948,TRUE
+"1552","Taiwan",713,"Eastern Asia","Asia","Chiang Ching-kuo",10,"Non-democracy",0,1978,0,1987,TRUE
+"1553","Taiwan",713,"Eastern Asia","Asia","Chiang Kai-shek",26,"Non-democracy",0,1949,0,1974,TRUE
+"1560","Taiwan",713,"Eastern Asia","Asia","Yen Chia-kan",3,"Non-democracy",0,1975,1,1977,TRUE
+"1567","Tanzania",510,"Eastern Africa","Africa","Julius Nyerere",25,"Non-democracy",0,1960,1,1984,TRUE
+"1574","Thailand",800,"South-Eastern Asia","Asia","Kriangsak Chamanand",3,"Democracy",1,1977,1,1979,TRUE
+"1575","Thailand",800,"South-Eastern Asia","Asia","Kriangsak Chamanand",3,"Non-democracy",1,1977,1,1979,TRUE
+"1576","Thailand",800,"South-Eastern Asia","Asia","Kukrit Pramoj",1,"Democracy",0,1975,1,1975,TRUE
+"1577","Thailand",800,"South-Eastern Asia","Asia","Luang Phibulsongkhram",10,"Non-democracy",0,1947,1,1956,TRUE
+"1578","Thailand",800,"South-Eastern Asia","Asia","Luang Thamrongnawasawat",1,"Non-democracy",0,1946,1,1946,TRUE
+"1579","Thailand",800,"South-Eastern Asia","Asia","military",1,"Non-democracy",1,1976,1,1976,TRUE
+"1580","Thailand",800,"South-Eastern Asia","Asia","military",1,"Non-democracy",2,1976,1,1976,TRUE
+"1581","Thailand",800,"South-Eastern Asia","Asia","Prem Tinsulanond",3,"Democracy",1,1980,1,1982,TRUE
+"1583","Thailand",800,"South-Eastern Asia","Asia","Sanya Thammasak",2,"Non-democracy",0,1973,1,1974,TRUE
+"1584","Thailand",800,"South-Eastern Asia","Asia","Sarit Thanarat",5,"Non-democracy",0,1958,0,1962,TRUE
+"1587","Thailand",800,"South-Eastern Asia","Asia","Thanom Kittikachorn",1,"Non-democracy",0,1957,1,1957,TRUE
+"1588","Thailand",800,"South-Eastern Asia","Asia","Thanom Kittikachorn",10,"Non-democracy",0,1963,1,1972,TRUE
+"1591","Togo",461,"Western Africa","Africa","Nicholas Grunitzky",4,"Non-democracy",0,1963,1,1966,TRUE
+"1592","Togo",461,"Western Africa","Africa","Sylvanus Olympio",5,"Non-democracy",0,1958,0,1962,TRUE
+"1597","Trinidad and Tobago",52,"Caribbean","Americas","Eric Williams",25,"Democracy",0,1956,0,1980,TRUE
+"1598","Trinidad and Tobago",52,"Caribbean","Americas","George Chambers",5,"Democracy",0,1981,1,1985,TRUE
+"1601","Tunisia",616,"Northern Africa","Africa","Habib Bourguiba",31,"Non-democracy",0,1956,1,1986,TRUE
+"1604","Turkey",640,"Western Asia","Asia","Bulent Ecevit",1,"Democracy",0,1978,1,1978,TRUE
+"1605","Turkey",640,"Western Asia","Asia","Celal Bayar",10,"Non-democracy",0,1950,1,1959,TRUE
+"1606","Turkey",640,"Western Asia","Asia","Cemal Gursel",1,"Non-democracy",0,1960,1,1960,TRUE
+"1607","Turkey",640,"Western Asia","Asia","Ferit Melen",1,"Democracy",0,1972,1,1972,TRUE
+"1608","Turkey",640,"Western Asia","Asia","Ismet Inonu",4,"Democracy",0,1961,1,1964,TRUE
+"1609","Turkey",640,"Western Asia","Asia","Ismet Inonu",12,"Non-democracy",0,1938,1,1949,TRUE
+"1610","Turkey",640,"Western Asia","Asia","Kenan Evren",3,"Non-democracy",1,1980,1,1982,TRUE
+"1613","Turkey",640,"Western Asia","Asia","Naim Talu",1,"Democracy",0,1973,1,1973,TRUE
+"1615","Turkey",640,"Western Asia","Asia","Nihat Erim",1,"Democracy",0,1971,1,1971,TRUE
+"1617","Turkey",640,"Western Asia","Asia","Said Irmak",1,"Democracy",0,1974,1,1974,TRUE
+"1618","Turkey",640,"Western Asia","Asia","Suleyman Demirel",1,"Democracy",0,1977,1,1977,TRUE
+"1619","Turkey",640,"Western Asia","Asia","Suleyman Demirel",2,"Democracy",0,1975,1,1976,TRUE
+"1620","Turkey",640,"Western Asia","Asia","Suleyman Demirel",2,"Democracy",1,1975,1,1976,TRUE
+"1621","Turkey",640,"Western Asia","Asia","Suleyman Demirel",6,"Democracy",0,1965,1,1970,TRUE
+"1623","Turkey",640,"Western Asia","Asia","Turgut Ozal",6,"Democracy",1,1983,1,1988,TRUE
+"1636","Tuvalu",NA,"Polynesia","Oceania","Toalipi Lauti",3,"Democracy",0,1978,1,1980,TRUE
+"1637","Tuvalu",NA,"Polynesia","Oceania","Tomasi Puapua",8,"Democracy",0,1981,1,1988,TRUE
+"1638","U.S.S.R.",365,"Eastern Europe","Europe","Josef Stalin",31,"Non-democracy",0,1922,0,1952,TRUE
+"1639","U.S.S.R.",365,"Eastern Europe","Europe","Konstantin Chernenko",1,"Non-democracy",0,1984,0,1984,TRUE
+"1640","U.S.S.R.",365,"Eastern Europe","Europe","Leonid Brezhnev",18,"Non-democracy",0,1964,0,1981,TRUE
+"1642","U.S.S.R.",365,"Eastern Europe","Europe","Nikita Khruschev",11,"Non-democracy",0,1953,1,1963,TRUE
+"1643","U.S.S.R.",365,"Eastern Europe","Europe","Yuri Andropov",2,"Non-democracy",0,1982,0,1983,TRUE
+"1644","Uganda",500,"Eastern Africa","Africa","Godfrey Binsaisa",1,"Non-democracy",0,1979,1,1979,TRUE
+"1645","Uganda",500,"Eastern Africa","Africa","Idi Amin Dada",8,"Non-democracy",0,1971,1,1978,TRUE
+"1646","Uganda",500,"Eastern Africa","Africa","Milton Obote",5,"Democracy",0,1966,1,1970,TRUE
+"1647","Uganda",500,"Eastern Africa","Africa","Milton Obote",5,"Non-democracy",0,1966,1,1970,TRUE
+"1648","Uganda",500,"Eastern Africa","Africa","Sir Edward Frederick Mutesa II",3,"Non-democracy",0,1963,1,1965,TRUE
+"1649","Uganda",500,"Eastern Africa","Africa","Sir Walter Fleming Coutts",2,"Non-democracy",0,1961,1,1962,TRUE
+"1650","Uganda",500,"Eastern Africa","Africa","Tito Okello",1,"Non-democracy",1,1985,1,1985,TRUE
+"1667","United Kingdom",200,"Northern Europe","Europe","Alexander Douglas-Home",1,"Democracy",0,1963,1,1963,TRUE
+"1668","United Kingdom",200,"Northern Europe","Europe","Anthony Eden",2,"Democracy",0,1955,1,1956,TRUE
+"1669","United Kingdom",200,"Northern Europe","Europe","Clement Attlee",6,"Democracy",0,1945,1,1950,TRUE
+"1670","United Kingdom",200,"Northern Europe","Europe","Edward Heath",4,"Democracy",0,1970,1,1973,TRUE
+"1672","United Kingdom",200,"Northern Europe","Europe","Harold MacMillan",6,"Democracy",0,1957,1,1962,TRUE
+"1673","United Kingdom",200,"Northern Europe","Europe","Harold Wilson",2,"Democracy",0,1974,1,1975,TRUE
+"1674","United Kingdom",200,"Northern Europe","Europe","Harold Wilson",6,"Democracy",0,1964,1,1969,TRUE
+"1675","United Kingdom",200,"Northern Europe","Europe","James Callaghan",3,"Democracy",0,1976,1,1978,TRUE
+"1677","United Kingdom",200,"Northern Europe","Europe","Margaret Thatcher",11,"Democracy",0,1979,1,1989,TRUE
+"1679","United Kingdom",200,"Northern Europe","Europe","Winston Churchill",4,"Democracy",0,1951,1,1954,TRUE
+"1681","United States of America",2,"Northern America","Americas","Dwight D. Eisenhower",8,"Democracy",0,1953,1,1960,TRUE
+"1682","United States of America",2,"Northern America","Americas","George Bush",4,"Democracy",0,1981,1,1984,TRUE
+"1684","United States of America",2,"Northern America","Americas","Gerald Ford",3,"Democracy",0,1974,1,1976,TRUE
+"1685","United States of America",2,"Northern America","Americas","Harry Truman",8,"Democracy",0,1945,1,1952,TRUE
+"1686","United States of America",2,"Northern America","Americas","Jimmy Carter",4,"Democracy",0,1977,1,1980,TRUE
+"1687","United States of America",2,"Northern America","Americas","John Kennedy",2,"Democracy",0,1961,0,1962,TRUE
+"1688","United States of America",2,"Northern America","Americas","Lyndon Johnson",6,"Democracy",0,1963,1,1968,TRUE
+"1689","United States of America",2,"Northern America","Americas","Richard Nixon",5,"Democracy",0,1969,1,1973,TRUE
+"1690","United States of America",2,"Northern America","Americas","Ronald Reagan",8,"Democracy",0,1981,1,1988,TRUE
+"1691","Uruguay",165,"South America","Americas","Alberto Fermin Zubiria",1,"Democracy",0,1956,1,1956,TRUE
+"1692","Uruguay",165,"South America","Americas","Alberto Heber Usher",1,"Democracy",0,1966,1,1966,TRUE
+"1693","Uruguay",165,"South America","Americas","Andres Martinez Trueba",4,"Democracy",0,1951,1,1954,TRUE
+"1694","Uruguay",165,"South America","Americas","Arturo Lezama",1,"Democracy",0,1957,1,1957,TRUE
+"1695","Uruguay",165,"South America","Americas","Benito Nardone",1,"Democracy",0,1960,1,1960,TRUE
+"1696","Uruguay",165,"South America","Americas","Carlos Fischer",1,"Democracy",0,1958,1,1958,TRUE
+"1697","Uruguay",165,"South America","Americas","Daniel Fernandez Crespo",1,"Democracy",0,1963,1,1963,TRUE
+"1698","Uruguay",165,"South America","Americas","Eduardo Haedo",1,"Democracy",0,1961,1,1961,TRUE
+"1699","Uruguay",165,"South America","Americas","Faustino Harrison",1,"Democracy",0,1962,1,1962,TRUE
+"1700","Uruguay",165,"South America","Americas","Gregorio Alvarez Armelino",4,"Non-democracy",1,1981,1,1984,TRUE
+"1702","Uruguay",165,"South America","Americas","Jorge Pacheco Arego",5,"Democracy",0,1967,1,1971,TRUE
+"1703","Uruguay",165,"South America","Americas","Juan Amezaga",4,"Democracy",0,1943,1,1946,TRUE
+"1704","Uruguay",165,"South America","Americas","Juan Bordaberry Arocena",1,"Democracy",0,1972,1,1972,TRUE
+"1705","Uruguay",165,"South America","Americas","Julio Sanguinetti Cairdo",5,"Democracy",1,1985,1,1989,TRUE
+"1707","Uruguay",165,"South America","Americas","Luis Batlle Berres",1,"Democracy",0,1955,1,1955,TRUE
+"1708","Uruguay",165,"South America","Americas","Luis Batlle Berres",4,"Democracy",0,1947,1,1950,TRUE
+"1709","Uruguay",165,"South America","Americas","Luis Giannatasio",1,"Democracy",0,1964,1,1964,TRUE
+"1710","Uruguay",165,"South America","Americas","Martin Etchegoyen",1,"Democracy",0,1959,1,1959,TRUE
+"1711","Uruguay",165,"South America","Americas","Military",8,"Non-democracy",1,1973,1,1980,TRUE
+"1713","Uruguay",165,"South America","Americas","Washington Beltran",1,"Democracy",0,1965,1,1965,TRUE
+"1725","Venezuela",101,"South America","Americas","Carlos Andres Perez",5,"Democracy",1,1974,1,1978,TRUE
+"1726","Venezuela",101,"South America","Americas","Carlos Delgado Chalbaud",2,"Non-democracy",1,1948,0,1949,TRUE
+"1729","Venezuela",101,"South America","Americas","Jaime Lusinchi",5,"Democracy",1,1984,1,1988,TRUE
+"1730","Venezuela",101,"South America","Americas","Luis Herrera Campins",5,"Democracy",1,1979,1,1983,TRUE
+"1731","Venezuela",101,"South America","Americas","Marcos Perez Jimenez",8,"Non-democracy",1,1950,1,1957,TRUE
+"1732","Venezuela",101,"South America","Americas","military",1,"Non-democracy",1,1958,1,1958,TRUE
+"1733","Venezuela",101,"South America","Americas","Rafael Caldera Rodriguez",5,"Democracy",1,1969,1,1973,TRUE
+"1735","Venezuela",101,"South America","Americas","Raul Leoni",5,"Democracy",1,1964,1,1968,TRUE
+"1736","Venezuela",101,"South America","Americas","Romulo Betancourt",3,"Democracy",0,1945,1,1947,TRUE
+"1737","Venezuela",101,"South America","Americas","Romulo Betancourt",5,"Democracy",1,1959,1,1963,TRUE
+"1739","Viet Nam",816,"South-Eastern Asia","Asia","Le Duan",10,"Non-democracy",0,1976,0,1985,TRUE
+"1744","Yemen Arab Republic",678,"Western Asia","Asia","`Abd Allah as-Sallal",5,"Non-democracy",0,1962,1,1966,TRUE
+"1745","Yemen Arab Republic",678,"Western Asia","Asia","Abdel Rahman al-Iriani",7,"Non-democracy",0,1967,1,1973,TRUE
+"1746","Yemen Arab Republic",678,"Western Asia","Asia","Ahmad al-Ghashmi",1,"Non-democracy",0,1977,0,1977,TRUE
+"1747","Yemen Arab Republic",678,"Western Asia","Asia","Ahmad ash-Shams ibn Yahya",7,"Non-democracy",0,1948,0,1954,TRUE
+"1748","Yemen Arab Republic",678,"Western Asia","Asia","Ali Abdullah Saleh",12,"Non-democracy",0,1978,0,1989,TRUE
+"1749","Yemen Arab Republic",678,"Western Asia","Asia","Ibrahim Muhammad al-Hamadi",3,"Non-democracy",0,1974,0,1976,TRUE
+"1750","Yemen Arab Republic",678,"Western Asia","Asia","Yahya ibn Muhammad",22,"Non-democracy",0,1926,0,1947,TRUE
+"1751","Yemen PDR (South)",680,"Western Asia","Asia","Abd al-Fattah Ismail",2,"Non-democracy",0,1978,1,1979,TRUE
+"1752","Yemen PDR (South)",680,"Western Asia","Asia","Ali Nasir Muhammad Husani",6,"Non-democracy",0,1980,1,1985,TRUE
+"1753","Yemen PDR (South)",680,"Western Asia","Asia","Haidar Abu Bakr al-Attas",4,"Non-democracy",0,1986,0,1989,TRUE
+"1754","Yemen PDR (South)",680,"Western Asia","Asia","Qahtan Muhammad al-Shabi",2,"Non-democracy",0,1967,1,1968,TRUE
+"1755","Yemen PDR (South)",680,"Western Asia","Asia","Salem Ali Rubayyi",9,"Non-democracy",0,1969,0,1977,TRUE
+"1756","Yugoslavia",345,"Southern Europe","Europe","Ali Sukrija",1,"Non-democracy",1,1984,1,1984,TRUE
+"1758","Yugoslavia",345,"Southern Europe","Europe","Bosko Krunic",1,"Non-democracy",1,1987,1,1987,TRUE
+"1759","Yugoslavia",345,"Southern Europe","Europe","Dragoslav Markovic",1,"Non-democracy",1,1983,1,1983,TRUE
+"1760","Yugoslavia",345,"Southern Europe","Europe","Dusan Dragosavac",1,"Non-democracy",1,1981,1,1981,TRUE
+"1761","Yugoslavia",345,"Southern Europe","Europe","Josip Broz Tito",40,"Non-democracy",1,1940,0,1979,TRUE
+"1763","Yugoslavia",345,"Southern Europe","Europe","Milan Pancevski",1,"Non-democracy",1,1989,1,1989,TRUE
+"1764","Yugoslavia",345,"Southern Europe","Europe","Milanko Renovica",1,"Non-democracy",1,1986,1,1986,TRUE
+"1765","Yugoslavia",345,"Southern Europe","Europe","Mitja Ribicic",1,"Non-democracy",1,1982,1,1982,TRUE
+"1766","Yugoslavia",345,"Southern Europe","Europe","Stipe Suvar",1,"Non-democracy",1,1988,1,1988,TRUE
+"1767","Yugoslavia",345,"Southern Europe","Europe","Vidoje Zarkovic",1,"Non-democracy",1,1985,1,1985,TRUE
+"1772","Zimbabwe",552,"Eastern Africa","Africa","Abel Muzorewa",1,"Non-democracy",0,1979,1,1979,TRUE
+"1773","Zimbabwe",552,"Eastern Africa","Africa","Ian Smith",15,"Non-democracy",0,1964,1,1978,TRUE
+"2","Afghanistan",700,"Southern Asia","Asia","Burhanuddin Rabbani",4,"Non-democracy",0,1992,1,1995,FALSE
+"3","Afghanistan",700,"Southern Asia","Asia","Hamid Karzai",8,"Non-democracy",0,2001,0,2008,FALSE
+"7","Afghanistan",700,"Southern Asia","Asia","Mullah Mohammad Rabbani",5,"Non-democracy",0,1996,0,2000,FALSE
+"11","Albania",339,"Southern Europe","Europe","Aleksander Meksi",5,"Democracy",0,1992,1,1996,FALSE
+"13","Albania",339,"Southern Europe","Europe","Fatos Nano",1,"Democracy",0,1997,1,1997,FALSE
+"14","Albania",339,"Southern Europe","Europe","Fatos Nano",3,"Democracy",0,2002,1,2004,FALSE
+"15","Albania",339,"Southern Europe","Europe","Ilir Meta",3,"Democracy",0,1999,1,2001,FALSE
+"16","Albania",339,"Southern Europe","Europe","Pandeli Majko",1,"Democracy",0,1998,1,1998,FALSE
+"19","Albania",339,"Southern Europe","Europe","Sali Berisha",4,"Democracy",0,2005,0,2008,FALSE
+"20","Algeria",615,"Northern Africa","Africa","Abdelaziz Bouteflika",10,"Non-democracy",0,1999,0,2008,FALSE
+"24","Algeria",615,"Northern Africa","Africa","Liamine Zeroual",5,"Non-democracy",0,1994,1,1998,FALSE
+"26","Algeria",615,"Northern Africa","Africa","military High Security Council",2,"Non-democracy",0,1992,1,1993,FALSE
+"27","Andorra",232,"Southern Europe","Europe","Albert Pintat Santolï¿½ria",4,"Democracy",0,2005,0,2008,FALSE
+"28","Andorra",232,"Southern Europe","Europe","Marc Forne Molne",11,"Democracy",0,1994,1,2004,FALSE
+"29","Andorra",232,"Southern Europe","Europe","Oscar Ribas Reig",4,"Democracy",0,1990,1,1993,FALSE
+"32","Antigua & Barbuda",58,"Caribbean","Americas","Baldwin Spencer",5,"Democracy",0,2004,0,2008,FALSE
+"33","Antigua & Barbuda",58,"Caribbean","Americas","Lester Bird",10,"Democracy",0,1994,1,2003,FALSE
+"39","Argentina",160,"South America","Americas","Cristina Fernï¿½ndez de Kirchner",2,"Democracy",5,2007,0,2008,FALSE
+"40","Argentina",160,"South America","Americas","Eduardo Alberto Duhalde Maldonado",3,"Democracy",5,2002,1,2004,FALSE
+"41","Argentina",160,"South America","Americas","Eduardo Oscar Camano",1,"Democracy",5,2001,1,2001,FALSE
+"42","Argentina",160,"South America","Americas","Fernando de la Rua",2,"Democracy",5,1999,1,2000,FALSE
+"50","Argentina",160,"South America","Americas","Nï¿½stor Carlos Kirchner Ostoic",2,"Democracy",5,2003,1,2004,FALSE
+"55","Armenia",371,"Western Asia","Asia","Andranik Margaryan",7,"Democracy",0,2000,0,2006,FALSE
+"56","Armenia",371,"Western Asia","Asia","Aram Sargsyan",1,"Democracy",0,1999,1,1999,FALSE
+"57","Armenia",371,"Western Asia","Asia","Armen Darbinyan",1,"Democracy",0,1998,1,1998,FALSE
+"58","Armenia",371,"Western Asia","Asia","Armen Sarkisyan",1,"Democracy",0,1996,1,1996,FALSE
+"59","Armenia",371,"Western Asia","Asia","Hrant Bagratyan",1,"Democracy",0,1993,1,1993,FALSE
+"60","Armenia",371,"Western Asia","Asia","Levon Ter-Petrosyan",4,"Democracy",0,1991,1,1994,FALSE
+"61","Armenia",371,"Western Asia","Asia","Robert Kocharyan",1,"Democracy",0,1997,1,1997,FALSE
+"62","Armenia",371,"Western Asia","Asia","Serzh Sargsyan",1,"Democracy",0,2007,1,2007,FALSE
+"63","Armenia",371,"Western Asia","Asia","Tigran Sargsyan",1,"Democracy",0,2008,0,2008,FALSE
+"67","Australia",900,"Australia and New Zealand","Oceania","John Howard",11,"Democracy",0,1996,1,2006,FALSE
+"70","Australia",900,"Australia and New Zealand","Oceania","Kevin Michael Rudd",2,"Democracy",0,2007,0,2008,FALSE
+"72","Australia",900,"Australia and New Zealand","Oceania","Paul Keating",5,"Democracy",0,1991,1,1995,FALSE
+"77","Austria",305,"Western Europe","Europe","Alfred Gusenbauer",2,"Democracy",1,2007,0,2008,FALSE
+"84","Austria",305,"Western Europe","Europe","Viktor Klima",3,"Democracy",1,1997,1,1999,FALSE
+"85","Austria",305,"Western Europe","Europe","Wolfgang Schussel",7,"Democracy",1,2000,1,2006,FALSE
+"86","Azerbaijan",373,"Western Asia","Asia","Abulfez Elchibey",1,"Non-democracy",0,1992,1,1992,FALSE
+"87","Azerbaijan",373,"Western Asia","Asia","Ayaz Mutalibov",2,"Non-democracy",0,1990,1,1991,FALSE
+"88","Azerbaijan",373,"Western Asia","Asia","Heydar Aliyev",10,"Non-democracy",0,1993,0,2002,FALSE
+"89","Azerbaijan",373,"Western Asia","Asia","Ilham Heydar oglu Aliyev",6,"Non-democracy",0,2003,0,2008,FALSE
+"90","Bahamas",31,"Caribbean","Americas","Hubert Alexander Ingraham",2,"Democracy",0,2007,0,2008,FALSE
+"91","Bahamas",31,"Caribbean","Americas","Hubert Ingraham",10,"Democracy",0,1992,1,2001,FALSE
+"93","Bahamas",31,"Caribbean","Americas","Perry Gladstone Christie",5,"Democracy",0,2002,1,2006,FALSE
+"95","Bahrain",692,"Western Asia","Asia","Sheikh Hamad ibn 'Isa Al Khalifah",10,"Non-democracy",0,1999,0,2008,FALSE
+"100","Bangladesh",771,"Southern Asia","Asia","Khaleda Zia",5,"Democracy",0,1991,1,1995,FALSE
+"101","Bangladesh",771,"Southern Asia","Asia","Khaleda Zia",6,"Democracy",0,2001,1,2006,FALSE
+"102","Bangladesh",771,"Southern Asia","Asia","military",2,"Non-democracy",1,2007,0,2008,FALSE
+"104","Bangladesh",771,"Southern Asia","Asia","Shahabuddin Ahmed",1,"Democracy",0,1990,1,1990,FALSE
+"105","Bangladesh",771,"Southern Asia","Asia","Sheikh Hasina Wajed",5,"Democracy",0,1996,1,2000,FALSE
+"109","Barbados",53,"Caribbean","Americas","David Thompson",1,"Democracy",0,2008,0,2008,FALSE
+"114","Barbados",53,"Caribbean","Americas","Owen Arthur",14,"Democracy",0,1994,1,2007,FALSE
+"115","Belarus",370,"Eastern Europe","Europe","Alyaksandr Lukashenka",15,"Non-democracy",0,1994,0,2008,FALSE
+"116","Belarus",370,"Eastern Europe","Europe","Stanislau Shushkevich",3,"Non-democracy",0,1991,1,1993,FALSE
+"123","Belgium",211,"Western Europe","Europe","Guy Verhofstadt",9,"Democracy",0,1999,1,2007,FALSE
+"124","Belgium",211,"Western Europe","Europe","Herman Van Rompuy",1,"Democracy",0,2008,0,2008,FALSE
+"125","Belgium",211,"Western Europe","Europe","Jean-Luc Dehaene",7,"Democracy",0,1992,1,1998,FALSE
+"136","Belize",80,"Central America","Americas","Dean Oliver Barrow",1,"Democracy",0,2008,0,2008,FALSE
+"140","Belize",80,"Central America","Americas","Said Musa",10,"Democracy",0,1998,1,2007,FALSE
+"145","Benin",434,"Western Africa","Africa","Mathieu Kerekou",10,"Democracy",0,1996,1,2005,FALSE
+"148","Benin",434,"Western Africa","Africa","Nicephore Soglo",5,"Democracy",0,1991,1,1995,FALSE
+"149","Benin",434,"Western Africa","Africa","Yayi Boni",3,"Democracy",0,2006,0,2008,FALSE
+"152","Bhutan",760,"Southern Asia","Asia","Jigme Thinley",1,"Democracy",0,2008,0,2008,FALSE
+"154","Bhutan",760,"Southern Asia","Asia","Kinzang Dorji",1,"Democracy",0,2007,1,2007,FALSE
+"156","Bolivia",145,"South America","Americas","Carlos Diego Mesa Gisbert",2,"Democracy",1,2003,1,2004,FALSE
+"159","Bolivia",145,"South America","Americas","Eduardo Rodrï¿½guez Veltzï¿½",1,"Democracy",1,2005,1,2005,FALSE
+"161","Bolivia",145,"South America","Americas","Gonzalo Sanchez de Lozada",1,"Democracy",1,2002,1,2002,FALSE
+"162","Bolivia",145,"South America","Americas","Gonzalo Sanchez de Lozada",4,"Democracy",1,1993,1,1996,FALSE
+"166","Bolivia",145,"South America","Americas","Hugo Banzer Suarez",4,"Democracy",1,1997,1,2000,FALSE
+"169","Bolivia",145,"South America","Americas","Jorge Fernando Quiroga Ramirez",1,"Democracy",1,2001,1,2001,FALSE
+"170","Bolivia",145,"South America","Americas","Juan Evo Morales Ayma",3,"Democracy",1,2006,0,2008,FALSE
+"181","Bosnia and Herzegovina",346,"Southern Europe","Europe","Alija Izetbegovic",8,"Non-democracy",0,1990,1,1997,FALSE
+"182","Bosnia and Herzegovina",346,"Southern Europe","Europe","Ante Jelavic",1,"Non-democracy",0,1999,1,1999,FALSE
+"183","Bosnia and Herzegovina",346,"Southern Europe","Europe","Borislav Paravac",1,"Non-democracy",0,2004,1,2004,FALSE
+"184","Bosnia and Herzegovina",346,"Southern Europe","Europe","Dragan Kovic",1,"Non-democracy",0,2003,1,2003,FALSE
+"185","Bosnia and Herzegovina",346,"Southern Europe","Europe","Ivo Miro Jovic",1,"Non-democracy",0,2005,1,2005,FALSE
+"186","Bosnia and Herzegovina",346,"Southern Europe","Europe","Jozo Krizanovic",1,"Non-democracy",0,2001,1,2001,FALSE
+"187","Bosnia and Herzegovina",346,"Southern Europe","Europe","Mirko Sarovic",1,"Non-democracy",0,2002,1,2002,FALSE
+"188","Bosnia and Herzegovina",346,"Southern Europe","Europe","Nebojsa Radmanovic",1,"Non-democracy",0,2006,0,2006,FALSE
+"189","Bosnia and Herzegovina",346,"Southern Europe","Europe","Zeljko Komsic",1,"Non-democracy",0,2007,1,2007,FALSE
+"190","Bosnia and Herzegovina",346,"Southern Europe","Europe","Zivko Radisic",1,"Non-democracy",0,1998,1,1998,FALSE
+"191","Botswana",571,"Southern Africa","Africa","Festus Mogae",10,"Non-democracy",0,1998,1,2007,FALSE
+"194","Botswana",571,"Southern Africa","Africa","Seretse Khama Ian Khama",1,"Non-democracy",0,2008,0,2008,FALSE
+"199","Brazil",140,"South America","Americas","Fernando Collor de Mello",2,"Democracy",1,1990,1,1991,FALSE
+"200","Brazil",140,"South America","Americas","Fernando Henrique Cardoso",8,"Democracy",1,1995,1,2002,FALSE
+"204","Brazil",140,"South America","Americas","Itamar Franco",3,"Democracy",1,1992,1,1994,FALSE
+"210","Brazil",140,"South America","Americas","Luiz Inï¿½cio Lula da Silva",6,"Democracy",1,2003,0,2008,FALSE
+"214","Bulgaria",355,"Eastern Europe","Europe","Dimitur Popov",1,"Democracy",1,1990,1,1990,FALSE
+"215","Bulgaria",355,"Eastern Europe","Europe","Filip Dimitrov",1,"Democracy",1,1991,1,1991,FALSE
+"217","Bulgaria",355,"Eastern Europe","Europe","Ivan Kostov",4,"Democracy",1,1997,1,2000,FALSE
+"218","Bulgaria",355,"Eastern Europe","Europe","Lyuben Berov",2,"Democracy",1,1992,1,1993,FALSE
+"220","Bulgaria",355,"Eastern Europe","Europe","Reneta Indzhova",1,"Democracy",1,1994,1,1994,FALSE
+"221","Bulgaria",355,"Eastern Europe","Europe","Sergey Dimitrievich Stanishev",4,"Democracy",1,2005,0,2008,FALSE
+"222","Bulgaria",355,"Eastern Europe","Europe","Simeon Borisov Sakskoburggotski",4,"Democracy",1,2001,1,2004,FALSE
+"226","Bulgaria",355,"Eastern Europe","Europe","Zhan Videnov",2,"Democracy",1,1995,1,1996,FALSE
+"233","Burundi",516,"Eastern Africa","Africa","Domitien Ndayizeye",2,"Non-democracy",1,2003,1,2004,FALSE
+"238","Burundi",516,"Eastern Africa","Africa","Pierre Buyoya",7,"Non-democracy",1,1996,1,2002,FALSE
+"239","Burundi",516,"Eastern Africa","Africa","Pierre Nkurunziza",4,"Democracy",1,2005,0,2008,FALSE
+"240","Burundi",516,"Eastern Africa","Africa","Sylvestre Ntibantunganya",2,"Democracy",0,1994,1,1995,FALSE
+"241","Burundi",516,"Eastern Africa","Africa","Sylvie Kinigi",1,"Democracy",0,1993,1,1993,FALSE
+"244","Cambodia",811,"South-Eastern Asia","Asia","Hun Sen",12,"Non-democracy",0,1997,0,2008,FALSE
+"245","Cambodia",811,"South-Eastern Asia","Asia","Hun Sen + Ranariddh",4,"Non-democracy",0,1993,1,1996,FALSE
+"255","Canada",20,"Northern America","Americas","Jean Chretien",10,"Democracy",0,1993,1,2002,FALSE
+"260","Canada",20,"Northern America","Americas","Paul Joseph Martin, Jr.",3,"Democracy",0,2003,1,2005,FALSE
+"263","Canada",20,"Northern America","Americas","Stephen Joseph Harper",3,"Democracy",0,2006,0,2008,FALSE
+"265","Cape Verde",402,"Western Africa","Africa","Antonio Gualberto do Rosario",1,"Democracy",0,2000,1,2000,FALSE
+"268","Cape Verde",402,"Western Africa","Africa","Carlos Veiga",9,"Democracy",0,1991,1,1999,FALSE
+"269","Cape Verde",402,"Western Africa","Africa","Jose Neves",8,"Democracy",0,2001,0,2008,FALSE
+"271","Central African Republic",482,"Middle Africa","Africa","Anicet Georges Dologuele",2,"Democracy",0,1999,1,2000,FALSE
+"274","Central African Republic",482,"Middle Africa","Africa","Franï¿½ois Bozizï¿½",6,"Non-democracy",1,2003,0,2008,FALSE
+"275","Central African Republic",482,"Middle Africa","Africa","Gabriel Koyambounou",1,"Democracy",0,1995,1,1995,FALSE
+"277","Central African Republic",482,"Middle Africa","Africa","Jean-Luc Mandaba",2,"Democracy",0,1993,1,1994,FALSE
+"278","Central African Republic",482,"Middle Africa","Africa","Jean-Paul Ngoupande",1,"Democracy",0,1996,1,1996,FALSE
+"279","Central African Republic",482,"Middle Africa","Africa","Martin Ziguele",2,"Democracy",0,2001,1,2002,FALSE
+"280","Central African Republic",482,"Middle Africa","Africa","Michel Gbezera-Bria",2,"Democracy",0,1997,1,1998,FALSE
+"284","Chad",483,"Middle Africa","Africa","Idriss Deby",19,"Non-democracy",0,1990,0,2008,FALSE
+"289","Chile",155,"South America","Americas","Eduardo Frei Ruiz-Tagle",6,"Democracy",2,1994,1,1999,FALSE
+"292","Chile",155,"South America","Americas","Patricio Aylwin Azacar",4,"Democracy",2,1990,1,1993,FALSE
+"293","Chile",155,"South America","Americas","Ricardo Froilan Lagos Escobar",6,"Democracy",2,2000,1,2005,FALSE
+"295","Chile",155,"South America","Americas","Verï¿½nica Michelle Bachelet Jeria",3,"Democracy",2,2006,0,2008,FALSE
+"298","China",710,"Eastern Asia","Asia","Hu Jintao",7,"Non-democracy",0,2002,0,2008,FALSE
+"304","Colombia",100,"South America","Americas","Alvaro Uribe Velez",7,"Democracy",1,2002,0,2008,FALSE
+"305","Colombia",100,"South America","Americas","Andres Pastrana Arango",4,"Democracy",1,1998,1,2001,FALSE
+"308","Colombia",100,"South America","Americas","Cesar Gaviria Trujillo",4,"Democracy",1,1990,1,1993,FALSE
+"309","Colombia",100,"South America","Americas","Ernesto Samper Pizano",4,"Democracy",1,1994,1,1997,FALSE
+"315","Colombia",100,"South America","Americas","Luis Mariano Ospina Perez",1,"Non-democracy",1,Inf,1,Inf,FALSE
+"321","Comoros",581,"Eastern Africa","Africa","Ahmed Abdallah Sambi",3,"Democracy",1,2006,0,2008,FALSE
+"322","Comoros",581,"Eastern Africa","Africa","Ahmed Ben Cheikh Attoumane",1,"Democracy",0,1993,1,1993,FALSE
+"324","Comoros",581,"Eastern Africa","Africa","Azali Assoumani",3,"Non-democracy",1,1999,1,2001,FALSE
+"325","Comoros",581,"Eastern Africa","Africa","Azali Assoumani",4,"Democracy",1,2002,1,2005,FALSE
+"326","Comoros",581,"Eastern Africa","Africa","Azali Assoumani",4,"Non-democracy",1,2002,1,2005,FALSE
+"327","Comoros",581,"Eastern Africa","Africa","Caambi el-Yachourtu",1,"Non-democracy",1,1995,1,1995,FALSE
+"328","Comoros",581,"Eastern Africa","Africa","Halifa Houmadi",1,"Democracy",0,1994,1,1994,FALSE
+"329","Comoros",581,"Eastern Africa","Africa","Mohammed Taki Abdoulkarim",2,"Non-democracy",1,1996,0,1997,FALSE
+"330","Comoros",581,"Eastern Africa","Africa","Said Mohammed Djohar",1,"Democracy",0,1992,1,1992,FALSE
+"333","Comoros",581,"Eastern Africa","Africa","Tadjidine Ben Said Massounde",1,"Non-democracy",1,1998,1,1998,FALSE
+"336","Congo (Brazzaville, Republic of Congo)",484,"Middle Africa","Africa","Charles David Ganao",1,"Democracy",1,1996,1,1996,FALSE
+"337","Congo (Brazzaville, Republic of Congo)",484,"Middle Africa","Africa","Claude-Antoine Dacosta",1,"Democracy",1,1992,1,1992,FALSE
+"338","Congo (Brazzaville, Republic of Congo)",484,"Middle Africa","Africa","Denis Sassou-Nguesso",12,"Non-democracy",2,1997,0,2008,FALSE
+"341","Congo (Brazzaville, Republic of Congo)",484,"Middle Africa","Africa","Jacques-Joachim Yhombi-Opango",3,"Democracy",1,1993,1,1995,FALSE
+"344","Costa Rica",94,"Central America","Americas","ï¿½scar Rafael Arias Sï¿½nchez",3,"Democracy",2,2006,0,2008,FALSE
+"345","Costa Rica",94,"Central America","Americas","Abel Pacheco de la Espriella",4,"Democracy",2,2002,1,2005,FALSE
+"352","Costa Rica",94,"Central America","Americas","Jose Maria Figueres Olsen",4,"Democracy",2,1994,1,1997,FALSE
+"355","Costa Rica",94,"Central America","Americas","Miguel Angel Rodriguez Echeverria",4,"Democracy",2,1998,1,2001,FALSE
+"358","Costa Rica",94,"Central America","Americas","Rafael Angel Calderon Fournier",4,"Democracy",2,1990,1,1993,FALSE
+"362","Cote d'Ivoire",437,"Western Africa","Africa","Henri Konan Bedie",6,"Non-democracy",0,1993,1,1998,FALSE
+"363","Cote d'Ivoire",437,"Western Africa","Africa","Laurent Gbagbo",9,"Non-democracy",0,2000,0,2008,FALSE
+"364","Cote d'Ivoire",437,"Western Africa","Africa","Robert Guei",1,"Non-democracy",0,1999,1,1999,FALSE
+"365","Croatia",344,"Southern Europe","Europe","Franjo Greguric",1,"Democracy",0,1991,1,1991,FALSE
+"366","Croatia",344,"Southern Europe","Europe","Hrvoje Sarinic",1,"Democracy",0,1992,1,1992,FALSE
+"367","Croatia",344,"Southern Europe","Europe","Ivica Racan",3,"Democracy",0,2000,1,2002,FALSE
+"368","Croatia",344,"Southern Europe","Europe","Ivo Sanader",6,"Democracy",0,2003,0,2008,FALSE
+"369","Croatia",344,"Southern Europe","Europe","Nikica Valentic",2,"Democracy",0,1993,1,1994,FALSE
+"370","Croatia",344,"Southern Europe","Europe","Zlatko Matesa",5,"Democracy",0,1995,1,1999,FALSE
+"374","Cuba",40,"Caribbean","Americas","Raul Castro",3,"Non-democracy",1,2006,0,2008,FALSE
+"377","Cyprus",352,"Western Asia","Asia","Dimitris Christofi Christofias",1,"Democracy",0,2003,0,2003,FALSE
+"379","Cyprus",352,"Western Asia","Asia","Glafkos Klerides",10,"Democracy",0,1993,1,2002,FALSE
+"382","Cyprus",352,"Western Asia","Asia","Tassos Nikolaou Papadopoulos",5,"Democracy",0,2003,1,2007,FALSE
+"383","Czech Republic",316,"Eastern Europe","Europe","Jirï¿½ Paroubek",1,"Democracy",1,2005,1,2005,FALSE
+"384","Czech Republic",316,"Eastern Europe","Europe","Josef Tosovsky",1,"Democracy",1,1997,1,1997,FALSE
+"385","Czech Republic",316,"Eastern Europe","Europe","Milos Zeman",4,"Democracy",1,1998,1,2001,FALSE
+"386","Czech Republic",316,"Eastern Europe","Europe","Mirek Topolï¿½nek",3,"Democracy",1,2006,0,2008,FALSE
+"387","Czech Republic",316,"Eastern Europe","Europe","Stanislav Gross",1,"Democracy",1,2004,1,2004,FALSE
+"388","Czech Republic",316,"Eastern Europe","Europe","Vaclav Klaus",4,"Democracy",1,1993,1,1996,FALSE
+"389","Czech Republic",316,"Eastern Europe","Europe","Vladimir Spidla",2,"Democracy",1,2002,1,2003,FALSE
+"393","Czechoslovakia",315,"Eastern Europe","Europe","Jan Strasky",1,"Democracy",1,1992,0,1992,FALSE
+"396","Czechoslovakia",315,"Eastern Europe","Europe","Marian Calfa",2,"Democracy",1,1990,1,1991,FALSE
+"398","Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",490,"Middle Africa","Africa","Joseph Kabila",8,"Non-democracy",0,2001,0,2008,FALSE
+"400","Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",490,"Middle Africa","Africa","Laurent Kabila",4,"Non-democracy",0,1997,0,2000,FALSE
+"402","Denmark",390,"Northern Europe","Europe","Anders Fogh Rasmussen",8,"Democracy",0,2001,0,2008,FALSE
+"414","Denmark",390,"Northern Europe","Europe","Poul Nyrup Rasmussen",8,"Democracy",0,1993,1,2000,FALSE
+"418","Djibouti",522,"Eastern Africa","Africa","Ismail Omar Guelleh",10,"Non-democracy",0,1999,0,2008,FALSE
+"419","Dominica",54,"Caribbean","Americas","Edison James",5,"Democracy",0,1995,1,1999,FALSE
+"423","Dominica",54,"Caribbean","Americas","Pierre Charles",4,"Democracy",0,2000,1,2003,FALSE
+"424","Dominica",54,"Caribbean","Americas","Roosevelt Skerrit",5,"Democracy",0,2004,0,2008,FALSE
+"430","Dominican Republic",42,"Caribbean","Americas","Leonel Antonio Fernï¿½ndez Reyna",5,"Democracy",0,2004,0,2008,FALSE
+"431","Dominican Republic",42,"Caribbean","Americas","Leonel Fernandez Reyna",4,"Democracy",0,1996,1,1999,FALSE
+"434","Dominican Republic",42,"Caribbean","Americas","Rafael Hipolito Mejia Dominguez",4,"Democracy",0,2000,1,2003,FALSE
+"437","East Timor",860,"South-Eastern Asia","Asia","Josï¿½ Ramos-Horta",1,"Democracy",0,2006,1,2006,FALSE
+"438","East Timor",860,"South-Eastern Asia","Asia","Kay Rala Xanana Gusmï¿½o",2,"Democracy",0,2007,0,2008,FALSE
+"439","East Timor",860,"South-Eastern Asia","Asia","Marï¿½ Bim Amude Alkatiri",4,"Democracy",0,2002,1,2005,FALSE
+"440","Ecuador",130,"South America","Americas","Abdala Bucaram Ortiz",1,"Democracy",2,1996,1,1996,FALSE
+"441","Ecuador",130,"South America","Americas","Alfredo Palacio",2,"Democracy",3,2005,1,2006,FALSE
+"445","Ecuador",130,"South America","Americas","Fabian Alarcon",1,"Democracy",2,1997,1,1997,FALSE
+"448","Ecuador",130,"South America","Americas","Gustavo Noboa Bejarano",3,"Democracy",3,2000,1,2002,FALSE
+"449","Ecuador",130,"South America","Americas","Gustavo Noboa Bejarano",3,"Non-democracy",3,2000,1,2002,FALSE
+"451","Ecuador",130,"South America","Americas","Jamil Mahuad",2,"Democracy",2,1998,1,1999,FALSE
+"457","Ecuador",130,"South America","Americas","Lucio Gutiï¿½rrez",2,"Democracy",3,2003,1,2004,FALSE
+"461","Ecuador",130,"South America","Americas","Rafael Correa",2,"Democracy",3,2007,0,2008,FALSE
+"464","Ecuador",130,"South America","Americas","Sixto Duran Ballen",4,"Democracy",2,1992,1,1995,FALSE
+"473","El Salvador",92,"Central America","Americas","Armando Calderon Sol",5,"Democracy",0,1994,1,1998,FALSE
+"476","El Salvador",92,"Central America","Americas","Elï¿½as Antonio Saca Gonzï¿½lez",5,"Democracy",0,2004,0,2008,FALSE
+"478","El Salvador",92,"Central America","Americas","Francisco Guillermo Flores Perez",5,"Democracy",0,1999,1,2003,FALSE
+"491","Eritrea",531,"Eastern Africa","Africa","Isaias Afwerki",16,"Non-democracy",0,1993,0,2008,FALSE
+"492","Estonia",366,"Northern Europe","Europe","Andres Tarand",1,"Democracy",1,1994,1,1994,FALSE
+"493","Estonia",366,"Northern Europe","Europe","Andrus Ansip",4,"Democracy",1,2005,0,2008,FALSE
+"494","Estonia",366,"Northern Europe","Europe","Edgar Savisaar",2,"Democracy",1,1990,1,1991,FALSE
+"495","Estonia",366,"Northern Europe","Europe","Juhan Parts",2,"Democracy",1,2003,1,2004,FALSE
+"496","Estonia",366,"Northern Europe","Europe","Mart Laar",2,"Democracy",1,1992,1,1993,FALSE
+"497","Estonia",366,"Northern Europe","Europe","Mart Laar",3,"Democracy",1,1999,1,2001,FALSE
+"498","Estonia",366,"Northern Europe","Europe","Mart Siimann",2,"Democracy",1,1997,1,1998,FALSE
+"499","Estonia",366,"Northern Europe","Europe","Siim Kallas",1,"Democracy",1,2002,1,2002,FALSE
+"500","Estonia",366,"Northern Europe","Europe","Tiit Vahi",2,"Democracy",1,1995,1,1996,FALSE
+"501","Ethiopia",530,"Eastern Africa","Africa","Girma Wolde-Giyorgis Lucha",8,"Non-democracy",0,2001,0,2008,FALSE
+"503","Ethiopia",530,"Eastern Africa","Africa","Meles Zenawi",2,"Non-democracy",0,1991,0,1992,FALSE
+"505","Ethiopia",530,"Eastern Africa","Africa","Negasso Gidada",6,"Non-democracy",0,1995,1,2000,FALSE
+"507","Fiji",950,"Melanesia","Oceania","Mahendra Chaudhry",1,"Democracy",0,1999,1,1999,FALSE
+"508","Fiji",950,"Melanesia","Oceania","Ratu Josefa Iloilo",6,"Non-democracy",1,2000,1,2005,FALSE
+"510","Fiji",950,"Melanesia","Oceania","Sitiveni Rabuka",12,"Democracy",0,1991,1,2002,FALSE
+"511","Fiji",950,"Melanesia","Oceania","Sitiveni Rabuka",12,"Non-democracy",0,1991,1,2002,FALSE
+"512","Fiji",950,"Melanesia","Oceania","Voreqe Bainimarama",3,"Non-democracy",1,2006,0,2008,FALSE
+"514","Finland",375,"Northern Europe","Europe","Esko Aho",4,"Democracy",0,1991,1,1994,FALSE
+"524","Finland",375,"Northern Europe","Europe","Matti Taneli Vanhanen",6,"Democracy",0,2003,0,2008,FALSE
+"528","Finland",375,"Northern Europe","Europe","Paavo Lipponen",8,"Democracy",0,1995,1,2002,FALSE
+"537","France",220,"Western Europe","Europe","Alain Juppe",2,"Democracy",0,1995,1,1996,FALSE
+"540","France",220,"Western Europe","Europe","Dominique de Villepin",2,"Democracy",0,2005,1,2006,FALSE
+"542","France",220,"Western Europe","Europe","Edith Cresson",1,"Democracy",0,1991,1,1991,FALSE
+"543","France",220,"Western Europe","Europe","Edouard Balladur",2,"Democracy",0,1993,1,1994,FALSE
+"545","France",220,"Western Europe","Europe","Franï¿½ois Fillon",2,"Democracy",0,2007,0,2008,FALSE
+"552","France",220,"Western Europe","Europe","Jean-Pierre Raffarin",3,"Democracy",0,2002,1,2004,FALSE
+"556","France",220,"Western Europe","Europe","Lionel Jospin",5,"Democracy",0,1997,1,2001,FALSE
+"560","France",220,"Western Europe","Europe","Pierre Beregovoy",1,"Democracy",0,1992,1,1992,FALSE
+"571","Gambia",420,"Western Africa","Africa","Yahya Jammeh",15,"Non-democracy",0,1994,0,2008,FALSE
+"572","Georgia",372,"Western Asia","Asia","Eduard Shevardnadze",11,"Non-democracy",0,1992,1,2002,FALSE
+"573","Georgia",372,"Western Asia","Asia","Grigol Mgaloblishvili",1,"Democracy",0,2008,0,2008,FALSE
+"574","Georgia",372,"Western Asia","Asia","Lado Gurgenidze",1,"Democracy",0,2007,1,2007,FALSE
+"575","Georgia",372,"Western Asia","Asia","Nino Burdzhanadze",1,"Non-democracy",0,2003,1,2003,FALSE
+"576","Georgia",372,"Western Asia","Asia","Zurab Nogaideli",2,"Democracy",0,2005,1,2006,FALSE
+"577","Georgia",372,"Western Asia","Asia","Zurab Zhvania",1,"Democracy",0,2004,1,2004,FALSE
+"578","Georgia",372,"Western Asia","Asia","Zviad Gamsakhurdia",2,"Non-democracy",0,1990,1,1991,FALSE
+"579","Germany",255,"Western Europe","Europe","Angela Merkel",4,"Democracy",1,2005,0,2008,FALSE
+"580","Germany",255,"Western Europe","Europe","Gerhard Schroeder",7,"Democracy",1,1998,1,2004,FALSE
+"595","Ghana",452,"Western Africa","Africa","Jerry Rawlings",8,"Democracy",2,1993,1,2000,FALSE
+"597","Ghana",452,"Western Africa","Africa","John Agyekum Kufuor",8,"Democracy",2,2001,0,2008,FALSE
+"603","Greece",350,"Southern Europe","Europe","Andreas Papandreou",3,"Democracy",2,1993,0,1995,FALSE
+"610","Greece",350,"Southern Europe","Europe","Konstantinos A. (Kostas) Karamanlis",5,"Democracy",2,2004,0,2008,FALSE
+"613","Greece",350,"Southern Europe","Europe","Konstantinos Mitsotakis",3,"Democracy",2,1990,1,1992,FALSE
+"614","Greece",350,"Southern Europe","Europe","Kostas Simitis",8,"Democracy",2,1996,1,2003,FALSE
+"623","Grenada",55,"Caribbean","Americas","Keith Mitchell",13,"Democracy",1,1995,1,2007,FALSE
+"626","Grenada",55,"Caribbean","Americas","Nicholas Brathwaite",5,"Democracy",1,1990,1,1994,FALSE
+"627","Grenada",55,"Caribbean","Americas","Tillman Joseph Thomas",1,"Democracy",1,2008,0,2008,FALSE
+"628","Guatemala",90,"Central America","Americas","ï¿½lvaro Colom Caballeros",1,"Democracy",3,2008,0,2008,FALSE
+"629","Guatemala",90,"Central America","Americas","Alfonso Antonio Portillo Cabrera",8,"Democracy",3,2000,1,2007,FALSE
+"630","Guatemala",90,"Central America","Americas","Alvaro Arzu Irigoyen",4,"Democracy",3,1996,1,1999,FALSE
+"637","Guatemala",90,"Central America","Americas","Jorge Serrano Elias",2,"Democracy",3,1991,1,1992,FALSE
+"644","Guatemala",90,"Central America","Americas","Ramiro de Leon Carpio",3,"Democracy",3,1993,1,1995,FALSE
+"648","Guinea",438,"Western Africa","Africa","Moussa Dadis Camara",1,"Non-democracy",0,2008,0,2008,FALSE
+"649","Guinea-Bissau",404,"Western Africa","Africa","Ansumane Mane",1,"Non-democracy",0,1999,1,1999,FALSE
+"650","Guinea-Bissau",404,"Western Africa","Africa","Aristides Gomes",2,"Democracy",1,2005,1,2006,FALSE
+"651","Guinea-Bissau",404,"Western Africa","Africa","Carlos Correia",1,"Democracy",1,2008,0,2008,FALSE
+"652","Guinea-Bissau",404,"Western Africa","Africa","Carlos Gomes",1,"Democracy",1,2004,1,2004,FALSE
+"653","Guinea-Bissau",404,"Western Africa","Africa","Henrique Rosa",1,"Non-democracy",1,2003,1,2003,FALSE
+"655","Guinea-Bissau",404,"Western Africa","Africa","Kumba Iala",1,"Democracy",0,2002,1,2002,FALSE
+"656","Guinea-Bissau",404,"Western Africa","Africa","Kumba Iala",2,"Democracy",0,2000,1,2001,FALSE
+"658","Guinea-Bissau",404,"Western Africa","Africa","Martinho Ndafa Cabi",1,"Democracy",1,2007,1,2007,FALSE
+"659","Guyana",110,"South America","Americas","Bharrat Jagdeo",10,"Non-democracy",0,1999,0,2008,FALSE
+"660","Guyana",110,"South America","Americas","Cheddi Jagan",5,"Non-democracy",0,1992,0,1996,FALSE
+"663","Guyana",110,"South America","Americas","Janet Jagan",2,"Non-democracy",0,1997,1,1998,FALSE
+"664","Haiti",41,"Caribbean","Americas","Boniface Alexandre",2,"Non-democracy",0,2004,1,2005,FALSE
+"666","Haiti",41,"Caribbean","Americas","Ertha Pascal-Trouillot",1,"Non-democracy",0,1990,1,1990,FALSE
+"669","Haiti",41,"Caribbean","Americas","Jean-Bertrand Aristide",1,"Non-democracy",0,1993,1,1993,FALSE
+"670","Haiti",41,"Caribbean","Americas","Jean-Bertrand Aristide",2,"Non-democracy",0,1994,1,1995,FALSE
+"671","Haiti",41,"Caribbean","Americas","Jean-Bertrand Aristide",3,"Non-democracy",0,2001,1,2003,FALSE
+"674","Haiti",41,"Caribbean","Americas","Joseph Nerette",1,"Non-democracy",0,1991,1,1991,FALSE
+"675","Haiti",41,"Caribbean","Americas","Marc Bazin",1,"Non-democracy",0,1992,1,1992,FALSE
+"678","Haiti",41,"Caribbean","Americas","Rene Garcia Preval",3,"Non-democracy",0,2006,0,2008,FALSE
+"679","Haiti",41,"Caribbean","Americas","Rene Garcia Preval",5,"Non-democracy",0,1996,1,2000,FALSE
+"680","Honduras",91,"Central America","Americas","Carlos Roberto Flores Facusse",4,"Democracy",2,1998,1,2001,FALSE
+"681","Honduras",91,"Central America","Americas","Carlos Roberto Reina Idiaquez",4,"Democracy",2,1994,1,1997,FALSE
+"682","Honduras",91,"Central America","Americas","Josï¿½ Manuel Zelaya Rosales",3,"Democracy",2,2006,0,2008,FALSE
+"690","Honduras",91,"Central America","Americas","Rafael Leonardo Callejas",4,"Democracy",2,1990,1,1993,FALSE
+"693","Honduras",91,"Central America","Americas","Ricardo Maduro Joest",4,"Democracy",2,2002,1,2005,FALSE
+"697","Hungary",310,"Eastern Europe","Europe","Ferenc Gyurcsï¿½ny",5,"Democracy",0,2004,0,2008,FALSE
+"698","Hungary",310,"Eastern Europe","Europe","Gyula Horn",4,"Democracy",0,1994,1,1997,FALSE
+"700","Hungary",310,"Eastern Europe","Europe","Jozsef Antall",3,"Democracy",0,1990,0,1992,FALSE
+"704","Hungary",310,"Eastern Europe","Europe","Peter Boross",1,"Democracy",0,1993,1,1993,FALSE
+"705","Hungary",310,"Eastern Europe","Europe","Peter Medgyessy",2,"Democracy",0,2002,1,2003,FALSE
+"706","Hungary",310,"Eastern Europe","Europe","Viktor Orban",4,"Democracy",0,1998,1,2001,FALSE
+"709","Iceland",395,"Northern Europe","Europe","David Oddsson",13,"Democracy",0,1991,1,2003,FALSE
+"712","Iceland",395,"Northern Europe","Europe","Geir Hilmar Haarde",3,"Democracy",0,2006,0,2008,FALSE
+"714","Iceland",395,"Northern Europe","Europe","Halldï¿½r ï¿½sgrï¿½msson",2,"Democracy",0,2004,1,2005,FALSE
+"727","India",750,"Southern Asia","Asia","Atal Bihari Vajpayee",6,"Democracy",0,1998,1,2003,FALSE
+"728","India",750,"Southern Asia","Asia","Chandra Shekhar",1,"Democracy",0,1990,1,1990,FALSE
+"730","India",750,"Southern Asia","Asia","H.D. Deve Gowda",1,"Democracy",0,1996,1,1996,FALSE
+"731","India",750,"Southern Asia","Asia","Inder Kumar Gujral",1,"Democracy",0,1997,1,1997,FALSE
+"736","India",750,"Southern Asia","Asia","Manmohan Singh",5,"Democracy",0,2004,0,2008,FALSE
+"738","India",750,"Southern Asia","Asia","P.V. Narasimha Rao",5,"Democracy",0,1991,1,1995,FALSE
+"741","Indonesia",850,"South-Eastern Asia","Asia","Abdurrahman Wahid",2,"Democracy",0,1999,1,2000,FALSE
+"742","Indonesia",850,"South-Eastern Asia","Asia","Megawati Sukarnoputri",3,"Democracy",0,2001,1,2003,FALSE
+"743","Indonesia",850,"South-Eastern Asia","Asia","military",1,"Non-democracy",0,1998,1,1998,FALSE
+"746","Indonesia",850,"South-Eastern Asia","Asia","Susilo Bambang Yudhoyono",5,"Democracy",0,2004,0,2008,FALSE
+"755","Iraq",645,"Western Asia","Asia","Lt. Gen. John P. Abizaid",6,"Non-democracy",0,2003,0,2008,FALSE
+"758","Ireland",205,"Northern Europe","Europe","Albert Reynolds",2,"Democracy",0,1992,1,1993,FALSE
+"759","Ireland",205,"Northern Europe","Europe","Bertie Ahern",11,"Democracy",0,1997,1,2007,FALSE
+"760","Ireland",205,"Northern Europe","Europe","Brian Cowen",1,"Democracy",0,2008,0,2008,FALSE
+"768","Ireland",205,"Northern Europe","Europe","John Bruton",3,"Democracy",0,1994,1,1996,FALSE
+"774","Israel",666,"Western Asia","Asia","Ariel Sharon",5,"Democracy",0,2001,1,2005,FALSE
+"775","Israel",666,"Western Asia","Asia","Benjamin Netanyahu",3,"Democracy",0,1996,1,1998,FALSE
+"778","Israel",666,"Western Asia","Asia","Ehud Barak",2,"Democracy",0,1999,1,2000,FALSE
+"779","Israel",666,"Western Asia","Asia","Ehud Olmert",4,"Democracy",0,2006,1,2009,FALSE
+"784","Israel",666,"Western Asia","Asia","Shimon Peres",1,"Democracy",0,1995,1,1995,FALSE
+"799","Italy",325,"Southern Europe","Europe","Carlo Azeglio Ciampi",1,"Democracy",1,1993,1,1993,FALSE
+"805","Italy",325,"Southern Europe","Europe","Giuliano Amato",1,"Democracy",1,1992,1,1992,FALSE
+"809","Italy",325,"Southern Europe","Europe","Guiliano Amato",1,"Democracy",1,2000,1,2000,FALSE
+"810","Italy",325,"Southern Europe","Europe","Lamberto Dini",1,"Democracy",1,1995,1,1995,FALSE
+"814","Italy",325,"Southern Europe","Europe","Massimo D'Alema",2,"Democracy",1,1998,1,1999,FALSE
+"815","Italy",325,"Southern Europe","Europe","Romano Prodi",2,"Democracy",1,1996,1,1997,FALSE
+"816","Italy",325,"Southern Europe","Europe","Silvio Berlusconi",1,"Democracy",1,1994,0,1994,FALSE
+"817","Italy",325,"Southern Europe","Europe","Silvio Berlusconi",5,"Democracy",1,2001,1,2005,FALSE
+"822","Jamaica",51,"Caribbean","Americas","Orette Bruce Golding",2,"Democracy",0,2007,0,2008,FALSE
+"823","Jamaica",51,"Caribbean","Americas","Percival Patterson",14,"Democracy",0,1992,1,2005,FALSE
+"824","Jamaica",51,"Caribbean","Americas","Portia Simpson Miller",1,"Democracy",0,2006,1,2006,FALSE
+"829","Japan",740,"Eastern Asia","Asia","Junichiro Koizumi",5,"Democracy",0,2001,1,2005,FALSE
+"831","Japan",740,"Eastern Asia","Asia","Keizo Obuchi",2,"Democracy",0,1998,0,1999,FALSE
+"832","Japan",740,"Eastern Asia","Asia","Kiichi Miyazawa",2,"Democracy",0,1991,1,1992,FALSE
+"834","Japan",740,"Eastern Asia","Asia","Morihiro Hosokawa",1,"Democracy",0,1993,1,1993,FALSE
+"837","Japan",740,"Eastern Asia","Asia","Ryutaro Hashimoto",2,"Democracy",0,1996,1,1997,FALSE
+"840","Japan",740,"Eastern Asia","Asia","Shinzo Abe",1,"Democracy",0,2006,1,2006,FALSE
+"845","Japan",740,"Eastern Asia","Asia","Taro Aso",1,"Democracy",0,2008,0,2008,FALSE
+"847","Japan",740,"Eastern Asia","Asia","Tomiichi Murayama",2,"Democracy",0,1994,1,1995,FALSE
+"849","Japan",740,"Eastern Asia","Asia","Yasuo Fukuda",1,"Democracy",0,2007,1,2007,FALSE
+"850","Japan",740,"Eastern Asia","Asia","Yoshiro Mori",1,"Democracy",0,2000,1,2000,FALSE
+"852","Jordan",663,"Western Asia","Asia","Abdallah ibn al-Hussein al-Hashimi",10,"Non-democracy",0,1999,0,2008,FALSE
+"856","Kazakhstan",705,"Central Asia","Asia","Nursultan Nazarbayev",19,"Non-democracy",0,1990,0,2008,FALSE
+"857","Kenya",501,"Eastern Africa","Africa","Daniel Arap Moi",4,"Democracy",0,1998,1,2001,FALSE
+"860","Kenya",501,"Eastern Africa","Africa","Mwai Kibaki",7,"Democracy",0,2002,0,2008,FALSE
+"861","Kiribati",946,"Micronesia","Oceania","Anote Tong",6,"Democracy",0,2003,0,2008,FALSE
+"865","Kiribati",946,"Micronesia","Oceania","Teatao Teannaki",3,"Democracy",0,1991,1,1993,FALSE
+"866","Kiribati",946,"Micronesia","Oceania","Teburoro Tito",9,"Democracy",0,1994,1,2002,FALSE
+"869","Kuwait",690,"Western Asia","Asia","Sheikh Sabah Al Ahmad Al Jabir Al Sabah",3,"Non-democracy",0,2006,0,2008,FALSE
+"871","Kyrgyzstan",703,"Central Asia","Asia","Askar Akayev",15,"Non-democracy",0,1990,1,2004,FALSE
+"872","Kyrgyzstan",703,"Central Asia","Asia","Feliks Kulov",2,"Democracy",0,2005,1,2006,FALSE
+"873","Kyrgyzstan",703,"Central Asia","Asia","Igor Chudinov",2,"Democracy",0,2007,0,2008,FALSE
+"874","Laos",812,"South-Eastern Asia","Asia","Choummaly Sayasone",3,"Non-democracy",1,2006,0,2008,FALSE
+"877","Laos",812,"South-Eastern Asia","Asia","Khamtay Siphandon",14,"Non-democracy",1,1992,1,2005,FALSE
+"884","Latvia",367,"Northern Europe","Europe","Aigars Kalvitis",3,"Democracy",1,2004,1,2006,FALSE
+"885","Latvia",367,"Northern Europe","Europe","Andris Berzins",2,"Democracy",1,2000,1,2001,FALSE
+"886","Latvia",367,"Northern Europe","Europe","Andris Skele",1,"Democracy",1,1999,1,1999,FALSE
+"887","Latvia",367,"Northern Europe","Europe","Andris Skele",2,"Democracy",1,1995,1,1996,FALSE
+"888","Latvia",367,"Northern Europe","Europe","Einars Repse",2,"Democracy",1,2002,1,2003,FALSE
+"889","Latvia",367,"Northern Europe","Europe","Guntars Krasts",1,"Democracy",1,1997,1,1997,FALSE
+"890","Latvia",367,"Northern Europe","Europe","Ivars Godmanis",2,"Democracy",1,2007,0,2008,FALSE
+"891","Latvia",367,"Northern Europe","Europe","Ivars Godmanis",3,"Democracy",1,1990,1,1992,FALSE
+"892","Latvia",367,"Northern Europe","Europe","Maris Gailis",1,"Democracy",1,1994,1,1994,FALSE
+"893","Latvia",367,"Northern Europe","Europe","Valdis Birkavs",1,"Democracy",1,1993,1,1993,FALSE
+"894","Latvia",367,"Northern Europe","Europe","Vilis Kristopans",1,"Democracy",1,1998,1,1998,FALSE
+"902","Lebanon",660,"Western Asia","Asia","Emile Geamil Lahoud",9,"Non-democracy",1,1998,1,2006,FALSE
+"903","Lebanon",660,"Western Asia","Asia","Fouad Siniora",1,"Non-democracy",1,2007,1,2007,FALSE
+"906","Lebanon",660,"Western Asia","Asia","Michel Suleiman",1,"Non-democracy",1,2008,0,2008,FALSE
+"917","Lesotho",570,"Southern Africa","Africa","Elias Phisoana Ramaema",2,"Non-democracy",0,1991,1,1992,FALSE
+"920","Lesotho",570,"Southern Africa","Africa","Ntsu Mokhehle",1,"Non-democracy",0,1993,1,1993,FALSE
+"921","Lesotho",570,"Southern Africa","Africa","Ntsu Mokhehle",4,"Non-democracy",0,1994,1,1997,FALSE
+"922","Lesotho",570,"Southern Africa","Africa","Pakalitha Mosisili",16,"Non-democracy",0,1998,0,2013,FALSE
+"923","Liberia",450,"Western Africa","Africa","Amos Sawyer",3,"Non-democracy",0,1990,1,1992,FALSE
+"924","Liberia",450,"Western Africa","Africa","Charles Gyude Bryant",3,"Non-democracy",0,2003,1,2005,FALSE
+"925","Liberia",450,"Western Africa","Africa","Charles Taylor",6,"Non-democracy",0,1997,1,2002,FALSE
+"926","Liberia",450,"Western Africa","Africa","David Kpomakpor",1,"Non-democracy",0,1994,1,1994,FALSE
+"927","Liberia",450,"Western Africa","Africa","Ellen Johnson-Sirleaf",3,"Democracy",0,2006,0,2008,FALSE
+"928","Liberia",450,"Western Africa","Africa","Philip Banks",1,"Non-democracy",0,1993,1,1993,FALSE
+"929","Liberia",450,"Western Africa","Africa","Ruth Perry",1,"Non-democracy",0,1996,1,1996,FALSE
+"933","Liberia",450,"Western Africa","Africa","Wilton Sankawnlo",1,"Non-democracy",0,1995,1,1995,FALSE
+"940","Liechtenstein",223,"Western Europe","Europe","Mario Frick",8,"Democracy",0,1993,1,2000,FALSE
+"941","Liechtenstein",223,"Western Europe","Europe","Otmar Hasler",8,"Democracy",0,2001,0,2008,FALSE
+"943","Lithuania",368,"Northern Europe","Europe","Adolfas Slezevicius",3,"Democracy",1,1993,1,1995,FALSE
+"944","Lithuania",368,"Northern Europe","Europe","Algirdas Brazauskas",5,"Democracy",1,2001,1,2005,FALSE
+"945","Lithuania",368,"Northern Europe","Europe","Andrius Kubilius",1,"Democracy",1,1999,0,1999,FALSE
+"946","Lithuania",368,"Northern Europe","Europe","Bronislovas Lubys",1,"Democracy",1,1992,1,1992,FALSE
+"947","Lithuania",368,"Northern Europe","Europe","Gediminas Kirkilas",2,"Democracy",1,2006,1,2007,FALSE
+"948","Lithuania",368,"Northern Europe","Europe","Gediminas Vagnorius",1,"Democracy",1,1991,1,1991,FALSE
+"949","Lithuania",368,"Northern Europe","Europe","Gediminas Vagnorius",3,"Democracy",1,1996,1,1998,FALSE
+"950","Lithuania",368,"Northern Europe","Europe","Rolandas Paksas",1,"Democracy",1,2000,1,2000,FALSE
+"953","Luxembourg",212,"Western Europe","Europe","Jean-Claude Juncker",14,"Democracy",0,1995,0,2008,FALSE
+"959","Macedonia",343,"Southern Europe","Europe","Branko Crvenkovski",2,"Democracy",0,2002,1,2003,FALSE
+"960","Macedonia",343,"Southern Europe","Europe","Branko Crvenkovski",6,"Democracy",0,1992,1,1997,FALSE
+"961","Macedonia",343,"Southern Europe","Europe","Ljupco Georgievski",4,"Democracy",0,1998,1,2001,FALSE
+"962","Macedonia",343,"Southern Europe","Europe","Nikola Gruevski",3,"Democracy",0,2006,0,2008,FALSE
+"963","Macedonia",343,"Southern Europe","Europe","Nikola Kljusev",1,"Democracy",0,1991,1,1991,FALSE
+"964","Macedonia",343,"Southern Europe","Europe","Vlado Buckovski",2,"Democracy",0,2004,1,2005,FALSE
+"965","Madagascar",580,"Eastern Africa","Africa","Charles Rabemananjara",2,"Democracy",0,2007,0,2008,FALSE
+"967","Madagascar",580,"Eastern Africa","Africa","Emmanuel Rakotovahiny",1,"Democracy",0,1995,1,1995,FALSE
+"968","Madagascar",580,"Eastern Africa","Africa","Francisque Ravony",2,"Democracy",0,1993,1,1994,FALSE
+"970","Madagascar",580,"Eastern Africa","Africa","Jacques Sylla",5,"Democracy",0,2002,1,2006,FALSE
+"971","Madagascar",580,"Eastern Africa","Africa","Norbert Ratsirahonana",1,"Democracy",0,1996,1,1996,FALSE
+"972","Madagascar",580,"Eastern Africa","Africa","Pascal Rakotomavo",1,"Democracy",0,1997,1,1997,FALSE
+"974","Madagascar",580,"Eastern Africa","Africa","Rene Tantely Andrianarivo",4,"Democracy",0,1998,1,2001,FALSE
+"975","Malawi",553,"Eastern Africa","Africa","Bakili Muluzi",10,"Democracy",0,1994,1,2003,FALSE
+"976","Malawi",553,"Eastern Africa","Africa","Bingu wa Mutharika",5,"Democracy",0,2004,0,2008,FALSE
+"978","Malaysia",820,"South-Eastern Asia","Asia","Abdullah Ahmad Badawi",6,"Non-democracy",0,2003,0,2008,FALSE
+"986","Maldives",781,"Southern Asia","Asia","Mohamed Nasheed",1,"Democracy",0,2008,0,2008,FALSE
+"988","Mali",432,"Western Africa","Africa","Abdoulaye Sekou Sow",1,"Democracy",0,1993,1,1993,FALSE
+"989","Mali",432,"Western Africa","Africa","Ahmed Mohamed Ag Hamani",2,"Democracy",0,2002,1,2003,FALSE
+"990","Mali",432,"Western Africa","Africa","Amadou Toumani Toure",1,"Non-democracy",0,1991,1,1991,FALSE
+"991","Mali",432,"Western Africa","Africa","Ibrahima Boubacar Keita",6,"Democracy",0,1994,1,1999,FALSE
+"992","Mali",432,"Western Africa","Africa","Mande Sidibe",2,"Democracy",0,2000,1,2001,FALSE
+"994","Mali",432,"Western Africa","Africa","Modibo Sidibe",2,"Democracy",0,2007,0,2008,FALSE
+"996","Mali",432,"Western Africa","Africa","Ousmane Issoufi Maiga",3,"Democracy",0,2004,1,2006,FALSE
+"997","Mali",432,"Western Africa","Africa","Younoussi Toure",1,"Democracy",0,1992,1,1992,FALSE
+"998","Malta",338,"Southern Europe","Europe","Alfred Sant",2,"Democracy",0,1996,1,1997,FALSE
+"1001","Malta",338,"Southern Europe","Europe","Eddie Fenech Adami",6,"Democracy",0,1998,1,2003,FALSE
+"1004","Malta",338,"Southern Europe","Europe","Lawrence Gonzi",5,"Democracy",0,2004,0,2008,FALSE
+"1006","Marshall Islands",983,"Micronesia","Oceania","Imata Kabua",3,"Democracy",0,1997,1,1999,FALSE
+"1007","Marshall Islands",983,"Micronesia","Oceania","Kessai Note",8,"Democracy",0,2000,1,2007,FALSE
+"1008","Marshall Islands",983,"Micronesia","Oceania","Kunio Lemari",1,"Democracy",0,1996,1,1996,FALSE
+"1009","Marshall Islands",983,"Micronesia","Oceania","Litokwa Tomeing",1,"Democracy",0,2008,0,2008,FALSE
+"1010","Mauritania",435,"Western Africa","Africa","Ely Ould Mohamed Vall",2,"Non-democracy",0,2005,1,2006,FALSE
+"1013","Mauritania",435,"Western Africa","Africa","Mohamed Ould Abdel Aziz",1,"Non-democracy",1,2008,0,2008,FALSE
+"1017","Mauritania",435,"Western Africa","Africa","Zeine Ould Zeidane",1,"Democracy",0,2007,1,2007,FALSE
+"1018","Mauritius",590,"Eastern Africa","Africa","Anerood Jugnauth",3,"Democracy",0,2000,1,2002,FALSE
+"1020","Mauritius",590,"Eastern Africa","Africa","Navin Ramgoolam",5,"Democracy",0,1995,1,1999,FALSE
+"1021","Mauritius",590,"Eastern Africa","Africa","Navin(chandra) Ramgoolam",4,"Democracy",0,2005,0,2008,FALSE
+"1022","Mauritius",590,"Eastern Africa","Africa","Paul Raymond Berenger",2,"Democracy",0,2003,1,2004,FALSE
+"1027","Mexico",70,"Central America","Americas","Ernesto Zedillo",6,"Non-democracy",0,1994,1,1999,FALSE
+"1028","Mexico",70,"Central America","Americas","Felipe de Jesï¿½s Calderï¿½n Hinojosa",3,"Democracy",0,2006,0,2008,FALSE
+"1034","Mexico",70,"Central America","Americas","Vicente Fox Quesada",6,"Democracy",0,2000,1,2005,FALSE
+"1035","Micronesia, Federated States of",987,"Micronesia","Oceania","Bailey Olter",5,"Democracy",0,1991,1,1995,FALSE
+"1036","Micronesia, Federated States of",987,"Micronesia","Oceania","Jacob Nena",3,"Democracy",0,1996,1,1998,FALSE
+"1037","Micronesia, Federated States of",987,"Micronesia","Oceania","Joseph J. Urusemal",4,"Democracy",0,2003,1,2006,FALSE
+"1038","Micronesia, Federated States of",987,"Micronesia","Oceania","Leo Falcam",4,"Democracy",0,1999,1,2002,FALSE
+"1039","Micronesia, Federated States of",987,"Micronesia","Oceania","Manny Mori",2,"Democracy",0,2007,0,2008,FALSE
+"1040","Moldova",359,"Eastern Europe","Europe","Andrei Sangheli",1,"Democracy",0,1992,1,1992,FALSE
+"1041","Moldova",359,"Eastern Europe","Europe","Dumitru Braghis",2,"Democracy",0,1999,1,2000,FALSE
+"1042","Moldova",359,"Eastern Europe","Europe","Ion Ciubuc",2,"Democracy",0,1997,1,1998,FALSE
+"1043","Moldova",359,"Eastern Europe","Europe","Mirecea Snegur",5,"Democracy",0,1990,1,1994,FALSE
+"1044","Moldova",359,"Eastern Europe","Europe","Vasile Tarlev",7,"Democracy",0,2001,1,2007,FALSE
+"1045","Moldova",359,"Eastern Europe","Europe","Zinaida Greceanii",1,"Democracy",0,2008,0,2008,FALSE
+"1048","Mongolia",712,"Eastern Asia","Asia","Janlaviyn Narantsatsralt",1,"Democracy",0,1998,1,1998,FALSE
+"1049","Mongolia",712,"Eastern Asia","Asia","Mendsayhany Enkhsaikhan",2,"Democracy",0,1996,1,1997,FALSE
+"1050","Mongolia",712,"Eastern Asia","Asia","Miyeegombo Enkhbold",1,"Democracy",0,2006,1,2006,FALSE
+"1051","Mongolia",712,"Eastern Asia","Asia","Nambaryn Enkhbayar",4,"Democracy",0,2000,1,2003,FALSE
+"1052","Mongolia",712,"Eastern Asia","Asia","Punsalmaagiyn Ochirbat",2,"Democracy",0,1990,1,1991,FALSE
+"1053","Mongolia",712,"Eastern Asia","Asia","Puntsagiyn Jasray",4,"Democracy",0,1992,1,1995,FALSE
+"1054","Mongolia",712,"Eastern Asia","Asia","Rinchinnyamiyn Amarjargal",1,"Democracy",0,1999,1,1999,FALSE
+"1055","Mongolia",712,"Eastern Asia","Asia","Sanj Bayar",2,"Democracy",0,2007,0,2008,FALSE
+"1056","Mongolia",712,"Eastern Asia","Asia","Tsakhiagiyn Elbegdorj",2,"Democracy",0,2004,1,2005,FALSE
+"1059","Montenegro",341,"Southern Europe","Europe","Filip Vujanovic",6,"Non-democracy",0,2003,0,2008,FALSE
+"1062","Morocco",600,"Northern Africa","Africa","Muhammad VI",10,"Non-democracy",0,1999,0,2008,FALSE
+"1063","Mozambique",541,"Eastern Africa","Africa","Armando Emï¿½lio Guebuza",4,"Non-democracy",0,2005,0,2008,FALSE
+"1069","Myanmar",775,"South-Eastern Asia","Asia","Than Shwe",17,"Non-democracy",2,1992,0,2008,FALSE
+"1074","Namibia",565,"Southern Africa","Africa","Hifikepunye Lucas Pohamba",4,"Non-democracy",0,2005,0,2008,FALSE
+"1075","Namibia",565,"Southern Africa","Africa","Sam Nujoma",15,"Non-democracy",0,1990,1,2004,FALSE
+"1077","Nauru",970,"Micronesia","Oceania","Bernard Dowiyoyo",1,"Democracy",0,1998,1,1998,FALSE
+"1081","Nauru",970,"Micronesia","Oceania","Kinza Clodumar",1,"Democracy",0,1997,1,1997,FALSE
+"1082","Nauru",970,"Micronesia","Oceania","Lagumot Harris",1,"Democracy",0,1995,1,1995,FALSE
+"1083","Nauru",970,"Micronesia","Oceania","Ludwig Scotty",3,"Democracy",0,2004,1,2006,FALSE
+"1084","Nauru",970,"Micronesia","Oceania","Marcus Stephen",2,"Democracy",0,2007,0,2008,FALSE
+"1085","Nauru",970,"Micronesia","Oceania","Rene Harris",1,"Democracy",0,1999,1,1999,FALSE
+"1086","Nauru",970,"Micronesia","Oceania","Rene Harris",2,"Democracy",0,2001,1,2002,FALSE
+"1087","Nauru",970,"Micronesia","Oceania","Rueben Kun",1,"Democracy",0,1996,1,1996,FALSE
+"1090","Nepal",790,"Southern Asia","Asia","Girija Prasad Koirala",1,"Democracy",0,1998,1,1998,FALSE
+"1091","Nepal",790,"Southern Asia","Asia","Girija Prasad Koirala",3,"Democracy",0,1991,1,1993,FALSE
+"1092","Nepal",790,"Southern Asia","Asia","Gyanendra Bir Bikram Shah Deva",6,"Non-democracy",1,2002,1,2007,FALSE
+"1093","Nepal",790,"Southern Asia","Asia","Krishna Prasad Bhattarai",1,"Democracy",0,1999,1,1999,FALSE
+"1095","Nepal",790,"Southern Asia","Asia","Man Mohan Adhikari",1,"Democracy",0,1994,1,1994,FALSE
+"1098","Nepal",790,"Southern Asia","Asia","Pushpa Kamal Dahal",1,"Democracy",1,2008,0,2008,FALSE
+"1099","Nepal",790,"Southern Asia","Asia","Sher Bahadur Deuba",1,"Democracy",0,2001,1,2001,FALSE
+"1100","Nepal",790,"Southern Asia","Asia","Sher Bahadur Deuba",2,"Democracy",0,1995,1,1996,FALSE
+"1101","Nepal",790,"Southern Asia","Asia","Surya Bahadur Thapa",1,"Democracy",0,1997,1,1997,FALSE
+"1106","Netherlands",210,"Western Europe","Europe","Jan Peter Balkenende",7,"Democracy",0,2002,0,2008,FALSE
+"1115","Netherlands",210,"Western Europe","Europe","Wim Kok",8,"Democracy",0,1994,1,2001,FALSE
+"1118","New Zealand",920,"Australia and New Zealand","Oceania","Helen Elizabeth Clark",9,"Democracy",0,1999,1,2007,FALSE
+"1119","New Zealand",920,"Australia and New Zealand","Oceania","Jenny Shipley",2,"Democracy",0,1997,1,1998,FALSE
+"1120","New Zealand",920,"Australia and New Zealand","Oceania","Jim Bolger",7,"Democracy",0,1990,1,1996,FALSE
+"1121","New Zealand",920,"Australia and New Zealand","Oceania","John Phillip Key",1,"Democracy",0,2008,0,2008,FALSE
+"1133","Nicaragua",93,"Central America","Americas","Enrique Bolanos Geyer",5,"Democracy",0,2002,1,2006,FALSE
+"1134","Nicaragua",93,"Central America","Americas","Josï¿½ Daniel Ortega Saavedra",2,"Democracy",0,2007,0,2008,FALSE
+"1135","Nicaragua",93,"Central America","Americas","Jose Arnoldo Aleman Lacayo",5,"Democracy",0,1997,1,2001,FALSE
+"1137","Nicaragua",93,"Central America","Americas","Violeta Barrios de Chamorro",7,"Democracy",0,1990,1,1996,FALSE
+"1138","Niger",436,"Western Africa","Africa","Abdoulaye Souley",1,"Democracy",0,1994,1,1994,FALSE
+"1140","Niger",436,"Western Africa","Africa","Dauoda Malam Wankï¿½",1,"Non-democracy",1,1999,1,1999,FALSE
+"1141","Niger",436,"Western Africa","Africa","Hama Amadou",1,"Democracy",0,1995,1,1995,FALSE
+"1142","Niger",436,"Western Africa","Africa","Hama Amadou",7,"Democracy",1,2000,1,2006,FALSE
+"1144","Niger",436,"Western Africa","Africa","Ibrahim Bare Mainassara",3,"Non-democracy",1,1996,0,1998,FALSE
+"1145","Niger",436,"Western Africa","Africa","Mahamadou Issoufou",1,"Democracy",0,1993,1,1993,FALSE
+"1147","Niger",436,"Western Africa","Africa","Seyni Oumarou",2,"Democracy",1,2007,0,2008,FALSE
+"1148","Nigeria",475,"Western Africa","Africa","Abdulsalami Abubakar",1,"Non-democracy",2,1998,1,1998,FALSE
+"1154","Nigeria",475,"Western Africa","Africa","Olusegun Obasanjo",8,"Democracy",2,1999,1,2006,FALSE
+"1155","Nigeria",475,"Western Africa","Africa","Sani Abacha",5,"Non-democracy",2,1993,0,1997,FALSE
+"1157","Nigeria",475,"Western Africa","Africa","Umaru Musa Yar'Adua",2,"Democracy",2,2007,0,2008,FALSE
+"1160","North Korea",731,"Eastern Asia","Asia","Kim Jong Il",15,"Non-democracy",0,1994,0,2008,FALSE
+"1165","Norway",385,"Northern Europe","Europe","Gro Harlem Brundtland",6,"Democracy",0,1990,1,1995,FALSE
+"1167","Norway",385,"Northern Europe","Europe","Jena Stoltenberg",1,"Democracy",0,2000,1,2000,FALSE
+"1168","Norway",385,"Northern Europe","Europe","Jens Stoltenberg",4,"Democracy",0,2005,0,2008,FALSE
+"1170","Norway",385,"Northern Europe","Europe","Kjell Magne Bondevik",3,"Democracy",0,1997,1,1999,FALSE
+"1171","Norway",385,"Northern Europe","Europe","Kjell Magne Bondevik",4,"Democracy",0,2001,1,2004,FALSE
+"1176","Norway",385,"Northern Europe","Europe","Thorbjorn Jagland",1,"Democracy",0,1996,1,1996,FALSE
+"1182","Pakistan",770,"Southern Asia","Asia","Benazir Bhutto",3,"Democracy",2,1993,1,1995,FALSE
+"1187","Pakistan",770,"Southern Asia","Asia","Miraj Khalid",1,"Democracy",2,1996,1,1996,FALSE
+"1191","Pakistan",770,"Southern Asia","Asia","Nawaz Sharif",2,"Democracy",2,1997,1,1998,FALSE
+"1192","Pakistan",770,"Southern Asia","Asia","Nawaz Sharif",3,"Democracy",2,1990,1,1992,FALSE
+"1193","Pakistan",770,"Southern Asia","Asia","Pervez Musharraf",9,"Non-democracy",3,1999,1,2007,FALSE
+"1194","Pakistan",770,"Southern Asia","Asia","Yousaf Raza Gilani",1,"Democracy",3,2008,0,2008,FALSE
+"1197","Palau",986,"Micronesia","Oceania","Kuniwo Nakamura",8,"Democracy",0,1993,1,2000,FALSE
+"1198","Palau",986,"Micronesia","Oceania","Tommy Esang Remengesau, Jr.",8,"Democracy",0,2001,0,2008,FALSE
+"1203","Panama",95,"Central America","Americas","Ernesto Perez Balladares",5,"Democracy",2,1994,1,1998,FALSE
+"1208","Panama",95,"Central America","Americas","Martï¿½n Erasto Torrijos Espino",5,"Democracy",2,2004,0,2008,FALSE
+"1211","Panama",95,"Central America","Americas","Mireya Elisa Moscoso de Arias",5,"Democracy",2,1999,1,2003,FALSE
+"1215","Papua New Guinea",910,"Melanesia","Oceania","Bill Skate",2,"Democracy",0,1997,1,1998,FALSE
+"1217","Papua New Guinea",910,"Melanesia","Oceania","Julius Chan",3,"Democracy",0,1994,1,1996,FALSE
+"1218","Papua New Guinea",910,"Melanesia","Oceania","Mekere Morauta",3,"Democracy",0,1999,1,2001,FALSE
+"1220","Papua New Guinea",910,"Melanesia","Oceania","Michael Somare",7,"Democracy",0,2002,0,2008,FALSE
+"1222","Papua New Guinea",910,"Melanesia","Oceania","Paias Wingti",2,"Democracy",0,1992,1,1993,FALSE
+"1225","Paraguay",150,"South America","Americas","ï¿½scar Nicanor Duarte Frutos",5,"Democracy",0,2003,1,2007,FALSE
+"1229","Paraguay",150,"South America","Americas","Fernando Armindo Lugo Mï¿½ndez",1,"Democracy",0,2008,0,2008,FALSE
+"1231","Paraguay",150,"South America","Americas","Juan Carlos Wasmosy",5,"Democracy",0,1993,1,1997,FALSE
+"1233","Paraguay",150,"South America","Americas","Luis Angel Gonzalez Macchi",4,"Democracy",0,1999,1,2002,FALSE
+"1234","Paraguay",150,"South America","Americas","Raul Cuba Grau",1,"Democracy",0,1998,1,1998,FALSE
+"1235","Peru",135,"South America","Americas","Alan Gabriel Ludwig Garcï¿½a Pï¿½rez",3,"Democracy",4,2006,0,2008,FALSE
+"1237","Peru",135,"South America","Americas","Alberto Fujimori",10,"Non-democracy",4,1990,1,1999,FALSE
+"1238","Peru",135,"South America","Americas","Alejandro Celestino Toledo Manrique",5,"Democracy",4,2001,1,2005,FALSE
+"1247","Peru",135,"South America","Americas","Valentin Paniagua Corazao",1,"Non-democracy",4,2000,1,2000,FALSE
+"1253","Philippines",840,"South-Eastern Asia","Asia","Fidel Ramos",6,"Democracy",1,1992,1,1997,FALSE
+"1254","Philippines",840,"South-Eastern Asia","Asia","Joseph Estrada",3,"Democracy",1,1998,1,2000,FALSE
+"1256","Philippines",840,"South-Eastern Asia","Asia","Maria Gloria Macapagal",8,"Democracy",1,2001,0,2008,FALSE
+"1259","Poland",290,"Eastern Europe","Europe","Donald Tusk",2,"Democracy",1,2007,0,2008,FALSE
+"1261","Poland",290,"Eastern Europe","Europe","Hana Suchocka",1,"Democracy",1,1992,1,1992,FALSE
+"1262","Poland",290,"Eastern Europe","Europe","Jan Olszewski",1,"Democracy",1,1991,1,1991,FALSE
+"1263","Poland",290,"Eastern Europe","Europe","Jaroslaw Kaczynski",1,"Democracy",1,2006,1,2006,FALSE
+"1264","Poland",290,"Eastern Europe","Europe","Jerzy Buzek",4,"Democracy",1,1997,1,2000,FALSE
+"1265","Poland",290,"Eastern Europe","Europe","Jozef Oleksy",1,"Democracy",1,1995,1,1995,FALSE
+"1266","Poland",290,"Eastern Europe","Europe","Kazimierz Marcinkiewicz",1,"Democracy",1,2005,1,2005,FALSE
+"1267","Poland",290,"Eastern Europe","Europe","Leszek Miller",3,"Democracy",1,2001,1,2003,FALSE
+"1268","Poland",290,"Eastern Europe","Europe","Marek Belka",1,"Democracy",1,2004,1,2004,FALSE
+"1271","Poland",290,"Eastern Europe","Europe","Waldemar Pawlak",2,"Democracy",1,1993,1,1994,FALSE
+"1274","Poland",290,"Eastern Europe","Europe","Wlodzimierz Cimoszewicz",1,"Democracy",1,1996,1,1996,FALSE
+"1278","Portugal",235,"Southern Europe","Europe","Antonio Guterres",7,"Democracy",1,1995,1,2001,FALSE
+"1283","Portugal",235,"Southern Europe","Europe","Josï¿½ Sï¿½crates (Carvalho Pinto de Sousa)",4,"Democracy",1,2005,0,2008,FALSE
+"1284","Portugal",235,"Southern Europe","Europe","Jose Manuel Durao Barroso",2,"Democracy",1,2002,1,2003,FALSE
+"1289","Portugal",235,"Southern Europe","Europe","Pedro (Miguel de) Santana Lopes",1,"Democracy",1,2004,1,2004,FALSE
+"1291","Qatar",694,"Western Asia","Asia","Sheikh Hamad ibn Khalifah Al Thani",14,"Non-democracy",0,1995,0,2008,FALSE
+"1293","Romania",360,"Eastern Europe","Europe","Adrian Nastase",4,"Democracy",0,2000,1,2003,FALSE
+"1294","Romania",360,"Eastern Europe","Europe","Calin Popescu-Tariceanu",4,"Democracy",0,2004,1,2007,FALSE
+"1295","Romania",360,"Eastern Europe","Europe","Emil Boc",1,"Democracy",0,2008,0,2008,FALSE
+"1299","Romania",360,"Eastern Europe","Europe","Mugur Isarescu",1,"Democracy",0,1999,1,1999,FALSE
+"1301","Romania",360,"Eastern Europe","Europe","Nicolae Vacaroiu",4,"Democracy",0,1992,1,1995,FALSE
+"1303","Romania",360,"Eastern Europe","Europe","Radu Vasile",1,"Democracy",0,1998,1,1998,FALSE
+"1304","Romania",360,"Eastern Europe","Europe","Theodor Stolojan",1,"Democracy",0,1991,1,1991,FALSE
+"1305","Romania",360,"Eastern Europe","Europe","Victor Ciorbea",2,"Democracy",0,1996,1,1997,FALSE
+"1306","Russian Federation",365,"Eastern Europe","Europe","Boris Yeltsin",8,"Non-democracy",0,1991,1,1998,FALSE
+"1307","Russian Federation",365,"Eastern Europe","Europe","Dmitry Anatolyevich Medvedev",1,"Non-democracy",0,2008,0,2008,FALSE
+"1308","Russian Federation",365,"Eastern Europe","Europe","Vladimir Vladimirovich Putin",9,"Non-democracy",0,1999,1,2007,FALSE
+"1311","Rwanda",517,"Eastern Africa","Africa","Paul Kagame",15,"Non-democracy",0,1994,0,2008,FALSE
+"1314","Samoa",990,"Polynesia","Oceania","Tuiatua Tupua Tamasese Efi",2,"Non-democracy",0,2007,0,2008,FALSE
+"1315","San Marino",331,"Southern Europe","Europe","Alberto Cecchetti + Gino Giovagnoli",1,"Democracy",0,2001,1,2001,FALSE
+"1316","San Marino",331,"Southern Europe","Europe","Antonio Carattoni + Roberto Giorgetti",1,"Democracy",0,2006,1,2006,FALSE
+"1317","San Marino",331,"Southern Europe","Europe","Claudio Muccioli + Antonello Bacciocchi",1,"Democracy",0,2005,1,2005,FALSE
+"1318","San Marino",331,"Southern Europe","Europe","Ernesto Benedettini + Assunta Meloni",1,"Democracy",0,2008,0,2008,FALSE
+"1319","San Marino",331,"Southern Europe","Europe","Gian Franco Terenzi + Enzo Colombini",1,"Democracy",0,2000,1,2000,FALSE
+"1320","San Marino",331,"Southern Europe","Europe","Gian Luigi Berti + Paride Andreoli",1,"Democracy",0,1993,1,1993,FALSE
+"1321","San Marino",331,"Southern Europe","Europe","Giovanni Lonfernini + Valeria Ciavatta",1,"Democracy",0,2003,1,2003,FALSE
+"1322","San Marino",331,"Southern Europe","Europe","Giuseppe Arzilli + Roberto Raschi",1,"Democracy",0,2004,1,2004,FALSE
+"1323","San Marino",331,"Southern Europe","Europe","Giuseppe Maria Morganti + Mauro Chiaruzzi",1,"Democracy",0,2002,1,2002,FALSE
+"1324","San Marino",331,"Southern Europe","Europe","Luigi Mazza + Marino Zanotti",1,"Democracy",0,1997,1,1997,FALSE
+"1325","San Marino",331,"Southern Europe","Europe","Marino Bollini + Giuseppe Arzilli",1,"Democracy",0,1999,1,1999,FALSE
+"1326","San Marino",331,"Southern Europe","Europe","Maurizio Rattini + Giancarlo Venturini",1,"Democracy",0,1996,1,1996,FALSE
+"1327","San Marino",331,"Southern Europe","Europe","Mirko Tomassoni + Alberto Selva",1,"Democracy",0,2007,1,2007,FALSE
+"1328","San Marino",331,"Southern Europe","Europe","Pier Natalino Mularoni + Marino Venturini",1,"Democracy",0,1995,1,1995,FALSE
+"1329","San Marino",331,"Southern Europe","Europe","Pietro Berti + Paolo Bollini",1,"Democracy",0,1998,1,1998,FALSE
+"1330","San Marino",331,"Southern Europe","Europe","Renzo Ghiotti + Luciano Ciavatta",1,"Democracy",0,1994,1,1994,FALSE
+"1331","San Marino",331,"Southern Europe","Europe","Romeo Morri + Marino Zanotti",1,"Democracy",0,1992,1,1992,FALSE
+"1332","Sao Tome and Principe",403,"Middle Africa","Africa","Armindo Vaz d'Almeida",1,"Democracy",0,1995,1,1995,FALSE
+"1333","Sao Tome and Principe",403,"Middle Africa","Africa","Carlos da Graca",1,"Democracy",0,1994,1,1994,FALSE
+"1334","Sao Tome and Principe",403,"Middle Africa","Africa","Damiï¿½o Vaz d'Almeida",1,"Democracy",0,2004,1,2004,FALSE
+"1335","Sao Tome and Principe",403,"Middle Africa","Africa","Daniel Lima dos Santos Daio",1,"Democracy",0,1991,1,1991,FALSE
+"1336","Sao Tome and Principe",403,"Middle Africa","Africa","Evaristo Carvalho",1,"Democracy",0,2001,1,2001,FALSE
+"1337","Sao Tome and Principe",403,"Middle Africa","Africa","Guilherme Posser da Costa",2,"Democracy",0,1999,1,2000,FALSE
+"1338","Sao Tome and Principe",403,"Middle Africa","Africa","Joaquim Rafael Branco",1,"Democracy",0,2008,0,2008,FALSE
+"1340","Sao Tome and Principe",403,"Middle Africa","Africa","Maria das Neves Ceita Baptista de Sousa",2,"Democracy",0,2002,1,2003,FALSE
+"1341","Sao Tome and Principe",403,"Middle Africa","Africa","Maria do Carmo Silveira",1,"Democracy",0,2005,1,2005,FALSE
+"1342","Sao Tome and Principe",403,"Middle Africa","Africa","Norberto Jose d'Alva Costa Alegre",2,"Democracy",0,1992,1,1993,FALSE
+"1343","Sao Tome and Principe",403,"Middle Africa","Africa","Raul Braganca Neto",3,"Democracy",0,1996,1,1998,FALSE
+"1344","Sao Tome and Principe",403,"Middle Africa","Africa","Tomï¿½ Vera Cruz",2,"Democracy",0,2006,1,2007,FALSE
+"1345","Saudi Arabia",670,"Western Asia","Asia","Abdallah",13,"Non-democracy",0,1996,0,2008,FALSE
+"1352","Senegal",433,"Western Africa","Africa","Hadjibou Soumarï¿½",2,"Democracy",0,2007,0,2008,FALSE
+"1353","Senegal",433,"Western Africa","Africa","Idrissa Seck",2,"Democracy",0,2002,1,2003,FALSE
+"1355","Senegal",433,"Western Africa","Africa","Macky Sall",3,"Democracy",0,2004,1,2006,FALSE
+"1356","Senegal",433,"Western Africa","Africa","Mame Madior Boye",1,"Democracy",0,2001,1,2001,FALSE
+"1357","Senegal",433,"Western Africa","Africa","Moustapha Niasse",1,"Democracy",0,2000,1,2000,FALSE
+"1358","Serbia",NA,"Southern Europe","Europe","Mirko Cvetkovic",1,"Democracy",0,2008,0,2008,FALSE
+"1359","Serbia",NA,"Southern Europe","Europe","Vojislav Kostunica",2,"Democracy",0,2004,1,2005,FALSE
+"1360","Serbia and Montenegro",345,"Southern Europe","Europe","Milomir Minic",1,"Democracy",0,2000,1,2000,FALSE
+"1362","Serbia and Montenegro",345,"Southern Europe","Europe","Vojislav Kostunica",2,"Democracy",0,2004,0,2005,FALSE
+"1363","Serbia and Montenegro",345,"Southern Europe","Europe","Zoran Djindjic",2,"Democracy",0,2001,0,2002,FALSE
+"1364","Serbia and Montenegro",345,"Southern Europe","Europe","Zoran Zivkovic",1,"Democracy",0,2003,1,2003,FALSE
+"1366","Seychelles",591,"Eastern Africa","Africa","James Alix Michel",5,"Non-democracy",0,2004,0,2008,FALSE
+"1368","Sierra Leone",451,"Western Africa","Africa","Ahmad Tejan Kabbah",1,"Democracy",1,1996,1,1996,FALSE
+"1369","Sierra Leone",451,"Western Africa","Africa","Ahmad Tejan Kabbah",9,"Democracy",2,1998,1,2006,FALSE
+"1372","Sierra Leone",451,"Western Africa","Africa","Ernest Bai Koroma",2,"Democracy",2,2007,0,2008,FALSE
+"1373","Sierra Leone",451,"Western Africa","Africa","Johnny Paul Koroma",1,"Non-democracy",2,1997,1,1997,FALSE
+"1377","Sierra Leone",451,"Western Africa","Africa","Valentine Strasser",4,"Non-democracy",1,1992,1,1995,FALSE
+"1378","Singapore",830,"South-Eastern Asia","Asia","Goh Chok Tong",14,"Non-democracy",0,1990,1,2003,FALSE
+"1379","Singapore",830,"South-Eastern Asia","Asia","Lee Hsien Loong",5,"Non-democracy",0,2004,0,2008,FALSE
+"1381","Slovakia",317,"Eastern Europe","Europe","Milkulis Dzurinda",8,"Democracy",1,1998,1,2005,FALSE
+"1382","Slovakia",317,"Eastern Europe","Europe","Robert Fico",3,"Democracy",1,2006,0,2008,FALSE
+"1383","Slovakia",317,"Eastern Europe","Europe","Vladimir Meciar",2,"Democracy",1,1992,1,1993,FALSE
+"1384","Slovakia",317,"Eastern Europe","Europe","Vladimir Meciar",4,"Democracy",1,1994,1,1997,FALSE
+"1385","Slovenia",349,"Southern Europe","Europe","Anton Rop",2,"Democracy",0,2002,1,2003,FALSE
+"1386","Slovenia",349,"Southern Europe","Europe","Borut Pahor",1,"Democracy",0,2008,0,2008,FALSE
+"1387","Slovenia",349,"Southern Europe","Europe","Janez Drnovsek",2,"Democracy",0,2000,1,2001,FALSE
+"1388","Slovenia",349,"Southern Europe","Europe","Janez Drnovsek",8,"Democracy",0,1992,1,1999,FALSE
+"1389","Slovenia",349,"Southern Europe","Europe","Janez Jansa",4,"Democracy",0,2004,1,2007,FALSE
+"1390","Slovenia",349,"Southern Europe","Europe","Lojze Peterle",2,"Democracy",0,1990,1,1991,FALSE
+"1391","Solomon Islands",940,"Melanesia","Oceania","Allan Kemakeza",5,"Democracy",0,2001,1,2005,FALSE
+"1392","Solomon Islands",940,"Melanesia","Oceania","Bartholomew Ulufa'alu",3,"Democracy",0,1997,1,1999,FALSE
+"1393","Solomon Islands",940,"Melanesia","Oceania","Derek Sikua",2,"Democracy",0,2007,0,2008,FALSE
+"1395","Solomon Islands",940,"Melanesia","Oceania","Francis Billy Hilly",4,"Democracy",0,1993,1,1996,FALSE
+"1396","Solomon Islands",940,"Melanesia","Oceania","Manasseh Damukana Sogavare",1,"Democracy",0,2006,1,2006,FALSE
+"1397","Solomon Islands",940,"Melanesia","Oceania","Mannasseh Sogavare",1,"Democracy",0,2000,1,2000,FALSE
+"1402","Somalia",520,"Eastern Africa","Africa","Abdiqassim Salad Hassan",4,"Non-democracy",1,2000,1,2003,FALSE
+"1405","Somalia",520,"Eastern Africa","Africa","Abdullahi Yussuf Ahmad",3,"Non-democracy",1,2004,1,2006,FALSE
+"1406","Somalia",520,"Eastern Africa","Africa","Aden Muhammad Nur Madobe",2,"Non-democracy",1,2008,0,2009,FALSE
+"1407","Somalia",520,"Eastern Africa","Africa","Ali Mahdi Muhammad",6,"Non-democracy",1,1991,1,1996,FALSE
+"1408","Somalia",520,"Eastern Africa","Africa","Five person collective chairmanship of National Salvation Council including previous president, Ali Mahdi Muhammad, Osman Hassan Ali Ato, Abdulkadir Muhammad Aden Zoppo, Abdullahi Yussuf Ahmad, and Aden Abdullahi Nur Gabiyow",3,"Non-democracy",1,1997,1,1999,FALSE
+"1417","South Africa",560,"Southern Africa","Africa","Kgalema Petrus Motlanthe",1,"Non-democracy",0,2008,0,2008,FALSE
+"1418","South Africa",560,"Southern Africa","Africa","Nelson Mandela",5,"Non-democracy",0,1994,1,1998,FALSE
+"1420","South Africa",560,"Southern Africa","Africa","Thabo Mbeki",9,"Non-democracy",0,1999,1,2007,FALSE
+"1423","South Korea",732,"Eastern Asia","Asia","Kim Dae Jung",5,"Democracy",1,1998,1,2002,FALSE
+"1424","South Korea",732,"Eastern Asia","Asia","Kim Young Sam",5,"Democracy",1,1993,1,1997,FALSE
+"1425","South Korea",732,"Eastern Asia","Asia","Lee Myung Bak",1,"Democracy",1,2008,1,2008,FALSE
+"1427","South Korea",732,"Eastern Asia","Asia","Roh Moo Hyun",1,"Democracy",1,2003,1,2003,FALSE
+"1428","South Korea",732,"Eastern Asia","Asia","Roh Moo Hyun",4,"Democracy",1,2004,1,2007,FALSE
+"1436","Spain",230,"Southern Europe","Europe","Josï¿½ Luis Rodrï¿½guez Zapatero",5,"Democracy",1,2004,0,2008,FALSE
+"1437","Spain",230,"Southern Europe","Europe","Jose Maria Aznar",8,"Democracy",1,1996,1,2003,FALSE
+"1445","Sri Lanka",780,"Southern Asia","Asia","Mahinda Rajapakse",1,"Democracy",1,2004,1,2004,FALSE
+"1446","Sri Lanka",780,"Southern Asia","Asia","Ranil Wickremasinghe",1,"Democracy",1,1993,1,1993,FALSE
+"1447","Sri Lanka",780,"Southern Asia","Asia","Ranil Wickremasinghe",3,"Democracy",1,2001,1,2003,FALSE
+"1448","Sri Lanka",780,"Southern Asia","Asia","Ratnasiri Wickremanayake",1,"Democracy",1,2000,1,2000,FALSE
+"1449","Sri Lanka",780,"Southern Asia","Asia","Ratnasiri Wickremanayake",4,"Democracy",1,2005,0,2008,FALSE
+"1452","Sri Lanka",780,"Southern Asia","Asia","Sirimavo Bandaranaike",6,"Democracy",1,1994,0,1999,FALSE
+"1455","St. Kitts and Nevis",60,"Caribbean","Americas","Denzil Douglas",14,"Democracy",0,1995,0,2008,FALSE
+"1458","St. Lucia",56,"Caribbean","Americas","John Compton",1,"Democracy",0,2006,1,2006,FALSE
+"1460","St. Lucia",56,"Caribbean","Americas","Kenny Anthony",9,"Democracy",0,1997,1,2005,FALSE
+"1461","St. Lucia",56,"Caribbean","Americas","Stephenson King",2,"Democracy",0,2007,0,2008,FALSE
+"1462","St. Lucia",56,"Caribbean","Americas","Vaughan Allen Lewis",1,"Democracy",0,1996,1,1996,FALSE
+"1464","St. Vincent and the Grenadines",57,"Caribbean","Americas","Arnhim Eustace",1,"Democracy",0,2000,1,2000,FALSE
+"1467","St. Vincent and the Grenadines",57,"Caribbean","Americas","Ralph Gonsalves",8,"Democracy",0,2001,0,2008,FALSE
+"1478","Suriname",115,"South America","Americas","Desi Bouterse",1,"Non-democracy",2,1990,1,1990,FALSE
+"1481","Suriname",115,"South America","Americas","Jules Albert Wijdenbosch",4,"Democracy",2,1996,1,1999,FALSE
+"1483","Suriname",115,"South America","Americas","Ronald Venetiaan",5,"Democracy",2,1991,1,1995,FALSE
+"1484","Suriname",115,"South America","Americas","Ronald Venetiaan",9,"Democracy",2,2000,0,2008,FALSE
+"1489","Sweden",380,"Northern Europe","Europe","Carl Bildt",3,"Democracy",0,1991,1,1993,FALSE
+"1490","Sweden",380,"Northern Europe","Europe","Goran Persson",10,"Democracy",0,1996,1,2005,FALSE
+"1491","Sweden",380,"Northern Europe","Europe","Ingvar Carlsson",2,"Democracy",0,1994,1,1995,FALSE
+"1493","Sweden",380,"Northern Europe","Europe","John Fredrik Reinfeldt",3,"Democracy",0,2006,0,2008,FALSE
+"1501","Switzerland",225,"Western Europe","Europe","Adolf Ogi",1,"Democracy",0,1993,1,1993,FALSE
+"1503","Switzerland",225,"Western Europe","Europe","Arnold Koller",1,"Democracy",0,1990,1,1990,FALSE
+"1507","Switzerland",225,"Western Europe","Europe","Flavio Cotti",1,"Democracy",0,1991,1,1991,FALSE
+"1516","Switzerland",225,"Western Europe","Europe","Joseph Deiss",1,"Democracy",0,2004,1,2004,FALSE
+"1518","Switzerland",225,"Western Europe","Europe","Kaspar Villiger",1,"Democracy",0,1995,1,1995,FALSE
+"1524","Switzerland",225,"Western Europe","Europe","Micheline Calmy-Rey",1,"Democracy",0,2007,1,2007,FALSE
+"1525","Switzerland",225,"Western Europe","Europe","Moritz Leuenberger",1,"Democracy",0,2001,1,2001,FALSE
+"1528","Switzerland",225,"Western Europe","Europe","Pascal Couchepin",1,"Democracy",0,2003,0,2003,FALSE
+"1533","Switzerland",225,"Western Europe","Europe","Rene Felber",1,"Democracy",0,1992,1,1992,FALSE
+"1537","Switzerland",225,"Western Europe","Europe","Ruth Dreifuss",1,"Democracy",0,1999,1,1999,FALSE
+"1538","Switzerland",225,"Western Europe","Europe","Samuel Schmid",1,"Democracy",0,2005,1,2005,FALSE
+"1544","Syria",652,"Western Asia","Asia","Bashar al-Assad",9,"Non-democracy",0,2000,0,2008,FALSE
+"1550","Taiwan",713,"Eastern Asia","Asia","Chang Chun-hsiung",1,"Democracy",0,2007,1,2007,FALSE
+"1551","Taiwan",713,"Eastern Asia","Asia","Chang Chun-hsiung",2,"Democracy",0,2000,1,2001,FALSE
+"1554","Taiwan",713,"Eastern Asia","Asia","Frank Hsieh",1,"Democracy",0,2005,1,2005,FALSE
+"1556","Taiwan",713,"Eastern Asia","Asia","Lien Chan",1,"Democracy",0,1993,1,1993,FALSE
+"1557","Taiwan",713,"Eastern Asia","Asia","Liu Chao-shiuan",1,"Democracy",0,2008,0,2008,FALSE
+"1558","Taiwan",713,"Eastern Asia","Asia","Su Tseng-chang",1,"Democracy",0,2006,1,2006,FALSE
+"1559","Taiwan",713,"Eastern Asia","Asia","Vincent Siew",3,"Democracy",0,1997,1,1999,FALSE
+"1561","Taiwan",713,"Eastern Asia","Asia","Yu Shyi-kun",3,"Democracy",0,2002,1,2004,FALSE
+"1562","Tajikistan",702,"Central Asia","Asia","Imomali Rakhmonov",17,"Non-democracy",0,1992,0,2008,FALSE
+"1563","Tajikistan",702,"Central Asia","Asia","Rakhmon Nabiyev",1,"Non-democracy",0,1991,1,1991,FALSE
+"1565","Tanzania",510,"Eastern Africa","Africa","Benjamin Mkapa",10,"Non-democracy",0,1995,1,2004,FALSE
+"1566","Tanzania",510,"Eastern Africa","Africa","Jakaya Mrisho Kikwete",4,"Non-democracy",0,2005,0,2008,FALSE
+"1568","Thailand",800,"South-Eastern Asia","Asia","Abhisit Vejjajiva",1,"Democracy",3,2008,0,2008,FALSE
+"1569","Thailand",800,"South-Eastern Asia","Asia","Banharn Silapa-archa",1,"Democracy",2,1995,1,1995,FALSE
+"1570","Thailand",800,"South-Eastern Asia","Asia","Chaovalit Yongchaiyudh",1,"Democracy",2,1996,1,1996,FALSE
+"1572","Thailand",800,"South-Eastern Asia","Asia","Chuan Leekpai",3,"Democracy",2,1992,1,1994,FALSE
+"1573","Thailand",800,"South-Eastern Asia","Asia","Chuan Leekpai",4,"Democracy",2,1997,1,2000,FALSE
+"1582","Thailand",800,"South-Eastern Asia","Asia","Prem Tinsulanond",5,"Democracy",1,Inf,1,Inf,FALSE
+"1585","Thailand",800,"South-Eastern Asia","Asia","Surayud Chulanont",2,"Non-democracy",3,2006,1,2007,FALSE
+"1586","Thailand",800,"South-Eastern Asia","Asia","Thaksin Shinawatra",5,"Democracy",2,2001,1,2005,FALSE
+"1590","Togo",461,"Western Africa","Africa","Faure Gnassingbï¿½",4,"Non-democracy",0,2005,0,2008,FALSE
+"1593","Tonga",955,"Polynesia","Oceania","George Tupou V",3,"Non-democracy",0,2006,0,2008,FALSE
+"1596","Trinidad and Tobago",52,"Caribbean","Americas","Basdeo Panday",6,"Democracy",0,1995,1,2000,FALSE
+"1599","Trinidad and Tobago",52,"Caribbean","Americas","Patrick Manning",4,"Democracy",0,1991,1,1994,FALSE
+"1600","Trinidad and Tobago",52,"Caribbean","Americas","Patrick Manning",8,"Democracy",0,2001,0,2008,FALSE
+"1603","Turkey",640,"Western Asia","Asia","Abdullah Gul",1,"Democracy",1,2002,1,2002,FALSE
+"1611","Turkey",640,"Western Asia","Asia","Mesut Yilmaz",2,"Democracy",1,1997,1,1998,FALSE
+"1612","Turkey",640,"Western Asia","Asia","Mustafa Bulent Ecevit",3,"Democracy",1,1999,1,2001,FALSE
+"1614","Turkey",640,"Western Asia","Asia","Necmettin Erbakan",1,"Democracy",1,1996,1,1996,FALSE
+"1616","Turkey",640,"Western Asia","Asia","Recep Tayyip Erdogan",6,"Democracy",1,2003,0,2008,FALSE
+"1622","Turkey",640,"Western Asia","Asia","Tansu Ciller",3,"Democracy",1,1993,1,1995,FALSE
+"1625","Turkmenistan",701,"Central Asia","Asia","Gurbanguly M. Berdymukhammedov",3,"Non-democracy",0,2006,0,2008,FALSE
+"1626","Turkmenistan",701,"Central Asia","Asia","Saparmurad Niyazov",16,"Non-democracy",0,1990,0,2005,FALSE
+"1627","Tuvalu",947,"Polynesia","Oceania","Apisai Ielemia",3,"Democracy",0,2006,0,2008,FALSE
+"1628","Tuvalu",947,"Polynesia","Oceania","Koloa Talake",1,"Democracy",0,2001,1,2001,FALSE
+"1629","Tuvalu",947,"Polynesia","Oceania","Lgitupu Tuilimu",1,"Democracy",0,2000,1,2000,FALSE
+"1630","Tuvalu",947,"Polynesia","Oceania","Maatia Toafa",2,"Democracy",0,Inf,1,Inf,FALSE
+"1631","Tuvalu",947,"Polynesia","Oceania","Saufatu Sopoanga",2,"Democracy",0,2002,1,2003,FALSE
+"1632","Tuvalu",NA,"Polynesia","Oceania","Bikenibeu Paeniu",3,"Democracy",0,1996,1,1998,FALSE
+"1634","Tuvalu",NA,"Polynesia","Oceania","Ionatana Ionatana",1,"Democracy",0,1999,1,1999,FALSE
+"1635","Tuvalu",NA,"Polynesia","Oceania","Kamuta Latasi",3,"Democracy",0,1993,1,1995,FALSE
+"1652","Ukraine",369,"Eastern Europe","Europe","Anatoliy Kyrylovych Kinakh",1,"Democracy",0,2001,1,2001,FALSE
+"1653","Ukraine",369,"Eastern Europe","Europe","Leonid Danylovych Kuchma",1,"Democracy",0,1992,1,1992,FALSE
+"1654","Ukraine",369,"Eastern Europe","Europe","Pavlo Ivanovych Lazarenko",1,"Democracy",0,1996,1,1996,FALSE
+"1655","Ukraine",369,"Eastern Europe","Europe","Valeriy Pavlovych Pustovoytenko",2,"Democracy",0,1997,1,1998,FALSE
+"1656","Ukraine",369,"Eastern Europe","Europe","Viktor Andriyovych Yushchenko",2,"Democracy",0,1999,1,2000,FALSE
+"1657","Ukraine",369,"Eastern Europe","Europe","Viktor Fedorovych Yanukovych",1,"Democracy",0,2006,1,2006,FALSE
+"1658","Ukraine",369,"Eastern Europe","Europe","Viktor Fedorovych Yanukovych",3,"Democracy",0,2002,1,2004,FALSE
+"1659","Ukraine",369,"Eastern Europe","Europe","Vitaliy Anriyovych Masol",1,"Democracy",0,1994,1,1994,FALSE
+"1660","Ukraine",369,"Eastern Europe","Europe","Vitold Pavlovych Fokin",1,"Democracy",0,1990,1,1990,FALSE
+"1661","Ukraine",369,"Eastern Europe","Europe","Yevhen Kyrylovych Marchuk",1,"Democracy",0,1995,1,1995,FALSE
+"1662","Ukraine",369,"Eastern Europe","Europe","Yukhym Leonidovych Zvyahilskiy",1,"Democracy",0,1993,1,1993,FALSE
+"1663","Ukraine",369,"Eastern Europe","Europe","Yuliya Volodymyrivna Tymoshenko",2,"Democracy",0,2007,0,2008,FALSE
+"1664","Ukraine",369,"Eastern Europe","Europe","Yuriy Ivanovych Yekhanurov",1,"Democracy",0,2005,1,2005,FALSE
+"1665","United Arab Emirates",696,"Western Asia","Asia","Sheikh Khalifa ibn Zayid Al Nuhayyan",5,"Non-democracy",0,2004,0,2008,FALSE
+"1671","United Kingdom",200,"Northern Europe","Europe","Gordon Brown",2,"Democracy",0,2007,0,2008,FALSE
+"1676","United Kingdom",200,"Northern Europe","Europe","John Major",7,"Democracy",0,1990,1,1996,FALSE
+"1678","United Kingdom",200,"Northern Europe","Europe","Tony Blair",10,"Democracy",0,1997,1,2006,FALSE
+"1680","United States of America",2,"Northern America","Americas","Bill Clinton",8,"Democracy",0,1993,1,2000,FALSE
+"1683","United States of America",2,"Northern America","Americas","George W. Bush",8,"Democracy",0,2001,0,2008,FALSE
+"1701","Uruguay",165,"South America","Americas","Jorge Luis Batlle Ibanez",5,"Democracy",1,2000,1,2004,FALSE
+"1706","Uruguay",165,"South America","Americas","Luis Alberto Lacalle",5,"Democracy",1,1990,1,1994,FALSE
+"1712","Uruguay",165,"South America","Americas","Tabarï¿½ Ramï¿½n Vï¿½zquez Rosas",4,"Democracy",1,2005,0,2008,FALSE
+"1714","Uzbekistan",704,"Central Asia","Asia","Islam Karimov",19,"Non-democracy",0,1990,0,2008,FALSE
+"1715","Vanuatu",935,"Melanesia","Oceania","Barak Sope",2,"Democracy",0,1999,1,2000,FALSE
+"1716","Vanuatu",935,"Melanesia","Oceania","Donald Kalpokas",1,"Democracy",0,1998,1,1998,FALSE
+"1717","Vanuatu",935,"Melanesia","Oceania","Edward Natapei",1,"Democracy",0,2008,0,2008,FALSE
+"1718","Vanuatu",935,"Melanesia","Oceania","Edward Natapei",3,"Democracy",0,2001,1,2003,FALSE
+"1719","Vanuatu",935,"Melanesia","Oceania","Ham Lini",4,"Democracy",0,2004,1,2007,FALSE
+"1720","Vanuatu",935,"Melanesia","Oceania","Maxime Carlot Korman",4,"Democracy",0,1991,1,1994,FALSE
+"1721","Vanuatu",935,"Melanesia","Oceania","Serge Vohor",1,"Democracy",0,1995,1,1995,FALSE
+"1722","Vanuatu",935,"Melanesia","Oceania","Serge Vohor",2,"Democracy",0,1996,1,1997,FALSE
+"1727","Venezuela",101,"South America","Americas","Hugo Chavez",3,"Democracy",1,1999,1,2001,FALSE
+"1728","Venezuela",101,"South America","Americas","Hugo Chavez",7,"Democracy",1,2002,0,2008,FALSE
+"1734","Venezuela",101,"South America","Americas","Ramon Jose Velasquez",1,"Democracy",1,1993,1,1993,FALSE
+"1738","Viet Nam",816,"South-Eastern Asia","Asia","Do Muoi",6,"Non-democracy",0,1991,1,1996,FALSE
+"1740","Viet Nam",816,"South-Eastern Asia","Asia","Le Kha Phieu",4,"Non-democracy",0,1997,1,2000,FALSE
+"1742","Viet Nam",816,"South-Eastern Asia","Asia","Nong Duc Manh",8,"Non-democracy",0,2001,0,2008,FALSE
+"1757","Yugoslavia",345,"Southern Europe","Europe","Borisav Jovic",1,"Non-democracy",1,1990,0,1990,FALSE
+"1762","Yugoslavia",345,"Southern Europe","Europe","Lazar Mojsov",1,"Non-democracy",1,Inf,1,Inf,FALSE
+"1768","Zambia",551,"Eastern Africa","Africa","Frederick Chiluba",11,"Non-democracy",0,1991,1,2001,FALSE
+"1770","Zambia",551,"Eastern Africa","Africa","Levy Patrick Mwanawasa",6,"Non-democracy",0,2002,1,2007,FALSE
+"1771","Zambia",551,"Eastern Africa","Africa","Rupiah Bwezani Banda",1,"Non-democracy",0,2008,0,2008,FALSE
+"6","Afghanistan",700,"Southern Asia","Asia","Mohammed Najibullah",3,"Non-democracy",0,1989,1,1992,FALSE
+"17","Albania",339,"Southern Europe","Europe","Ramiz Alia",2,"Democracy",0,1989,1,1991,FALSE
+"18","Albania",339,"Southern Europe","Europe","Ramiz Alia",2,"Non-democracy",0,1989,1,1991,FALSE
+"22","Algeria",615,"Northern Africa","Africa","Benjedid Chadli",2,"Non-democracy",0,1989,1,1991,FALSE
+"31","Angola",540,"Middle Africa","Africa","Jose Eduardo dos Santos",19,"Non-democracy",0,1989,0,2008,FALSE
+"34","Antigua & Barbuda",58,"Caribbean","Americas","Vere Cornwall Bird",4,"Democracy",0,1989,1,1993,FALSE
+"73","Australia",900,"Australia and New Zealand","Oceania","Robert Hawke",1,"Democracy",0,1989,1,1990,FALSE
+"80","Austria",305,"Western Europe","Europe","Franz Vranitzky",7,"Democracy",1,1989,1,1996,FALSE
+"92","Bahamas",31,"Caribbean","Americas","Lynden Pindling",2,"Democracy",0,1989,1,1991,FALSE
+"94","Bahrain",692,"Western Asia","Asia","Sheikh 'Isa ibn Sulman Al Khalifah",9,"Non-democracy",0,1989,0,1998,FALSE
+"112","Barbados",53,"Caribbean","Americas","Erskine Sandiford",4,"Democracy",0,1989,1,1993,FALSE
+"135","Belgium",211,"Western Europe","Europe","Wilfried Martens",2,"Democracy",0,1989,1,1991,FALSE
+"146","Benin",434,"Western Africa","Africa","Mathieu Kerekou",1,"Non-democracy",0,1989,1,1990,FALSE
+"151","Bhutan",760,"Southern Asia","Asia","Jigme Singye Wangchuk",17,"Non-democracy",0,1989,1,2006,FALSE
+"192","Botswana",571,"Southern Africa","Africa","Quett Masire",8,"Non-democracy",0,1989,1,1997,FALSE
+"213","Brunei Darussalam",835,"South-Eastern Asia","Asia","Hassanal Bolkiah",19,"Non-democracy",0,1989,0,2008,FALSE
+"227","Burkina Faso",439,"Western Africa","Africa","Blaise Compaor",19,"Non-democracy",0,1989,0,2008,FALSE
+"237","Burundi",516,"Eastern Africa","Africa","Pierre Buyoya",3,"Non-democracy",0,1989,1,1992,FALSE
+"242","Cambodia",811,"South-Eastern Asia","Asia","Heng Samrin",3,"Non-democracy",0,1989,1,1992,FALSE
+"243","Cambodia",811,"South-Eastern Asia","Asia","Heng Samrin",3,"Non-democracy",0,1989,1,1992,FALSE
+"253","Cameroon",471,"Middle Africa","Africa","Paul Biya",19,"Non-democracy",0,1989,0,2008,FALSE
+"254","Canada",20,"Northern America","Americas","Brian Mulroney",3,"Democracy",0,1989,1,1992,FALSE
+"266","Cape Verde",402,"Western Africa","Africa","Aristides Pereira",1,"Democracy",0,1989,1,1990,FALSE
+"267","Cape Verde",402,"Western Africa","Africa","Aristides Pereira",1,"Non-democracy",0,1989,1,1990,FALSE
+"270","Central African Republic",482,"Middle Africa","Africa","Andre Kolingba",3,"Non-democracy",0,1989,1,1992,FALSE
+"297","China",710,"Eastern Asia","Asia","Deng Xiaoping",7,"Non-democracy",0,1989,0,1996,FALSE
+"339","Congo (Brazzaville, Republic of Congo)",484,"Middle Africa","Africa","Denis Sassou-Nguesso",2,"Non-democracy",1,1989,1,1991,FALSE
+"361","Cote d'Ivoire",437,"Western Africa","Africa","Felix Houphouet-Boigny",3,"Non-democracy",0,1989,0,1992,FALSE
+"371","Cuba",40,"Caribbean","Americas","Fidel Castro Ruz",22,"Non-democracy",1,1989,1,2011,FALSE
+"378","Cyprus",352,"Western Asia","Asia","George Vassiliou",3,"Democracy",0,1989,1,1992,FALSE
+"401","Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",490,"Middle Africa","Africa","Mobutu Sese Seko",7,"Non-democracy",0,1989,1,1996,FALSE
+"415","Denmark",390,"Northern Europe","Europe","Poul Schluter",3,"Democracy",0,1989,1,1992,FALSE
+"417","Djibouti",522,"Eastern Africa","Africa","Hassan Gouled Aptidon",9,"Non-democracy",0,1989,1,1998,FALSE
+"420","Dominica",54,"Caribbean","Americas","Eugenia Charles",5,"Democracy",0,1989,1,1994,FALSE
+"428","Dominican Republic",42,"Caribbean","Americas","Joaquin Balaguer",6,"Democracy",0,1989,1,1995,FALSE
+"463","Ecuador",130,"South America","Americas","Rodrigo Borja Cevallos",2,"Democracy",2,1989,1,1991,FALSE
+"468","Egypt",651,"Northern Africa","Africa","Hosni Mubarak",19,"Non-democracy",0,1989,0,2008,FALSE
+"490","Equatorial Guinea",411,"Middle Africa","Africa","Teodoro Obiang Nguema Mbasogo",19,"Non-democracy",0,1989,0,2008,FALSE
+"504","Ethiopia",530,"Eastern Africa","Africa","Mengistu Haile Mariam",1,"Non-democracy",0,1989,1,1990,FALSE
+"515","Finland",375,"Northern Europe","Europe","Harri Holkeri",1,"Democracy",0,1989,1,1990,FALSE
+"559","France",220,"Western Europe","Europe","Michel Rocard",1,"Democracy",0,1989,1,1990,FALSE
+"567","Gabon",481,"Middle Africa","Africa","Albert-Bernard Bongo",19,"Non-democracy",0,1989,0,2008,FALSE
+"570","Gambia",420,"Western Africa","Africa","Dauda Jawara",4,"Non-democracy",0,1989,1,1993,FALSE
+"596","Ghana",452,"Western Africa","Africa","Jerry Rawlings",3,"Non-democracy",2,1989,1,1992,FALSE
+"641","Guatemala",90,"Central America","Americas","Marco Vinicio Cerezo Arevalo",1,"Democracy",3,1989,1,1990,FALSE
+"647","Guinea",438,"Western Africa","Africa","Lansana Conte",18,"Non-democracy",0,1989,0,2007,FALSE
+"654","Guinea-Bissau",404,"Western Africa","Africa","Joao Vieira",9,"Non-democracy",0,1989,1,1998,FALSE
+"661","Guyana",110,"South America","Americas","Desmond Hoyte",2,"Non-democracy",0,1989,1,1991,FALSE
+"723","Iceland",395,"Northern Europe","Europe","Steingrimur Hermannsson",1,"Democracy",0,1989,1,1990,FALSE
+"744","Indonesia",850,"South-Eastern Asia","Asia","Suharto",8,"Non-democracy",0,1989,1,1997,FALSE
+"757","Iraq",645,"Western Asia","Asia","Saddam Hussein",13,"Non-democracy",0,1989,1,2002,FALSE
+"762","Ireland",205,"Northern Europe","Europe","Charles Haughey",2,"Democracy",0,1989,1,1991,FALSE
+"788","Israel",666,"Western Asia","Asia","Yitzhak Shamir",2,"Democracy",0,1989,1,1991,FALSE
+"854","Jordan",663,"Western Asia","Asia","Hussein bin Talal",9,"Non-democracy",0,1989,0,1998,FALSE
+"858","Kenya",501,"Eastern Africa","Africa","Daniel Arap Moi",8,"Non-democracy",0,1989,1,1997,FALSE
+"863","Kiribati",946,"Micronesia","Oceania","Ieremia Tabai",1,"Democracy",0,1989,1,1990,FALSE
+"868","Kuwait",690,"Western Asia","Asia","Sheikh Jabir Al Ahmad Al Jabir Al Sabah",16,"Non-democracy",0,1989,1,2005,FALSE
+"876","Laos",812,"South-Eastern Asia","Asia","Kaysone Phomvihan",2,"Non-democracy",1,1989,0,1991,FALSE
+"918","Lesotho",570,"Southern Africa","Africa","Justin Metsino Lekhanya",1,"Non-democracy",0,1989,1,1990,FALSE
+"935","Libyan Arab Jamahiriya",620,"Northern Africa","Africa","Muammar al-Qaddafi",19,"Non-democracy",0,1989,0,2008,FALSE
+"939","Liechtenstein",223,"Western Europe","Europe","Hans Brunhart",3,"Democracy",0,1989,1,1992,FALSE
+"952","Luxembourg",212,"Western Europe","Europe","Jacques Santer",5,"Democracy",0,1989,1,1994,FALSE
+"966","Madagascar",580,"Eastern Africa","Africa","Didier Ratsiraka",3,"Non-democracy",0,1989,1,1992,FALSE
+"977","Malawi",553,"Eastern Africa","Africa","H. Kamuzu Banda",4,"Non-democracy",0,1989,1,1993,FALSE
+"980","Malaysia",820,"South-Eastern Asia","Asia","Mahathir bin Mohamed",13,"Non-democracy",0,1989,1,2002,FALSE
+"985","Maldives",781,"Southern Asia","Asia","Maumoon Abdul Gayoom",18,"Non-democracy",0,1989,1,2007,FALSE
+"995","Mali",432,"Western Africa","Africa","Moussa Traore",1,"Non-democracy",0,1989,1,1990,FALSE
+"1002","Malta",338,"Southern Europe","Europe","Eddie Fenech Adami",6,"Democracy",0,1989,1,1995,FALSE
+"1005","Marshall Islands",983,"Micronesia","Oceania","Amata Kabua",6,"Democracy",0,1989,0,1995,FALSE
+"1012","Mauritania",435,"Western Africa","Africa","Moaouya Ould Sidi Ahmed Taya",15,"Non-democracy",0,1989,1,2004,FALSE
+"1019","Mauritius",590,"Eastern Africa","Africa","Anerood Jugnauth",5,"Democracy",0,1989,1,1994,FALSE
+"1026","Mexico",70,"Central America","Americas","Carlos Salinas de Gortari",4,"Non-democracy",0,1989,1,1993,FALSE
+"1060","Morocco",600,"Northern Africa","Africa","Hassan II",9,"Non-democracy",0,1989,0,1998,FALSE
+"1064","Mozambique",541,"Eastern Africa","Africa","Joaquim Chissano",15,"Non-democracy",0,1989,1,2004,FALSE
+"1066","Myanmar",775,"South-Eastern Asia","Asia","Khin Nyunt",2,"Non-democracy",2,1989,1,1991,FALSE
+"1088","Nepal",790,"Southern Asia","Asia","Birendra Bir Bikram Shah Deva",1,"Democracy",0,1989,1,1990,FALSE
+"1089","Nepal",790,"Southern Asia","Asia","Birendra Bir Bikram Shah Deva",1,"Non-democracy",0,1989,1,1990,FALSE
+"1112","Netherlands",210,"Western Europe","Europe","Rudolphus Lubbers",4,"Democracy",0,1989,1,1993,FALSE
+"1132","Nicaragua",93,"Central America","Americas","Daniel Ortega Saavedra",1,"Democracy",0,1989,1,1990,FALSE
+"1139","Niger",436,"Western Africa","Africa","Ali Saibou",3,"Non-democracy",0,1989,1,1992,FALSE
+"1150","Nigeria",475,"Western Africa","Africa","Ibrahim Babangida",3,"Non-democracy",2,1989,1,1992,FALSE
+"1159","North Korea",731,"Eastern Asia","Asia","Kim Il Sung",4,"Non-democracy",0,1989,0,1993,FALSE
+"1179","Oman",698,"Western Asia","Asia","Qabus ibn Sa'id",19,"Non-democracy",0,1989,0,2008,FALSE
+"1224","Papua New Guinea",910,"Melanesia","Oceania","Rabbie Namaliu",2,"Democracy",0,1989,1,1991,FALSE
+"1249","Philippines",840,"South-Eastern Asia","Asia","Corazon Aquino",2,"Democracy",1,1989,1,1991,FALSE
+"1276","Portugal",235,"Southern Europe","Europe","Anibal Cavaco Silva",5,"Democracy",1,1989,1,1994,FALSE
+"1292","Qatar",694,"Western Asia","Asia","Sheikh Khalifah ibn Hamad Al Thani",5,"Non-democracy",0,1989,1,1994,FALSE
+"1310","Rwanda",517,"Eastern Africa","Africa","Juvenal Habyarimana",4,"Non-democracy",0,1989,0,1993,FALSE
+"1312","Samoa",990,"Polynesia","Oceania","Malietoa Tanumafili II",17,"Non-democracy",0,1989,0,2006,FALSE
+"1339","Sao Tome and Principe",403,"Middle Africa","Africa","Manuel Pinto da Costa",1,"Non-democracy",0,1989,1,1990,FALSE
+"1346","Saudi Arabia",670,"Western Asia","Asia","Fahd",6,"Non-democracy",0,1989,1,1995,FALSE
+"1351","Senegal",433,"Western Africa","Africa","Abdou Diouf",10,"Non-democracy",0,1989,1,1999,FALSE
+"1365","Seychelles",591,"Eastern Africa","Africa","Albert Rene",14,"Non-democracy",0,1989,1,2003,FALSE
+"1374","Sierra Leone",451,"Western Africa","Africa","Joseph Saidu Momoh",2,"Non-democracy",1,1989,1,1991,FALSE
+"1410","Somalia",520,"Eastern Africa","Africa","Mohammed Siyad Barreh",1,"Non-democracy",1,1989,1,1990,FALSE
+"1429","South Korea",732,"Eastern Asia","Asia","Roh Tae Woo",3,"Democracy",1,1989,1,1992,FALSE
+"1434","Spain",230,"Southern Europe","Europe","Felipe Gonzalez Marquez",6,"Democracy",1,1989,1,1995,FALSE
+"1456","St. Kitts and Nevis",60,"Caribbean","Americas","Kennedy Simmonds",2,"Democracy",0,1989,1,1991,FALSE
+"1459","St. Lucia",56,"Caribbean","Americas","John Compton",6,"Democracy",0,1989,1,1995,FALSE
+"1465","St. Vincent and the Grenadines",57,"Caribbean","Americas","James Fitz-Allen Mitchell",10,"Democracy",0,1989,1,1999,FALSE
+"1485","Swaziland",572,"Southern Africa","Africa","Mswati III",19,"Non-democracy",0,1989,0,2008,FALSE
+"1492","Sweden",380,"Northern Europe","Europe","Ingvar Carlsson",1,"Democracy",0,1989,1,1990,FALSE
+"1545","Syria",652,"Western Asia","Asia","Hafez al-Assad",10,"Non-democracy",0,1989,0,1999,FALSE
+"1555","Taiwan",713,"Eastern Asia","Asia","Lee Teng-hui",6,"Non-democracy",0,1989,1,1995,FALSE
+"1564","Tanzania",510,"Eastern Africa","Africa","Ali Hassan Mwinyi",5,"Non-democracy",0,1989,1,1994,FALSE
+"1571","Thailand",800,"South-Eastern Asia","Asia","Chatichai Choonhavan",1,"Democracy",1,1989,1,1990,FALSE
+"1589","Togo",461,"Western Africa","Africa","Etienne Eyadema",15,"Non-democracy",0,1989,0,2004,FALSE
+"1594","Tonga",955,"Polynesia","Oceania","Taufa'ahau Tupou IV",16,"Non-democracy",0,1989,0,2005,FALSE
+"1595","Trinidad and Tobago",52,"Caribbean","Americas","A.N.R. Robinson",1,"Democracy",0,1989,1,1990,FALSE
+"1602","Tunisia",616,"Northern Africa","Africa","Zine al-Abidine Ben Ali",19,"Non-democracy",0,1989,0,2008,FALSE
+"1641","U.S.S.R.",365,"Eastern Europe","Europe","Mikhail Gorbachev",1,"Non-democracy",0,1989,0,1990,FALSE
+"1651","Uganda",500,"Eastern Africa","Africa","Yoweri Museveni",19,"Non-democracy",1,1989,0,2008,FALSE
+"1666","United Arab Emirates",696,"Western Asia","Asia","Sheikh Zaid ibn Sultan Al Nahayan",14,"Non-democracy",0,1989,1,2003,FALSE
+"1723","Vanuatu",935,"Melanesia","Oceania","Walter Lini",1,"Democracy",0,1989,1,1990,FALSE
+"1741","Viet Nam",816,"South-Eastern Asia","Asia","Nguyen Van Linh",1,"Non-democracy",0,1989,1,1990,FALSE
+"1743","Yemen",679,"Western Asia","Asia","Ali Abdullah Saleh",7,"Non-democracy",0,1989,0,1996,FALSE
+"1769","Zambia",551,"Eastern Africa","Africa","Kenneth Kaunda",1,"Non-democracy",0,1989,1,1990,FALSE
+"1774","Zimbabwe",552,"Eastern Africa","Africa","Robert Mugabe",19,"Non-democracy",0,1989,0,2008,FALSE
+"6100","Afghanistan",700,"Southern Asia","Asia","Mohammed Najibullah",4,"Non-democracy",0,1986,1,1989,TRUE
+"1724","Albania",339,"Southern Europe","Europe","Ramiz Alia",5,"Democracy",0,1985,1,1989,TRUE
+"1810","Albania",339,"Southern Europe","Europe","Ramiz Alia",5,"Non-democracy",0,1985,1,1989,TRUE
+"2210","Algeria",615,"Northern Africa","Africa","Benjedid Chadli",11,"Non-democracy",0,1979,1,1989,TRUE
+"3110","Angola",540,"Middle Africa","Africa","Jose Eduardo dos Santos",11,"Non-democracy",0,1979,1,1989,TRUE
+"3410","Antigua & Barbuda",58,"Caribbean","Americas","Vere Cornwall Bird",12,"Democracy",0,1978,1,1989,TRUE
+"7310","Australia",900,"Australia and New Zealand","Oceania","Robert Hawke",7,"Democracy",0,1983,1,1989,TRUE
+"8010","Austria",305,"Western Europe","Europe","Franz Vranitzky",4,"Democracy",1,1986,1,1989,TRUE
+"9210","Bahamas",31,"Caribbean","Americas","Lynden Pindling",23,"Democracy",0,1967,1,1989,TRUE
+"9410","Bahrain",692,"Western Asia","Asia","Sheikh 'Isa ibn Sulman Al Khalifah",29,"Non-democracy",0,1961,1,1989,TRUE
+"11210","Barbados",53,"Caribbean","Americas","Erskine Sandiford",3,"Democracy",0,1987,1,1989,TRUE
+"13510","Belgium",211,"Western Europe","Europe","Wilfried Martens",9,"Democracy",0,1981,1,1989,TRUE
+"14610","Benin",434,"Western Africa","Africa","Mathieu Kerekou",18,"Non-democracy",0,1972,1,1989,TRUE
+"15110","Bhutan",760,"Southern Asia","Asia","Jigme Singye Wangchuk",18,"Non-democracy",0,1972,1,1989,TRUE
+"1921","Botswana",571,"Southern Africa","Africa","Quett Masire",10,"Non-democracy",0,1980,1,1989,TRUE
+"2131","Brunei Darussalam",835,"South-Eastern Asia","Asia","Hassanal Bolkiah",23,"Non-democracy",0,1967,1,1989,TRUE
+"2271","Burkina Faso",439,"Western Africa","Africa","Blaise Compaor",3,"Non-democracy",0,1987,1,1989,TRUE
+"2371","Burundi",516,"Eastern Africa","Africa","Pierre Buyoya",3,"Non-democracy",0,1987,1,1989,TRUE
+"2421","Cambodia",811,"South-Eastern Asia","Asia","Heng Samrin",9,"Non-democracy",0,1981,1,1989,TRUE
+"2431","Cambodia",811,"South-Eastern Asia","Asia","Heng Samrin",11,"Non-democracy",0,1979,1,1989,TRUE
+"2531","Cameroon",471,"Middle Africa","Africa","Paul Biya",8,"Non-democracy",0,1982,1,1989,TRUE
+"2541","Canada",20,"Northern America","Americas","Brian Mulroney",6,"Democracy",0,1984,1,1989,TRUE
+"2661","Cape Verde",402,"Western Africa","Africa","Aristides Pereira",15,"Democracy",0,1975,1,1989,TRUE
+"2671","Cape Verde",402,"Western Africa","Africa","Aristides Pereira",15,"Non-democracy",0,1975,1,1989,TRUE
+"2701","Central African Republic",482,"Middle Africa","Africa","Andre Kolingba",9,"Non-democracy",0,1981,1,1989,TRUE
+"2971","China",710,"Eastern Asia","Asia","Deng Xiaoping",12,"Non-democracy",0,1978,1,1989,TRUE
+"3391","Congo (Brazzaville, Republic of Congo)",484,"Middle Africa","Africa","Denis Sassou-Nguesso",11,"Non-democracy",1,1979,1,1989,TRUE
+"3611","Cote d'Ivoire",437,"Western Africa","Africa","Felix Houphouet-Boigny",31,"Non-democracy",0,1959,1,1989,TRUE
+"3711","Cuba",40,"Caribbean","Americas","Fidel Castro Ruz",25,"Non-democracy",1,1965,1,1989,TRUE
+"3781","Cyprus",352,"Western Asia","Asia","George Vassiliou",2,"Democracy",0,1988,1,1989,TRUE
+"4011","Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",490,"Middle Africa","Africa","Mobutu Sese Seko",25,"Non-democracy",0,1965,1,1989,TRUE
+"4151","Denmark",390,"Northern Europe","Europe","Poul Schluter",8,"Democracy",0,1982,1,1989,TRUE
+"4171","Djibouti",522,"Eastern Africa","Africa","Hassan Gouled Aptidon",13,"Non-democracy",0,1977,1,1989,TRUE
+"4201","Dominica",54,"Caribbean","Americas","Eugenia Charles",10,"Democracy",0,1980,1,1989,TRUE
+"4281","Dominican Republic",42,"Caribbean","Americas","Joaquin Balaguer",4,"Democracy",0,1986,1,1989,TRUE
+"4631","Ecuador",130,"South America","Americas","Rodrigo Borja Cevallos",2,"Democracy",2,1988,1,1989,TRUE
+"4681","Egypt",651,"Northern Africa","Africa","Hosni Mubarak",9,"Non-democracy",0,1981,1,1989,TRUE
+"4901","Equatorial Guinea",411,"Middle Africa","Africa","Teodoro Obiang Nguema Mbasogo",11,"Non-democracy",0,1979,1,1989,TRUE
+"5041","Ethiopia",530,"Eastern Africa","Africa","Mengistu Haile Mariam",13,"Non-democracy",0,1977,1,1989,TRUE
+"5151","Finland",375,"Northern Europe","Europe","Harri Holkeri",3,"Democracy",0,1987,1,1989,TRUE
+"5591","France",220,"Western Europe","Europe","Michel Rocard",2,"Democracy",0,1988,1,1989,TRUE
+"5671","Gabon",481,"Middle Africa","Africa","Albert-Bernard Bongo",23,"Non-democracy",0,1967,1,1989,TRUE
+"5701","Gambia",420,"Western Africa","Africa","Dauda Jawara",28,"Non-democracy",0,1962,1,1989,TRUE
+"5961","Ghana",452,"Western Africa","Africa","Jerry Rawlings",9,"Non-democracy",2,1981,1,1989,TRUE
+"6411","Guatemala",90,"Central America","Americas","Marco Vinicio Cerezo Arevalo",4,"Democracy",3,1986,1,1989,TRUE
+"6471","Guinea",438,"Western Africa","Africa","Lansana Conte",6,"Non-democracy",0,1984,1,1989,TRUE
+"6541","Guinea-Bissau",404,"Western Africa","Africa","Joao Vieira",10,"Non-democracy",0,1980,1,1989,TRUE
+"6611","Guyana",110,"South America","Americas","Desmond Hoyte",5,"Non-democracy",0,1985,1,1989,TRUE
+"7231","Iceland",395,"Northern Europe","Europe","Steingrimur Hermannsson",2,"Democracy",0,1988,1,1989,TRUE
+"7441","Indonesia",850,"South-Eastern Asia","Asia","Suharto",24,"Non-democracy",0,1966,1,1989,TRUE
+"7571","Iraq",645,"Western Asia","Asia","Saddam Hussein",11,"Non-democracy",0,1979,1,1989,TRUE
+"7621","Ireland",205,"Northern Europe","Europe","Charles Haughey",3,"Democracy",0,1987,1,1989,TRUE
+"7881","Israel",666,"Western Asia","Asia","Yitzhak Shamir",4,"Democracy",0,1986,1,1989,TRUE
+"8541","Jordan",663,"Western Asia","Asia","Hussein bin Talal",38,"Non-democracy",0,1952,1,1989,TRUE
+"8581","Kenya",501,"Eastern Africa","Africa","Daniel Arap Moi",12,"Non-democracy",0,1978,1,1989,TRUE
+"8631","Kiribati",946,"Micronesia","Oceania","Ieremia Tabai",7,"Democracy",0,1983,1,1989,TRUE
+"8681","Kuwait",690,"Western Asia","Asia","Sheikh Jabir Al Ahmad Al Jabir Al Sabah",13,"Non-democracy",0,1977,1,1989,TRUE
+"8761","Laos",812,"South-Eastern Asia","Asia","Kaysone Phomvihan",15,"Non-democracy",1,1975,1,1989,TRUE
+"9181","Lesotho",570,"Southern Africa","Africa","Justin Metsino Lekhanya",4,"Non-democracy",0,1986,1,1989,TRUE
+"9351","Libyan Arab Jamahiriya",620,"Northern Africa","Africa","Muammar al-Qaddafi",21,"Non-democracy",0,1969,1,1989,TRUE
+"9391","Liechtenstein",223,"Western Europe","Europe","Hans Brunhart",12,"Democracy",0,1978,1,1989,TRUE
+"9521","Luxembourg",212,"Western Europe","Europe","Jacques Santer",6,"Democracy",0,1984,1,1989,TRUE
+"9661","Madagascar",580,"Eastern Africa","Africa","Didier Ratsiraka",15,"Non-democracy",0,1975,1,1989,TRUE
+"9771","Malawi",553,"Eastern Africa","Africa","H. Kamuzu Banda",27,"Non-democracy",0,1963,1,1989,TRUE
+"9801","Malaysia",820,"South-Eastern Asia","Asia","Mahathir bin Mohamed",9,"Non-democracy",0,1981,1,1989,TRUE
+"9851","Maldives",781,"Southern Asia","Asia","Maumoon Abdul Gayoom",12,"Non-democracy",0,1978,1,1989,TRUE
+"9951","Mali",432,"Western Africa","Africa","Moussa Traore",22,"Non-democracy",0,1968,1,1989,TRUE
+"10021","Malta",338,"Southern Europe","Europe","Eddie Fenech Adami",3,"Democracy",0,1987,1,1989,TRUE
+"10051","Marshall Islands",983,"Micronesia","Oceania","Amata Kabua",11,"Democracy",0,1979,1,1989,TRUE
+"10121","Mauritania",435,"Western Africa","Africa","Moaouya Ould Sidi Ahmed Taya",6,"Non-democracy",0,1984,1,1989,TRUE
+"10191","Mauritius",590,"Eastern Africa","Africa","Anerood Jugnauth",8,"Democracy",0,1982,1,1989,TRUE
+"10261","Mexico",70,"Central America","Americas","Carlos Salinas de Gortari",2,"Non-democracy",0,1988,1,1989,TRUE
+"10601","Morocco",600,"Northern Africa","Africa","Hassan II",29,"Non-democracy",0,1961,1,1989,TRUE
+"10641","Mozambique",541,"Eastern Africa","Africa","Joaquim Chissano",4,"Non-democracy",0,1986,1,1989,TRUE
+"10661","Myanmar",775,"South-Eastern Asia","Asia","Khin Nyunt",2,"Non-democracy",2,1988,1,1989,TRUE
+"10881","Nepal",790,"Southern Asia","Asia","Birendra Bir Bikram Shah Deva",18,"Democracy",0,1972,1,1989,TRUE
+"10891","Nepal",790,"Southern Asia","Asia","Birendra Bir Bikram Shah Deva",18,"Non-democracy",0,1972,1,1989,TRUE
+"11121","Netherlands",210,"Western Europe","Europe","Rudolphus Lubbers",8,"Democracy",0,1982,1,1989,TRUE
+"11321","Nicaragua",93,"Central America","Americas","Daniel Ortega Saavedra",5,"Democracy",0,1985,1,1989,TRUE
+"11391","Niger",436,"Western Africa","Africa","Ali Saibou",3,"Non-democracy",0,1987,1,1989,TRUE
+"11501","Nigeria",475,"Western Africa","Africa","Ibrahim Babangida",5,"Non-democracy",2,1985,1,1989,TRUE
+"11591","North Korea",731,"Eastern Asia","Asia","Kim Il Sung",42,"Non-democracy",0,1948,1,1989,TRUE
+"11791","Oman",698,"Western Asia","Asia","Qabus ibn Sa'id",20,"Non-democracy",0,1970,1,1989,TRUE
+"12241","Papua New Guinea",910,"Melanesia","Oceania","Rabbie Namaliu",2,"Democracy",0,1988,1,1989,TRUE
+"12491","Philippines",840,"South-Eastern Asia","Asia","Corazon Aquino",4,"Democracy",1,1986,1,1989,TRUE
+"12761","Portugal",235,"Southern Europe","Europe","Anibal Cavaco Silva",5,"Democracy",1,1985,1,1989,TRUE
+"12921","Qatar",694,"Western Asia","Asia","Sheikh Khalifah ibn Hamad Al Thani",18,"Non-democracy",0,1972,1,1989,TRUE
+"13101","Rwanda",517,"Eastern Africa","Africa","Juvenal Habyarimana",17,"Non-democracy",0,1973,1,1989,TRUE
+"13121","Samoa",990,"Polynesia","Oceania","Malietoa Tanumafili II",27,"Non-democracy",0,1963,1,1989,TRUE
+"13391","Sao Tome and Principe",403,"Middle Africa","Africa","Manuel Pinto da Costa",15,"Non-democracy",0,1975,1,1989,TRUE
+"13461","Saudi Arabia",670,"Western Asia","Asia","Fahd",8,"Non-democracy",0,1982,1,1989,TRUE
+"13511","Senegal",433,"Western Africa","Africa","Abdou Diouf",9,"Non-democracy",0,1981,1,1989,TRUE
+"13651","Seychelles",591,"Eastern Africa","Africa","Albert Rene",13,"Non-democracy",0,1977,1,1989,TRUE
+"13741","Sierra Leone",451,"Western Africa","Africa","Joseph Saidu Momoh",5,"Non-democracy",1,1985,1,1989,TRUE
+"14101","Somalia",520,"Eastern Africa","Africa","Mohammed Siyad Barreh",21,"Non-democracy",1,1969,1,1989,TRUE
+"14291","South Korea",732,"Eastern Asia","Asia","Roh Tae Woo",2,"Democracy",1,1988,1,1989,TRUE
+"14341","Spain",230,"Southern Europe","Europe","Felipe Gonzalez Marquez",8,"Democracy",1,1982,1,1989,TRUE
+"14561","St. Kitts and Nevis",60,"Caribbean","Americas","Kennedy Simmonds",10,"Democracy",0,1980,1,1989,TRUE
+"14591","St. Lucia",56,"Caribbean","Americas","John Compton",8,"Democracy",0,1982,1,1989,TRUE
+"14651","St. Vincent and the Grenadines",57,"Caribbean","Americas","James Fitz-Allen Mitchell",6,"Democracy",0,1984,1,1989,TRUE
+"14851","Swaziland",572,"Southern Africa","Africa","Mswati III",4,"Non-democracy",0,1986,1,1989,TRUE
+"14921","Sweden",380,"Northern Europe","Europe","Ingvar Carlsson",4,"Democracy",0,1986,1,1989,TRUE
+"15451","Syria",652,"Western Asia","Asia","Hafez al-Assad",20,"Non-democracy",0,1970,1,1989,TRUE
+"15551","Taiwan",713,"Eastern Asia","Asia","Lee Teng-hui",2,"Non-democracy",0,1988,1,1989,TRUE
+"15641","Tanzania",510,"Eastern Africa","Africa","Ali Hassan Mwinyi",5,"Non-democracy",0,1985,1,1989,TRUE
+"15711","Thailand",800,"South-Eastern Asia","Asia","Chatichai Choonhavan",2,"Democracy",1,1988,1,1989,TRUE
+"15891","Togo",461,"Western Africa","Africa","Etienne Eyadema",23,"Non-democracy",0,1967,1,1989,TRUE
+"15941","Tonga",955,"Polynesia","Oceania","Taufa'ahau Tupou IV",25,"Non-democracy",0,1965,1,1989,TRUE
+"15951","Trinidad and Tobago",52,"Caribbean","Americas","A.N.R. Robinson",4,"Democracy",0,1986,1,1989,TRUE
+"16021","Tunisia",616,"Northern Africa","Africa","Zine al-Abidine Ben Ali",3,"Non-democracy",0,1987,1,1989,TRUE
+"16411","U.S.S.R.",365,"Eastern Europe","Europe","Mikhail Gorbachev",5,"Non-democracy",0,1985,1,1989,TRUE
+"16511","Uganda",500,"Eastern Africa","Africa","Yoweri Museveni",4,"Non-democracy",1,1986,1,1989,TRUE
+"16661","United Arab Emirates",696,"Western Asia","Asia","Sheikh Zaid ibn Sultan Al Nahayan",19,"Non-democracy",0,1971,1,1989,TRUE
+"17231","Vanuatu",935,"Melanesia","Oceania","Walter Lini",11,"Democracy",0,1979,1,1989,TRUE
+"17411","Viet Nam",816,"South-Eastern Asia","Asia","Nguyen Van Linh",4,"Non-democracy",0,1986,1,1989,TRUE
+"17431","Yemen",679,"Western Asia","Asia","Ali Abdullah Saleh",12,"Non-democracy",0,1978,1,1989,TRUE
+"17691","Zambia",551,"Eastern Africa","Africa","Kenneth Kaunda",26,"Non-democracy",0,1964,1,1989,TRUE
+"17741","Zimbabwe",552,"Eastern Africa","Africa","Robert Mugabe",10,"Non-democracy",0,1980,1,1989,TRUE
