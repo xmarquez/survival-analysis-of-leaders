@@ -15,31 +15,85 @@ dd$regime <- factor(dd$regime,labels=c("Parliamentary Dem","Mixed Dem","Presiden
 dd$regime2 <- factor(dd$regime2,labels=c("Democracy","Civilian Dict","Military Dict","Monarchy"))
 dd$comm <- factor(dd$comm,labels=c("Non-communist","Communist"))
 
-#fill in the missing dates of entry of leaders
-dd <- ddply(dd,.(ctryname,ehead,tenure08),transform,edate3 = min(edate2,na.rm=TRUE))
-#these dates have to be adjusted manually for 18 leaders; do
-#subset(dd,edate3==Inf)$ehead 
-#to see which
+#find leadership transitions; this code is slower than it needs to be, I'm sure there are better ways
+a <- 2:length(dd$ehead) #a counter variable
+b <- 1 #another counter
+leaderspellnum <- rep(1,length(dd$ehead))
+for(i in a) { 
+		if (dd$ehead[i-1] != dd$ehead[i] && dd$ctryname[i-1]==dd$ctryname[i]) 
+			{
+				b <- b + 1
+				leaderspellnum[i:length(leaderspellnum)]=b
+			}	
+		}	
+dd <- cbind(dd,leaderspellnum)
 
-#set up the censoring variable properly
-dd <- ddply(dd,.(ctryname,ehead,tenure08),transform,ecens2 = min(ecens08,na.rm=TRUE))
+#fill in the missing dates of entry of leaders and adjust tenure
+#dd <- ddply(dd,.(ctryname,ehead,tenure08),transform,edate3 = min(edate2,na.rm=TRUE))
+library(plyr)
+#Create a "leader spell" identifier for each leader/democracy/entry date triad
+dd <- ddply(dd,.(leaderspellnum,democracy),transform,leaderspelldem = paste(ehead,ctryname,min(year),democracy,sep="."))
+dd <- dd[ order(dd$order), ]
 
-#generate regime tenure variable
-dd2 <- ddply(dd,.(ctryname,ehead,regime2,edate3),transform,regtenure = length(regime2))
+#Create a new tenure variable for the democratic leader spell
+dd <- ddply(dd,.(leaderspelldem),transform,tenuredem = length(year))
+dd <- dd[ order(dd$order), ]
 
-#drop uneeded variables; we keep one code (cowcode)
+
+#Add a variable for the entry date of the leader spell
+dd <- ddply(dd,.(leaderspelldem),transform,edatedem = min(year))
+dd <- dd[ order(dd$order), ]
+
+# There are 173 cases where the tenure variable created in this way differs from tenure08;
+# use unique(subset(dd,tenure08 != tenuredem)$leaderspelldem) to see them. Many of these are cases of 
+# "left censoring" - the leader enters into the dataset after 1946 already in power. To fix those cases, 
+# we do the following:
+
+dd <- ddply(dd,.(leaderspelldem),transform,edate2 = min(edate2,na.rm=TRUE))
+dd <- transform(dd, edate2 = ifelse(edate2 == Inf, edatedem, edate2))
+dd <- dd[ order(dd$order), ]
+dd <- transform(dd,edate2 = ifelse(leaderspelldem == "Sukarno.Indonesia.1949.Non-democracy",1946,edate2)) #Manually adjust Sukarno
+
+dd <- transform(dd, tenuredemadj = ifelse(edate2 < entryy ,tenure08, tenuredem)) 
+
+#Create a "leader spell" identifier for each leader/regime/entry date triad
+dd <- ddply(dd,.(leaderspellnum,regime),transform,leaderspellreg = paste(ehead,ctryname,min(year),regime,sep="."))
+dd <- dd[ order(dd$order), ]
+
+#Same thing for regime2
+dd <- ddply(dd,.(leaderspellnum,regime2),transform,leaderspellreg2 = paste(ehead,ctryname,min(year),regime2,sep="."))
+dd <- dd[ order(dd$order), ]
+
+#Create tenure variables for leader spells per regime
+dd <- ddply(dd,.(leaderspellreg),transform,tenurereg = length(year))
+dd <- dd[ order(dd$order), ]
+
+#Create left-censoring indicator
+dd <- transform(dd, leftcensored = ifelse(edate2 < entryy,TRUE, FALSE)) 
+
+dd <- ddply(dd,.(leaderspellreg2),transform,tenurereg2 = length(year))
+dd <- dd[ order(dd$order), ]
+
+#Add a variable for the entry date of the leader spell for each regime type
+dd <- ddply(dd,.(leaderspellreg),transform,edatereg = min(year))
+dd <- dd[ order(dd$order), ]
+
+dd <- ddply(dd,.(leaderspellreg2),transform,edatereg2 = min(year))
+dd <- dd[ order(dd$order), ]
+
+#drop uneeded variables; we keep two codes (cowcode,politycode)
 dd <- dd[,c(1:3,5,26,28,58,62,63,67,70,79,80,81,83)]
 
-#Now we use reshape to get the data in the right format
-library(reshape)
-ddmelted <- melt(dd,id=c(1:14))
-ddsurvival <- cast(ddmelted, ctryname + cowcode + un_region_name + un_continent_name + ehead + tenure08 + democracy + stra + edate3 ~ variable,min)
-ddsurvival <- transform(ddsurvival,enddate = edate3+tenure08-1)
+#set up the right-censoring indicator
+dd <- ddply(dd,.(leaderspelldem),transform,rightcensdem = min(ecens08,na.rm=TRUE))
+dd <- ddply(dd,.(leaderspellreg),transform,rightcensreg = min(ecens08,na.rm=TRUE))
 
-dd2 <- dd2[,c(1:3,5,26,28,58,62,63,67,70,79,80,81,83,84)]
-dd2melted <- melt(dd2,id=c(1:14,16))
-ddsurvival2 <- cast(dd2melted, ctryname + cowcode + un_region_name + un_continent_name + ehead + regime2 + regtenure + stra + edate3 ~ variable,min)
-ddsurvival2 <- transform(ddsurvival2,enddate = edate3+tenure08-1)
+#Now we create the sample files
+ddsurvival <- dd[,c(2,5,26,28,58,67,81,82,84,91,92,93)]
+ddsurvival <- unique(ddsurvival)
+
+ddsurvival2 <- dd[,c(2,5,26,28,58,67,85,87,89,92,94)]
+ddsurvival2 <- unique(ddsurvival2)
 
 write.csv(ddsurvival,"ddsurvival.csv")
 write.csv(ddsurvival2,"ddsurvival2.csv")
@@ -47,18 +101,23 @@ write.csv(ddsurvival2,"ddsurvival2.csv")
 #to create ddcoldwar.csv, we need to split the cases that "straddle" 1989, which we take as the end of the cold war. 
 #There is probably a much easier and faster way to do this
 
-ddsurvivalcw1 <- subset(ddsurvival,enddate <= 1989)
-ddsurvivalcw2 <- subset(ddsurvival,edate3 > 1989)
+#create enddates
+
+dd <- transform(dd, enddate = edate2 + tenuredemadj - 1)
+ddsurvival3 <- dd[,c(2,5,26,28,58,61,95,67,81,82,91,92,93)]
+ddsurvival3 <- unique(ddsurvival3)
+ddsurvivalcw1 <- subset(ddsurvival3,enddate <= 1989)
+ddsurvivalcw2 <- subset(ddsurvival3,edate2 > 1989)
 ddsurvivalcw1 <- transform(ddsurvivalcw1,coldwar=TRUE)
 ddsurvivalcw2 <- transform(ddsurvivalcw2,coldwar=FALSE)
-a <- subset(ddsurvival,enddate > 1989)
-b <- subset(a,edate3 < 1989)
+a <- subset(ddsurvival3,enddate > 1989)
+b <- subset(a,edate2 < 1989)
 a <- b
 a <- transform(a,enddate=1989)
-a <- transform(a,tenure08=enddate-edate3+1)
+a <- transform(a,tenuredemadj = enddate - edate2 + 1)
 a <- transform(a,coldwar=TRUE)
-b <- transform(b,edate3=1989)
-b <- transform(b,tenure08=enddate-edate3)
+b <- transform(b,edate2=1989)
+b <- transform(b,tenuredemadj = enddate - edate2)
 b <- transform(b, coldwar=FALSE)
 
 ddcoldwar <- rbind(ddsurvivalcw1,ddsurvivalcw2,a,b)
