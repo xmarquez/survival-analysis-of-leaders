@@ -20,59 +20,72 @@ a <- 2:length(dd$ehead) #a counter variable
 b <- 1 #another counter
 leaderspellnum <- rep(1,length(dd$ehead))
 for(i in a) { 
-		if (dd$ehead[i-1] != dd$ehead[i] && dd$ctryname[i-1]==dd$ctryname[i]) 
+		if (dd$ehead[i-1] != dd$ehead[i]) 
 			{
 				b <- b + 1
-				leaderspellnum[i:length(leaderspellnum)]=b
+				leaderspellnum[i:length(leaderspellnum)]<-b
 			}	
 		}	
 dd <- cbind(dd,leaderspellnum)
 
-#fill in the missing dates of entry of leaders and adjust tenure
+#find regime transitions
+a <- 2:length(dd$regime) #a counter variable
+b <- 1 #another counter
+regimespellnum <- rep(1,length(dd$regime))
+for(i in a) { 
+	if (dd$regime[i-1] != dd$regime[i] || dd$ctryname[i-1]!=dd$ctryname[i]) {
+		b <- b + 1
+		regimespellnum[i:length(regimespellnum)]<-b
+		}
+	}
+dd <- cbind(dd,regimespellnum)
+	
+#find democracy transitions
+a <- 2:length(dd$democracy) #a counter variable
+b <- 1 #another counter
+democracyspellnum <- rep(1,length(dd$democracy))
+for(i in a) { 
+	if (dd$democracy[i-1] != dd$democracy[i] || dd$ctryname[i-1]!=dd$ctryname[i]) {
+		b <- b + 1
+		democracyspellnum[i:length(democracyspellnum)]<-b
+		}
+	}
+dd <- cbind(dd,democracyspellnum)
 
+#fill in the missing dates of entry of leaders and adjust tenure
 library(plyr)
 #Create a "leader spell" identifier for each leader/democracy/entry date triad
-dd <- ddply(dd,.(leaderspellnum,democracy),transform,leaderspelldem = paste(ehead,ctryname,min(year),democracy,sep="."))
+dd <- ddply(dd,.(leaderspellnum,democracy,ctryname),transform,leaderspelldem = paste(ehead,ctryname,min(year),max(year),democracy,sep="."))
+dd <- dd[ order(dd$order), ]
+
+#Add a variable for the end date of the leader spell
+dd <- ddply(dd,.(leaderspelldem),transform,enddateleaderdem = max(year))
+dd <- dd[ order(dd$order), ]
+
+#Add a variable for the beginning date of the leader spell
+dd <- ddply(dd,.(leaderspelldem),transform,begindateleaderdem = ifelse(enddateleaderdem-tenure08+1 < entryy, enddateleaderdem-tenure08+1, min(year)))
 dd <- dd[ order(dd$order), ]
 
 #Create a new tenure variable for the democratic leader spell
-dd <- ddply(dd,.(leaderspelldem),transform,tenuredem = length(year))
-dd <- dd[ order(dd$order), ]
-
-
-#Add a variable for the entry date of the leader spell
-dd <- ddply(dd,.(leaderspelldem),transform,edatedem = min(year))
-dd <- dd[ order(dd$order), ]
-
-# There are 173 cases where the tenure variable created in this way differs from tenure08;
-# use unique(subset(dd,tenure08 != tenuredem)$leaderspelldem) to see them. Many of these are cases of 
-# "left censoring" - the leader enters into the dataset after 1946 already in power. To fix those cases, 
-# we do the following:
-
-dd <- ddply(dd,.(leaderspelldem),transform,edate2 = min(edate2,na.rm=TRUE))
-dd <- transform(dd, edate2 = ifelse(edate2 == Inf, edatedem, edate2))
-dd <- dd[ order(dd$order), ]
-dd <- transform(dd,edate2 = ifelse(leaderspelldem == "Sukarno.Indonesia.1949.Non-democracy",1946,edate2)) #Manually adjust Sukarno
-
-dd <- transform(dd, tenuredemadj = ifelse(edate2 < entryy ,tenure08, tenuredem)) 
+dd <- transform(dd, tenuredem = enddateleaderdem - begindateleaderdem + 1)
 
 #Create a "leader spell" identifier for each leader/regime/entry date triad
-dd <- ddply(dd,.(leaderspellnum,regime),transform,leaderspellreg = paste(ehead,ctryname,min(year),regime,sep="."))
+dd <- ddply(dd,.(leaderspellnum,regime,ctryname),transform,leaderspellreg = paste(ehead,ctryname,min(year),max(year),regime,sep="."))
 dd <- dd[ order(dd$order), ]
 
 #Same thing for regime2
-dd <- ddply(dd,.(leaderspellnum,regime2),transform,leaderspellreg2 = paste(ehead,ctryname,min(year),regime2,sep="."))
+dd <- ddply(dd,.(leaderspellnum,regime2,ctryname),transform,leaderspellreg2 = paste(ehead,ctryname,min(year),max(year),regime2,sep="."))
 dd <- dd[ order(dd$order), ]
 
 #Create tenure variables for leader spells per regime
 dd <- ddply(dd,.(leaderspellreg),transform,tenurereg = length(year))
 dd <- dd[ order(dd$order), ]
 
-#Create left-censoring indicator
-dd <- transform(dd, leftcensored = ifelse(edate2 < entryy,TRUE, FALSE)) 
-
 dd <- ddply(dd,.(leaderspellreg2),transform,tenurereg2 = length(year))
 dd <- dd[ order(dd$order), ]
+
+#Create left-censoring indicator
+dd <- transform(dd, leftcensored = ifelse(edate2 < entryy,TRUE, FALSE)) 
 
 #Add a variable for the entry date of the leader spell for each regime type
 dd <- ddply(dd,.(leaderspellreg),transform,edatereg = min(year))
@@ -81,19 +94,21 @@ dd <- dd[ order(dd$order), ]
 dd <- ddply(dd,.(leaderspellreg2),transform,edatereg2 = min(year))
 dd <- dd[ order(dd$order), ]
 
-#drop uneeded variables; we keep two codes (cowcode,politycode)
-dd <- dd[,c(1:3,5,26,28,58,62,63,67,70,79,80,81,83)]
-
 #set up the right-censoring indicator
 dd <- ddply(dd,.(leaderspelldem),transform,rightcensdem = min(ecens08,na.rm=TRUE))
 dd <- ddply(dd,.(leaderspellreg),transform,rightcensreg = min(ecens08,na.rm=TRUE))
+dd <- dd[ order(dd$order), ]
 
 #Now we create the sample files
-ddsurvival <- dd[,c(2,5,26,28,58,67,81,82,84,91,92,93)]
-ddsurvival <- unique(ddsurvival)
+ddsurvival.cols <- c("ctryname","cowcode2","politycode","un_region_name","un_continent_name",
+					"ehead","democracy","begindateleaderdem","enddateleaderdem","tenuredem","rightcensdem")
+ddsurvival <- unique(dd[,ddsurvival.cols])
+rownames(ddsurvival) <- 1:nrow(ddsurvival)
 
-ddsurvival2 <- dd[,c(2,5,26,28,58,67,85,87,89,92,94)]
-ddsurvival2 <- unique(ddsurvival2)
+ddsurvival2.cols <- c("ctryname","cowcode2","politycode","un_region_name","un_continent_name",
+					"ehead","leaderspellreg","democracy","regime","edatereg","tenurereg","rightcensreg")
+ddsurvival2 <- unique(dd[,ddsurvival2.cols])
+rownames(ddsurvival2) <- 1:nrow(ddsurvival2)
 
 write.csv(ddsurvival,"ddsurvival.csv")
 write.csv(ddsurvival2,"ddsurvival2.csv")
@@ -101,25 +116,25 @@ write.csv(ddsurvival2,"ddsurvival2.csv")
 #to create ddcoldwar.csv, we need to split the cases that "straddle" 1989, which we take as the end of the cold war. 
 #There is probably a much easier and faster way to do this
 
-#create enddates
+ddcoldwar.cols <- c("ctryname","cowcode2","politycode","un_region_name","un_continent_name",
+					"ehead","democracy","leaderspelldem","begindateleaderdem","enddateleaderdem","tenuredem","rightcensdem")
+ddsurvival3 <- unique(dd[,ddcoldwar.cols])
 
-dd <- transform(dd, enddate = edate2 + tenuredemadj - 1)
-ddsurvival3 <- dd[,c(2,5,26,28,58,61,95,67,81,82,91,92,93)]
-ddsurvival3 <- unique(ddsurvival3)
-ddsurvivalcw1 <- subset(ddsurvival3,enddate <= 1989)
-ddsurvivalcw2 <- subset(ddsurvival3,edate2 > 1989)
-ddsurvivalcw1 <- transform(ddsurvivalcw1,coldwar=TRUE)
-ddsurvivalcw2 <- transform(ddsurvivalcw2,coldwar=FALSE)
-a <- subset(ddsurvival3,enddate > 1989)
-b <- subset(a,edate2 < 1989)
-a <- b
-a <- transform(a,enddate=1989)
-a <- transform(a,tenuredemadj = enddate - edate2 + 1)
-a <- transform(a,coldwar=TRUE)
-b <- transform(b,edate2=1989)
-b <- transform(b,tenuredemadj = enddate - edate2)
-b <- transform(b, coldwar=FALSE)
+ddsurvival.coldwar <- subset(ddsurvival3,enddateleaderdem <= 1989 & begindateleaderdem > 1945)
+ddsurvival.notcoldwar <- subset(ddsurvival3,begindateleaderdem >= 1989)
+ddsurvival.coldwar <- transform(ddsurvival.coldwar,coldwar=TRUE)
+ddsurvival.notcoldwar <- transform(ddsurvival.notcoldwar,coldwar=FALSE)
+straddle.1989 <- subset(ddsurvival3,enddateleaderdem > 1989 & begindateleaderdem < 1989)
+straddle.1945 <- subset(ddsurvival3,enddateleaderdem > 1945 & begindateleaderdem < 1946)
 
-ddcoldwar <- rbind(ddsurvivalcw1,ddsurvivalcw2,a,b)
+before.1989 <- transform(straddle.1989,enddateleaderdem=1989, tenuredem = 1989 - begindateleaderdem + 1, coldwar=TRUE)
+after.1989 <- transform(straddle.1989,begindateleaderdem=1990, tenuredem = enddateleaderdem - 1989, coldwar=FALSE)
+
+before.1945 <- transform(straddle.1945,enddateleaderdem=1945, tenuredem = 1945 - begindateleaderdem + 1, coldwar=FALSE)
+after.1945 <- transform(straddle.1945,begindateleaderdem=1946, tenuredem = enddateleaderdem - 1945, coldwar=TRUE)
+
+ddcoldwar <- rbind(ddsurvival.coldwar,ddsurvival.notcoldwar,before.1945,after.1945,before.1989,after.1989)
+ddcoldwar <- ddcoldwar[ order(ddcoldwar$ctryname,ddcoldwar$begindateleaderdem), ]
+rownames(ddcoldwar) <- 1:nrow(ddcoldwar)
 
 write.csv(ddcoldwar,"ddcoldwar.csv")
